@@ -1,0 +1,38 @@
+Name	Taste	Smiles	Reference
+Sodium N-(6-propylpyridin-2-yl)sulfamate	Salt	CCCc1cccc(NS(=O)(=O)[O-])n1.[Na+]	ChemTasteDB
+Sodium N-[5-(trifluoromethyl)-1,3,4-thiadiazol-2-yl]sulfamate	Salt	O=S(=O)([O-])Nc1nnc(C(F)(F)F)s1.[Na+]	ChemTasteDB
+Magnesium sulfate	Salt	O=S(=O)([O-])[O-].[Mg+2]	ChemTasteDB
+Sodium sulfate	Salt	O=S(=O)([O-])[O-].[Na+].[Na+]	ChemTasteDB
+Monosodium L-glutamate (MSG)	Salt	NC(CCC(=O)O)C(=O)[O-].[Na+]	ChemTasteDB
+Ammonium chloride	Salt	[Cl-].[NH4+]	ChemTasteDB
+Disodium N,N-disulfonatopentan-1-amine	Salt	CCCCCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+Lithium chloride	Salt	[Cl-].[Li+]	ChemTasteDB
+L-Ornithyltaurine	Salt	NCCCC(N)C(=O)NCCS(=O)(=O)O	ChemTasteDB
+L-Ornithyl-γ-aminobutyric acid	Salt	NCCCC(N)C(=O)NCCCC(=O)O	ChemTasteDB
+Lys-Tau.HCl	Salt	Cl.NCCCCC(N)C(=O)NCCS(=O)(=O)O	ChemTasteDB
+N-(5-methylheptyl)imidodisulfuric acid disodium salt	Salt	CCC(C)CCCCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+Orn-Tau.HCl	Salt	Cl.NCCCC(N)C(=O)NCCS(=O)(=O)O	ChemTasteDB
+Orn-βAla.HCl	Salt	Cl.NCCCC(N)C(=O)NCCC(=O)O	ChemTasteDB
+Orn-γAbu.HCl	Salt	Cl.NCCCC(N)C(=O)NCCCC(=O)O	ChemTasteDB
+Cefazolin sodium salt	Salt	Cc1nnc(SCC2=C(C(=O)[O-])N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1.[Na+]	ChemTasteDB
+L-Glutamic acid	Salt	NC(CCC(=O)O)C(=O)O	ChemTasteDB
+L-Ornithylglycine	Salt	NCCCC(N)C(=O)NCC(=O)O	ChemTasteDB
+L-Ornithyl-β-Alanine	Salt	NCCCC(N)C(=O)NCCC(=O)O	ChemTasteDB
+Sodium aspartate	Salt	NC(CC(=O)[O-])C(=O)O.[Na+]	ChemTasteDB
+Strontium bromide	Salt	[Br-].[Br-].[Sr+2]	ChemTasteDB
+Sodium Chloride	Salt	[Cl-].[Na+]	
+Potassium Chloride	Salt	[Cl-].[K+]	
+Calcium Chloride	Salt	[Ca+2].[Cl-].[Cl-]	
+Magnesium Chloride	Salt	[Cl-].[Cl-].[Mg+2]	
+Barium Chloride	Salt	[Ba+2].[Cl-].[Cl-]	
+Sodium Bromide	Salt	[Br-].[Na+]	
+Potassium Bromide	Salt	[Br-].[K+]	
+Sodium Iodide	Salt	[I-].[Na+]	
+Potassium Iodide	Salt	[I-].[K+]	
+Sodium Fluoride	Salt	[F-].[Na+]	
+Potassium fluoride	Salt	[F-].[K+]	
+Potassium Nitrate	Salt	O=[N+]([O-])[O-].[K+]	
+Sodium Nitrate	Salt	O=[N+]([O-])[O-].[Na+]	
+Sodium nitrite	Salt	O=N[O-].[Na+]	
+Potassium nitrite	Salt	O=N[O-].[K+]	
+Sodium peroxide	Salt	[Na+].[Na+].[O-][O-]	

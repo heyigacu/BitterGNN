@@ -1,0 +1,76 @@
+Name	Taste	Smiles	Reference
+Sodium N-(4-bromo-3-methylphenyl)sulfamate	Sour	Cc1cc(NS(=O)(=O)[O-])ccc1Br.[Na+]	ChemTasteDB
+Picric acid	Sour	O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1	ChemTasteDB
+3-Chloro-4-morpholinophenylsulfamic acid sodium salt	Sour	O=S(=O)([O-])Nc1ccc(N2CCOCC2)c(Cl)c1.[Na+]	ChemTasteDB
+Adipic acid	Sour	O=C(O)CCCCC(=O)O	ChemTasteDB
+Ascorbic acid	Sour	O=C1OC(C(O)CO)C(O)=C1O	ChemTasteDB
+Benzoic acid	Sour	O=C(O)c1ccccc1	ChemTasteDB
+Carbonic acid	Sour	O=C(O)O	ChemTasteDB
+Citric acid	Sour	O=C(O)CC(O)(CC(=O)O)C(=O)O	ChemTasteDB
+Formic acid	Sour	O=CO	ChemTasteDB
+Lactic acid	Sour	CC(O)C(=O)O	ChemTasteDB
+Malic acid	Sour	O=C(O)CC(O)C(=O)O	ChemTasteDB
+N-(1-methylhexyl)imidodisulfuric acid disodium salt	Sour	CCCCCC(C)N(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-(1-methyloctyl)imidodisulfuric acid disodium salt	Sour	CCCCCCCC(C)N(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-(2,2-dimethoxyethyl)imidodisulfuric acid disodium salt	Sour	COC(CN(S(=O)(=O)[O-])S(=O)(=O)[O-])OC.[Na+].[Na+]	ChemTasteDB
+N-(2-methoxyethyl)imidodisulfuric acid disodium salt	Sour	COCCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-(3-ethoxypropyl)imidodisulfuric acid disodium salt	Sour	CCOCCCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-[2-[Methyl(sodiooxysulfonyl)amino]ethyl]imidodisulfuric acid disodium salt	Sour	CN(CCN(S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+]	ChemTasteDB
+N-Isobutylimidodisulfuric acid disodium salt	Sour	CC(C)CN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-Isopropylimidodisulfuric acid disodium salt	Sour	CC(C)N(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-Propylimidodisulfuric acid disodium salt	Sour	CCCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+Oxalic acid	Sour	O=C(O)C(=O)O	ChemTasteDB
+Phosphoric acid	Sour	O=P(O)(O)O	ChemTasteDB
+Propionic acid	Sour	CCC(=O)O	ChemTasteDB
+Sodium 3-(sulfonatoamino)benzene-1-sulfonate	Sour	O=S(=O)([O-])Nc1cccc(S(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-(1,3-benzothiazol-2-yl)sulfamate	Sour	O=S(=O)([O-])Nc1nc2ccccc2s1.[Na+]	ChemTasteDB
+Sodium N-(2-acetylphenyl)sulfamate	Sour	CC(=O)c1ccccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(2-chloro-4-methylphenyl)sulfamate	Sour	Cc1ccc(NS(=O)(=O)[O-])c(Cl)c1.[Na+]	ChemTasteDB
+Sodium N-(2-fluoro-4-iodophenyl)sulfamate	Sour	O=S(=O)([O-])Nc1ccc(I)cc1F.[Na+]	ChemTasteDB
+Sodium N-(2-methoxy-5-methylphenyl)sulfamate	Sour	COc1ccc(C)cc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(4-methyl-5-propyl-1,3-thiazol-2-yl)sulfamate	Sour	CCCc1sc(NS(=O)(=O)[O-])nc1C.[Na+]	ChemTasteDB
+Sodium N-(5-benzyl-1,3,4-thiadiazol-2-yl)sulfamate	Sour	O=S(=O)([O-])Nc1nnc(Cc2ccccc2)s1.[Na+]	ChemTasteDB
+Sodium N-(5-methyl-2-nitrophenyl)sulfamate	Sour	Cc1ccc([N+](=O)[O-])c(NS(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-(5-tert-butyl-1,2-oxazol-3-yl)sulfamate	Sour	CC(C)(C)c1cc(NS(=O)(=O)[O-])no1.[Na+]	ChemTasteDB
+Sodium N-[4-(butan-2-yl)phenyl]sulfamate	Sour	CCC(C)c1ccc(NS(=O)(=O)[O-])cc1.[Na+]	ChemTasteDB
+Tartaric acid	Sour	O=C(O)C(O)C(O)C(=O)O	ChemTasteDB
+γ-Aminobutyric acid	Sour	NCCCC(=O)O	ChemTasteDB
+Benzothiazolylsulfamate derivative 107	Sour	O=S(=O)([O-])Nc1ccc2nc(S)sc2c1.[Na+]	ChemTasteDB
+D-Cysteine	Sour	NC(CS)C(=O)O	ChemTasteDB
+Glycyl-L-Ornithine	Sour	NCCCC(NC(=O)CN)C(=O)O	ChemTasteDB
+L-Glutamic acid	Sour	NC(CCC(=O)O)C(=O)O	ChemTasteDB
+Magnesium ammonium sulfate	Sour	N.N.O=S(=O)([O-])O.O=S(=O)([O-])O.[Mg+2]	ChemTasteDB
+N-(1,5-dimethylhexyl)imidodisulfuric acid disodium salt	Sour	CC(C)CCCC(C)N(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+Potassium acid oxalate	Sour	O=C([O-])C(=O)O.[K+]	ChemTasteDB
+Protocatechuic acid	Sour	O=C(O)c1ccc(O)c(O)c1	ChemTasteDB
+Salicylic acid	Sour	O=C(O)c1ccccc1O	ChemTasteDB
+Sodium (2-methyl-3-chlorophenyl)sulfamate	Sour	Cc1c(Cl)cccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(3-bromo-5-methylpyridin-2-yl)sulfamate	Sour	Cc1cnc(NS(=O)(=O)[O-])c(Br)c1.[Na+]	ChemTasteDB
+Sodium N-(4-chloro-3-nitrophenyl)sulfamate	Sour	O=[N+]([O-])c1cc(NS(=O)(=O)[O-])ccc1Cl.[Na+]	ChemTasteDB
+Sodium N-(4-methyl-3-nitrophenyl)sulfamate	Sour	Cc1ccc(NS(=O)(=O)[O-])cc1[N+](=O)[O-].[Na+]	ChemTasteDB
+Sodium N-[4-(propan-2-yl)-1,3-thiazol-2-yl]sulfamate	Sour	CC(C)c1csc(NS(=O)(=O)[O-])n1.[Na+]	ChemTasteDB
+β-Alanyl-L-Ornithine	Sour	NCCCC(NC(=O)CCN)C(=O)O	ChemTasteDB
+D-Aspartic acid	Sour	NC(CC(=O)O)C(=O)O	ChemTasteDB
+Indole-3-acetic acid	Sour	O=C(O)Cc1c[nH]c2ccccc12	FlavorDB
+acetic acid	Sour	CC(=O)O	FlavorDB
+hydroxypyruvic acid	Sour	O=C(O)C(=O)CO	FlavorDB
+Phenylacetic Acid	Sour	O=C(O)Cc1ccccc1	FlavorDB
+Pyridine	Sour	c1ccncc1	FlavorDB
+Pyruvic acid	Sour	CC(=O)C(=O)O	FlavorDB
+Succinic Acid	Sour	O=C(O)CCC(=O)O	FlavorDB
+Capric Acid	Sour	CCCCCCCCCC(=O)O	FlavorDB
+2-Ethylbutyric acid	Sour	CCC(CC)C(=O)O	FlavorDB
+Heptanoic Acid	Sour	CCCCCCC(=O)O	FlavorDB
+2-Methylbutanoic acid	Sour	CCC(C)C(=O)O	FlavorDB
+Caproic Acid	Sour	CCCCCC(=O)O	FlavorDB
+Isovaleraldehyde	Sour	CC(C)CC=O	FlavorDB
+Isovaleric acid	Sour	CC(C)CC(=O)O	FlavorDB
+Phenoxyacetic acid	Sour	O=C(O)COc1ccccc1	FlavorDB
+Diisopropyl adipate	Sour	CC(C)OC(=O)CCCCC(=O)OC(C)C	FlavorDB
+2-Isobutyl-4-methyl-1,3-dioxolane	Sour	CC(C)CC1OCC(C)O1	FlavorDB
+1,2-Ethenedicarboxylic	Sour	O=C(O)C=CC(=O)O	FlavorDB
+Isoamyl 3-(2-furan)propionate	Sour	CC(C)CCOC(=O)CCc1ccco1	FlavorDB
+Terpinyl butyrate	Sour	CCCC(=O)OC(C)(C)C1CC=C(C)CC1	FlavorDB
+2-Octenic acid	Sour	CCCCCC=CC(=O)O	FlavorDB
+Ethyl 3-mercaptobutyrate	Sour	CCOC(=O)CC(C)S	FlavorDB
+3-Hydroxy-5-methyl-2-hexanone	Sour	CC(=O)C(O)CC(C)C	FlavorDB

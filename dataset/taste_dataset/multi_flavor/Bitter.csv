@@ -1,0 +1,1762 @@
+Name	Taste	Smiles	Reference
+Acesulfame K	Bitter	CC1=CC(=O)[N-]S(=O)(=O)O1.[K+]	ChemTasteDB
+Alitame	Bitter	CC(NC(=O)C(N)CC(=O)O)C(=O)NC1C(C)(C)SC1(C)C	ChemTasteDB
+Dulcoside A	Bitter	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1OC1OC(C)C(O)C(O)C1O)C3	ChemTasteDB
+Perillartine	Bitter	C=C(C)C1CC=C(C=NO)CC1	ChemTasteDB
+Rebaudioside A	Bitter	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O)C3	ChemTasteDB
+Rebaudioside B	Bitter	C=C1CC23CCC4C(C)(C(=O)O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O)C3	ChemTasteDB
+Rebaudioside C	Bitter	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(C)C(O)C(O)C1O)C3	ChemTasteDB
+Rebaudioside D	Bitter	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1OC(CO)C(O)C(O)C1O)C3	ChemTasteDB
+Rubusoside	Bitter	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1O)C3	ChemTasteDB
+Sodium N-(2-bromo-4-methylphenyl)sulfamate	Bitter	Cc1ccc(NS(=O)(=O)[O-])c(Br)c1.[Na+]	ChemTasteDB
+Sodium N-(4-bromo-2-methylphenyl)sulfamate	Bitter	Cc1cc(Br)ccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Steviolbioside	Bitter	C=C1CC23CCC4C(C)(C(=O)O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)C3	ChemTasteDB
+Stevioside	Bitter	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)C3	ChemTasteDB
+Sucralose	Bitter	OCC1OC(OC2(CCl)OC(CCl)C(O)C2O)C(O)C(O)C1Cl	ChemTasteDB
+(-)-alpha-thujone	Bitter	CC1C(=O)CC2(C(C)C)CC12	ChemTasteDB
+(-)-Epicatechin gallate	Bitter	O=C(OC1Cc2c(O)cc(O)cc2OC1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1	ChemTasteDB
+(-)-Epigallocatechin (EGC)	Bitter	Oc1cc(O)c2c(c1)OC(c1cc(O)c(O)c(O)c1)C(O)C2	ChemTasteDB
+(-)-Parthenolide	Bitter	C=C1C(=O)OC2C1CCC(C)=CCCC1(C)OC21	ChemTasteDB
+(+)-Quercoresinoside A	Bitter	COc1cc(C2c3c(cc(OC)c(O)c3OC)CC(CO)C2COC2OC(COC(=O)c3cc(O)c(O)c(O)c3)C(O)C(O)C2O)cc(OC)c1O	ChemTasteDB
+(+)-Taxifolin	Bitter	O=C1c2c(O)cc(O)cc2OC(c2ccc(O)c(O)c2)C1O	ChemTasteDB
+(+)-Tetramethylhaematoxylin 	Bitter	COc1cc2c(cc1OC)C1c3ccc(OC)c(OC)c3OCC1(O)C2	ChemTasteDB
+(+/-) Equol	Bitter	Oc1ccc(C2COc3cc(O)ccc3C2)cc1	ChemTasteDB
+(2-methylcyclohexyl)sulfamic acid methyl ester	Bitter	COS(=O)(=O)NC1CCCCC1C	ChemTasteDB
+(2R)-3-(allylthio)-2-[(4S)-4-(allylthiomethyl)-6-formyl-3-oxo-3,4-dihydropyrrolo[1,2-a]pyrazine-2(1H)-yl]propionic acid	Bitter	C=CCSCC(C(=O)O)N1Cc2ccc(C=O)n2C(CSCC=C)C1=O	ChemTasteDB
+(2S,3R,4R,5R,6S)-2-[(2R,3S,4R,5R,6R)-4,5-Dihydroxy-2-(hydroxymethyl)-6-[[(1R,2S,6R,7S,9S,12S,13S,16S)-6-hydroxy-7,9,13-trimethyl-6-[(3S)-3-methyl-4-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybutyl]-5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icosan-16-yl]oxy]oxan-3-yl]oxy-6-methyloxane-3,4,5-triol	Bitter	CC(CCC1(O)OC2CC3C4CCC5CC(OC6OC(CO)C(OC7OC(C)C(O)C(O)C7O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+(2S,3R,4S,5S,6R)-2-[(2R,3R,4S,5S,6R)-4-hydroxy-6-(hydroxymethyl)-2-[(1R,2S,4S,5'S,6R,7S,8R,9S,12S,13S,16S,18R)-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icosane-6,2'-oxane]-16-yl]oxy-5-[(2S,3R,4S,5S)-3,4,5-trihydroxyoxan-2-yl]oxyoxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol	Bitter	CC1CCC2(OC1)OC1CC3C4CCC5CC(OC6OC(CO)C(OC7OCC(O)C(O)C7O)C(O)C6OC6OC(CO)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C1C2C	ChemTasteDB
+(2S,6S)-octahydrodipyrrolo[1,2-a;1',2'-d]pyrazine-5,10-dione, cis-cyclo(L-Pro-L-Pro)	Bitter	O=C1C2CCCN2C(=O)C2CCCN12	ChemTasteDB
+(3S,3aS,5S,7R,10E,11aS)-7-hydroxy-3,10-dimethyl-6-methylene-2-oxo-2,3,3a,4,5,6,7,8,9,11a-decahydrocyclodeca[b]furan-5-yl acetate	Bitter	C=C1C(O)CCC(C)=CC2OC(=O)C(C)C2CC1OC(C)=O	ChemTasteDB
+(4-hydroxy-5-methoxypentyl)benzol	Bitter	COCC(O)CCCc1ccccc1	ChemTasteDB
+(6-methoxy-3-propylhexyl)benzene	Bitter	CCCC(CCCOC)CCc1ccccc1	ChemTasteDB
+(E)-1-(3,6-dihydro-2H-pyran-4-yl)-N-hydroxymethanimine	Bitter	ON=CC1=CCOCC1	ChemTasteDB
+(E)-1-(3,6-dihydro-2H-thiopyran-4-yl)-N-hydroxymethanimine	Bitter	ON=CC1=CCSCC1	ChemTasteDB
+(E)-1-(5,6-dihydro-2H-pyran-3-yl)-N-hydroxymethanimine	Bitter	ON=CC1=CCCOC1	ChemTasteDB
+(E)-1-(bicyclo[2.2.2]octa-2,5-dien-2-yl)-N-hydroxymethanimine	Bitter	ON=CC1=CC2C=CC1CC2	ChemTasteDB
+(E)-1-[4-(1,2-dimethoxy-2-propanyl)-1-cyclohexen-1-yl]-N-hydroxymethanimine	Bitter	COCC(C)(OC)C1CC=C(C=NO)CC1	ChemTasteDB
+(E)-N-hydroxy-1-[5-(1-methoxyethyl)-1,4-cyclohexadien-1-yl]methanimine	Bitter	COC(C)C1=CCC=C(C=NO)C1	ChemTasteDB
+(E)-N-hydroxy-1-[5-(1-methoxyethyl)-1-cyclohexen-1-yl]methanimine	Bitter	COC(C)C1CCC=C(C=NO)C1	ChemTasteDB
+(E)-N-hydroxy-1-[5-(methoxymethyl)-1-cyclohexen-1-yl]methanimine 	Bitter	COCC1CCC=C(C=NO)C1	ChemTasteDB
+(S)-Praziquantel	Bitter	O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1	ChemTasteDB
+1&alpha,6&alpha,8&alpha-trihydroxy-5&alpha,7&betaH-guaia-3,9,11(13)-trien-12-oic acid	Bitter	C=C(C(=O)O)C1C(O)C=C(C)C2(O)CC=C(C)C2C1O	ChemTasteDB
+1',2'-Dihydroxanthohumol C	Bitter	COc1ccc(C=CC(=O)c2c(OC)cc3c(c2O)CCC(C)(C)O3)cc1	ChemTasteDB
+1',2'-Dihydroxanthohumol F	Bitter	COc1c(CC=C(C)C)c(O)c2c(c1C(=O)C=Cc1ccc(O)cc1)OC(C)(C)CC2	ChemTasteDB
+1',2'-Dihydroxanthohumol K	Bitter	COc1cc(O)c2c(c1C(=O)C=Cc1ccc(O)cc1)OC(C)(C)CC2	ChemTasteDB
+11,13-Dihydrolactucin	Bitter	CC1=C2C(=O)C=C(CO)C2C2OC(=O)C(C)C2C(O)C1	ChemTasteDB
+1-Acetoxy-2,4-dihydroxyheneicosa-12,15-diene	Bitter	CCCCCC=CCC=CCCCCCCCC(O)CC(O)COC(C)=O	ChemTasteDB
+1-Acetoxy-2,4-dihydroxyheptadeca-16-yne	Bitter	C#CCCCCCCCCCCCC(O)CC(O)COC(C)=O	ChemTasteDB
+1-Acetoxy-2-hydroxy-4-oxoheneicosa-5,12,15-triene	Bitter	CCCCCC=CCC=CCCCCCC=CC(=O)CC(O)COC(C)=O	ChemTasteDB
+1-Acetoxy-2-hydroxy-4-oxo-octadeca-12-ene	Bitter	CCCCCC=CCCCCCCCC(=O)CC(O)COC(C)=O	ChemTasteDB
+1-Methoxy-2-(1-methylcyclohexene-4-yl)-2-propanol	Bitter	COCC(C)(O)C1CC=C(C)CC1	ChemTasteDB
+1-Methoxy-4-methyl-6-phenylhexan-2-ol	Bitter	COCC(O)CC(C)CCc1ccccc1	ChemTasteDB
+1-Methoxy-6-phenylhexan-2-ol	Bitter	COCC(O)CCCCc1ccccc1	ChemTasteDB
+1-Methyl-5-(1-methoxyethyl)-1,4-cyclohexadiene	Bitter	COC(C)C1=CCC=C(C)C1	ChemTasteDB
+1-Methyl-5-(1-methoxyethyl)cyclohexene	Bitter	COC(C)C1CCC=C(C)C1	ChemTasteDB
+1-O-beta-D-(2-methylpropanoyl)phloroglucinol glucopyranoside	Bitter	CC(C)C(=O)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+1-O-oleoyl-glycerol	Bitter	CCCCCCCCC=CCCCCCCCC(=O)OCC(O)CO	ChemTasteDB
+1-O-Sinapoyl-beta-D-glucoside	Bitter	COc1cc(C=CC(=O)OC2OC(CO)C(O)C(O)C2O)cc(OC)c1O	ChemTasteDB
+2-(2,4-dichlorobenzenesulfonyl)-3-methylbutanoic acid	Bitter	CC(C)C(C(=O)O)S(=O)(=O)c1ccc(Cl)cc1Cl	ChemTasteDB
+2-(2,4-dimethoxybenzoyl)benzoic Acid 	Bitter	COc1ccc(C(=O)c2ccccc2C(=O)O)c(OC)c1	ChemTasteDB
+2-(3,4-dichlorophenylsulfonyl)-3-methylbutanoic acid	Bitter	CC(C)C(C(=O)O)S(=O)(=O)c1ccc(Cl)c(Cl)c1	ChemTasteDB
+2-(4-nitrobenzoyl)benzoic Acid	Bitter	O=C(O)c1ccccc1C(=O)c1ccc([N+](=O)[O-])cc1	ChemTasteDB
+2-(cyclohexene-4-yl)-1,2-propanediol	Bitter	CC(O)(CO)C1CC=CCC1	ChemTasteDB
+2,2,4-Trihydroxychalcone	Bitter	O=C(C=Cc1ccccc1O)c1ccc(O)cc1O	ChemTasteDB
+2',3-Dihydroxy-4-propoxydihydrochalcone	Bitter	CCCOc1ccc(CCC(=O)c2ccccc2O)cc1O	ChemTasteDB
+2'',3''-Epoxyxanthofumol	Bitter	COc1cc(O)c(CC2OC2(C)C)c(O)c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+2,4-Dinitro-propoxybenzene	Bitter	CCCOc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]	ChemTasteDB
+2-{4-[(E)-(Hydroxyimino)methyl]-3-cyclohexen-1-yl}-1,2-propanediol	Bitter	CC(O)(CO)C1CC=C(C=NO)CC1	ChemTasteDB
+2-{4-[(E)-(Hydroxyimino)methyl]-3-cyclohexen-1-yl}-1-methoxy-2-propanol	Bitter	COCC(C)(O)C1CC=C(C=NO)CC1	ChemTasteDB
+2-{4-[(E)-(Hydroxyimino)methyl]-3-cyclohexen-1-yl}-2-methoxy-1-propanol	Bitter	COC(C)(CO)C1CC=C(C=NO)CC1	ChemTasteDB
+2-{4-[(hydroxyimino)methyl]cyclohex-3-en-1-yl}propan-2-ol	Bitter	CC(C)(O)C1CC=C(C=NO)CC1	ChemTasteDB
+2'-Hydroxy-xanthohumol M	Bitter	COc1c(C)c(O)c(CC(O)C(C)(C)OC)c(O)c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+2-Methoxy-2-(1-methylcyclohexene-4-yl)-1-propanol	Bitter	COC(C)(CO)C1CC=C(C)CC1	ChemTasteDB
+2-Methoxy-5-(2-phenylpropyl)phenol	Bitter	COc1ccc(CC(C)c2ccccc2)cc1O	ChemTasteDB
+2-Methylbicyclo[2.2.2]octa-2,5-diene	Bitter	CC1=CC2C=CC1CC2	ChemTasteDB
+2-Naphthyl beta-D-glucopyranoside	Bitter	OCC1OC(Oc2ccc3ccccc3c2)C(O)C(O)C1O	ChemTasteDB
+2-Nitro phenyl beta-D-glucopyranoside	Bitter	O=[N+]([O-])c1ccccc1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+2-Nitroaniline	Bitter	Nc1ccccc1[N+](=O)[O-]	ChemTasteDB
+2-O-oleoyl-glycerol	Bitter	CCCCCCCCC=CCCCCCCCC(=O)OC(CO)CO	ChemTasteDB
+3-(2-(4-Nitrophenyl)acetamido)propanoic acid	Bitter	O=C(O)CCNC(=O)Cc1ccc([N+](=O)[O-])cc1	ChemTasteDB
+3-(3,4-dimethoxyphenyl)-8-hydroxy-3,4-dihydroisochromen-1-one	Bitter	COc1ccc(C2Cc3cccc(O)c3C(=O)O2)cc1OC	ChemTasteDB
+3-(p-chlorophenylosulfonyl)butanoic acid	Bitter	CC(CC(=O)O)S(=O)(=O)c1ccc(Cl)cc1	ChemTasteDB
+3-(p-tolilosulfonyl)propionic acid	Bitter	Cc1ccc(S(=O)(=O)CCC(=O)O)cc1	ChemTasteDB
+3,2-Dihydroxychalcone	Bitter	O=C(C=Cc1cccc(O)c1)c1ccccc1O	ChemTasteDB
+3,6-Dihydro-4-methyl-2H-pyran	Bitter	CC1=CCOCC1	ChemTasteDB
+3-{[(4-cyanophenyl)carbamoyl](cyclohexyl)amino}propanoic acid	Bitter	N#Cc1ccc(NC(=O)N(CCC(=O)O)C2CCCCC2)cc1	ChemTasteDB
+3-{benzyl[(4-cyanophenyl)carbamoyl]amino}propanoic acid	Bitter	N#Cc1ccc(NC(=O)N(CCC(=O)O)Cc2ccccc2)cc1	ChemTasteDB
+3-Amino-3-[(1-cyclohexylpropan-2-yl)(methyl)carbamoyl]propanoic acid, LL-form	Bitter	CC(CC1CCCCC1)N(C)C(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-3-[(6-amino-1-methoxy-1-oxohexan-2-yl)carbamoyl]propanoic acid	Bitter	COC(=O)C(CCCCN)NC(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-3-[methyl(1-phenylpropan-2-yl)carbamoyl]propanoic acid, LL-form	Bitter	CC(Cc1ccccc1)N(C)C(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-3-{[1-(1H-indol-2-yl)propan-2-yl]carbamoyl}propanoic acid	Bitter	CC(Cc1cc2ccccc2[nH]1)NC(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-3-{[1-(2H-1,3-benzodioxol-5-yl)propan-2-yl]carbamoyl}propanoic acid	Bitter	CC(Cc1ccc2c(c1)OCO2)NC(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-3-{[1-(4-methanesulfonamidophenyl)propan-2-yl]carbamoyl}propanoic acid	Bitter	CC(Cc1ccc(NS(C)(=O)=O)cc1)NC(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-4-(4-methylpentan-2-ylamino)-4-oxobutanoic acid	Bitter	CC(C)CC(C)NC(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-4-[(1-methoxy-3-methyl-1-oxopentan-2-yl)amino]-4-oxobutanoic acid	Bitter	CCC(C)C(NC(=O)C(N)CC(=O)O)C(=O)OC	ChemTasteDB
+3-Amino-4-[(1-methoxy-4-methyl-1-oxopentan-2-yl)amino]-4-oxobutanoic acid	Bitter	COC(=O)C(CC(C)C)NC(=O)C(N)CC(=O)O	ChemTasteDB
+3-Amino-4-chlorobenzoic acid	Bitter	Nc1cc(C(=O)O)ccc1Cl	ChemTasteDB
+3-Amino-4-oxo-4-(2-phenylpropylamino)butanoic acid	Bitter	CC(CNC(=O)C(N)CC(=O)O)c1ccccc1	ChemTasteDB
+3-Hydroxy-4-methoxybenzyl benzoate	Bitter	COc1ccc(COC(=O)c2ccccc2)cc1O	ChemTasteDB
+3-Methyl-5,6-dihydro-2H-pyran	Bitter	CC1=CCCOC1	ChemTasteDB
+3-Phenylsulfonylpropionic acid	Bitter	O=C(O)CCS(=O)(=O)c1ccccc1	ChemTasteDB
+4-(methoxymethyl)-2-methylcyclohexene	Bitter	COCC1CCC=C(C)C1	ChemTasteDB
+4,2,5-Trihydroxychalcone	Bitter	O=C(C=Cc1ccc(O)cc1)c1cc(O)ccc1O	ChemTasteDB
+4-Ethoxyphenylthiourea	Bitter	CCOc1ccc(NC(N)=S)cc1	ChemTasteDB
+4-Hydroxychalcone	Bitter	O=C(C=Cc1ccccc1)c1ccc(O)cc1	ChemTasteDB
+4'-Hydroxytunicatachalcone	Bitter	COC1=CC(=O)C(CC=C(C)C)(CC=C(C)C)C(=O)C1=C(O)C=Cc1ccc(O)cc1	ChemTasteDB
+4-Isopropylbenzaldehydeoxime	Bitter	CC(C)c1ccc(C=NO)cc1	ChemTasteDB
+4-Methyl-5,6-dihydro-2H-thiopyran	Bitter	CC1=CCSCC1	ChemTasteDB
+4-O-Caffeoyl-muco-γ-quinic acid lactone	Bitter	O=C(C=Cc1ccc(O)c(O)c1)OC1CC2(O)CC(O)C1OC2=O	ChemTasteDB
+5-(1-carboxyethyl)-2-(6-hydroxy-7,7-dimethyl-1-oxo-1,3,3a,6,7,7a-hexahydro-2-benzofuran-3a-yl)cyclohexane-1-carboxylic acid	Bitter	CC(C(=O)O)C1CCC(C23C=CC(O)C(C)(C)C2C(=O)OC3)C(C(=O)O)C1	ChemTasteDB
+5-(1-carboxyethyl)-2-(6-hydroxy-7,7-dimethyl-1-oxo-octahydro-2-benzofuran-3a-yl)cyclohexane-1-carboxylic acid	Bitter	CC(C(=O)O)C1CCC(C23CCC(O)C(C)(C)C2C(=O)OC3)C(C(=O)O)C1	ChemTasteDB
+5-(1-carboxyethyl)-2-(7,7-dimethyl-1,6-dioxo-octahydro-2-benzofuran-3a-yl)cyclohexane-1-carboxylic acid	Bitter	CC(C(=O)O)C1CCC(C23CCC(=O)C(C)(C)C2C(=O)OC3)C(C(=O)O)C1	ChemTasteDB
+5-(2-cyclohexylethyl)-2-methoxycyclohexan-1-ol	Bitter	COC1CCC(CCC2CCCCC2)CC1O	ChemTasteDB
+5-(3-hydroxy-2-phenylpropyl)-2-methoxyphenol	Bitter	COc1ccc(CC(CO)c2ccccc2)cc1O	ChemTasteDB
+5-Methoxysaccharin	Bitter	COc1ccc2c(c1)C(=O)NS2(=O)=O	ChemTasteDB
+5-O-Caffeoyl-muco-γ-quinide	Bitter	O=C(C=Cc1ccc(O)c(O)c1)OC1CC2(O)CC(OC2=O)C1O	ChemTasteDB
+5-O-Caffeoylquinic acid	Bitter	O=C(C=Cc1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(O)C1O	ChemTasteDB
+5'-Prenylxanthohumol	Bitter	COc1c(CC=C(C)C)c(O)c(CC=C(C)C)c(O)c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+6-{[2,5-bis(chloromethyl)-3,4-dihydroxyoxolan-2-yl]oxy}-5-chloro-2-(chloromethyl)oxane-3,4-diol	Bitter	OC1C(CCl)OC(OC2(CCl)OC(CCl)C(O)C2O)C(Cl)C1O	ChemTasteDB
+6-Chloro sucrose	Bitter	OCC1OC(CO)(OC2OC(CCl)C(O)C(O)C2O)C(O)C1O	ChemTasteDB
+6-Iodo-1,2-benzisothiazole-3(2H)-one 1,1-dioxide	Bitter	O=C1NS(=O)(=O)c2cc(I)ccc21	ChemTasteDB
+6-Methoxymellein	Bitter	COc1cc(O)c2c(c1)CC(C)OC2=O	ChemTasteDB
+6''-O-Acetylgenistin	Bitter	CC(=O)OCC1OC(Oc2cc(O)c3c(=O)c(-c4ccc(O)cc4)coc3c2)C(O)C(O)C1O	ChemTasteDB
+6-O-benzoyl sucrose	Bitter	O=C(OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O)c1ccccc1	ChemTasteDB
+6-O-benzyl sucrose	Bitter	OCC1OC(CO)(OC2OC(COCc3ccccc3)C(O)C(O)C2O)C(O)C1O	ChemTasteDB
+6-Phosphate sucrose	Bitter	O=P(O)(O)OCC1OC(OC2(CO)OC(CO)C(O)C2O)C(O)C(O)C1O	ChemTasteDB
+7-Methoxy-3-oxo-2,3-dihydro-1,2-benzoisothiazole 1,1-dioxide	Bitter	COc1cccc2c1S(=O)(=O)NC2=O	ChemTasteDB
+8-Deoxylactucin-15-sulphate	Bitter	C=C1C(=O)OC2C1CCC(C)=C1C(=O)C=C(COS(=O)(=O)[O-])C12	ChemTasteDB
+9,10,13-Trihydroxy-trans-11-octadecenoic acid	Bitter	CCCCCC(O)C=CC(O)C(O)CCCCCCCC(=O)O	ChemTasteDB
+Absinthin	Bitter	CC1=CC2C3C4C(=C(C)C3C13C1OC(=O)C(C)C1CCC(C)(O)C23)C1OC(=O)C(C)C1CCC4(C)O	ChemTasteDB
+Aconine	Bitter	CCN1CC2(COC)C(O)CC(OC)C34C5CC6(O)C(O)C5C(O)(C(O)C6OC)C(C(OC)C23)C14	ChemTasteDB
+Adenosine	Bitter	Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O	ChemTasteDB
+Adhumulinone	Bitter	CCC(C)C(=O)C1=C(O)C(O)(CC=C(C)C)C(O)(C(=O)CC=C(C)C)C1=O	ChemTasteDB
+Adhumulone	Bitter	CCC(C)C(=O)C1=C(O)C(CC=C(C)C)=C(O)C(O)(CC=C(C)C)C1=O	ChemTasteDB
+Aglycon H.g.-12	Bitter	CC=C(C)C(=O)OC1CC2C(CC=C3CC(O)CCC32C)C2(O)CCC(C(C)=O)C12C	ChemTasteDB
+Aloin	Bitter	O=C1c2c(O)cccc2C(C2OC(CO)C(O)C(O)C2O)c2cc(CO)cc(O)c21	ChemTasteDB
+alpha-Glu-Trp	Bitter	NC(CCC(=O)O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O	ChemTasteDB
+Amarogentin	Bitter	C=CC1C(OC2OC(CO)C(O)C(O)C2OC(=O)c2c(O)cc(O)cc2-c2cccc(O)c2)OC=C2C(=O)OCCC21	ChemTasteDB
+Aminophylline	Bitter	Cn1c(=O)c2[nH]cnc2n(C)c1=O.Cn1c(=O)c2[nH]cnc2n(C)c1=O.NCCN	ChemTasteDB
+Ammonium picrate	Bitter	O=[N+]([O-])c1cc([N+](=O)[O-])c([O-])c([N+](=O)[O-])c1.[NH4+]	ChemTasteDB
+Amodiaquin dihydrochloride	Bitter	CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O.Cl.Cl	ChemTasteDB
+Amphetamine phosphate	Bitter	CC(N)Cc1ccccc1.O=P(O)(O)O	ChemTasteDB
+Andrographolide	Bitter	C=C1CCC2C(C)(CO)C(O)CCC2(C)C1CC=C1C(=O)OCC1O	ChemTasteDB
+Androsterone	Bitter	CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O	ChemTasteDB
+Antazoline phosphate	Bitter	O=P(O)(O)O.c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1	ChemTasteDB
+Aprobarbital sodium salt	Bitter	C=CCC1(C(C)C)C(=O)N=C([O-])NC1=O.[Na+]	ChemTasteDB
+Arbutin	Bitter	OCC1OC(Oc2ccc(O)cc2)C(O)C(O)C1O	ChemTasteDB
+Arglabin	Bitter	C=C1C(=O)OC2C1CCC1(C)OC13CC=C(C)C23	ChemTasteDB
+Artabsin	Bitter	CC1=C2C(=CC1)C(C)(O)CCC1C(C)C(=O)OC21	ChemTasteDB
+Artecalin	Bitter	C=C1C(=O)OC2C1CCC1(C)C(O)CC(=O)C(C)C21	ChemTasteDB
+Artemisin	Bitter	CC1=C2C3OC(=O)C(C)C3C(O)CC2(C)C=CC1=O	ChemTasteDB
+Artemorin	Bitter	C=C1CCC2C(=C)C(=O)OC2C=C(C)CCC1O	ChemTasteDB
+Asparasaponin II	Bitter	CC(CCC1(O)OC2CC3C4CC=C5CC(OC6OC(CO)C(OC7OC(C)C(O)C(O)C7O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Atropine	Bitter	CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2	ChemTasteDB
+Atropine sulfate	Bitter	CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2.CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2.O.O=S(=O)(O)O	ChemTasteDB
+Avenacoside A	Bitter	CC1OC(OC2C(OC3CCC4(C)C(=CCC5C4CCC4(C)C5CC5OC6(CCC(C)(COC7OC(CO)C(O)C(O)C7O)O6)C(C)C54)C3)OC(CO)C(OC3OC(CO)C(O)C(O)C3O)C2O)C(O)C(O)C1O	ChemTasteDB
+Avenacoside B	Bitter	CC1OC(OC2C(OC3CCC4(C)C(=CCC5C4CCC4(C)C5CC5OC6(CCC(C)(COC7OC(CO)C(O)C(O)C7O)O6)C(C)C54)C3)OC(CO)C(OC3OC(CO)C(O)C(OC4OC(CO)C(O)C(O)C4O)C3O)C2O)C(O)C(O)C1O	ChemTasteDB
+Avenanthramide 1c	Bitter	O=C(C=Cc1ccc(O)c(O)c1)Nc1ccccc1C(=O)O	ChemTasteDB
+Avenanthramide 1f	Bitter	COc1cc(C=CC(=O)Nc2ccccc2C(=O)O)ccc1O	ChemTasteDB
+Avenanthramide 1p	Bitter	O=C(C=Cc1ccc(O)cc1)Nc1ccccc1C(=O)O	ChemTasteDB
+Avenanthramide 1s	Bitter	COc1cc(C=CC(=O)Nc2ccccc2C(=O)O)cc(OC)c1O	ChemTasteDB
+Avenanthramide 2c	Bitter	O=C(C=Cc1ccc(O)c(O)c1)Nc1ccc(O)cc1C(=O)O	ChemTasteDB
+Avenanthramide 2f	Bitter	COc1cc(C=CC(=O)Nc2ccc(O)cc2C(=O)O)ccc1O	ChemTasteDB
+Avenanthramide 2p	Bitter	O=C(C=Cc1ccc(O)cc1)Nc1ccc(O)cc1C(=O)O	ChemTasteDB
+Avenanthramide 2s	Bitter	COc1cc(C=CC(=O)Nc2ccc(O)cc2C(=O)O)cc(OC)c1O	ChemTasteDB
+Bakankosin	Bitter	C=CC1C(OC2OC(CO)C(O)C(O)C2O)OC=C2C(=O)NCCC21	ChemTasteDB
+Berberine chloride	Bitter	COc1ccc2cc3[n+](cc2c1OC)CCc1cc2c(cc1-3)OCO2.[Cl-]	ChemTasteDB
+beta-carotene	Bitter	CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C	ChemTasteDB
+Brucine	Bitter	COc1cc2c(cc1OC)C13CCN4CC5=CCOC6CC(=O)N2C1C6C5CC43	ChemTasteDB
+Bufotoxin	Bitter	CC(=O)OC1CC2(O)C3CCC4CC(OC(=O)CCCCCCC(=O)NC(CCCN=C(N)N)C(=O)O)CCC4(C)C3CCC2(C)C1c1ccc(=O)oc1	ChemTasteDB
+Butanoic acid, 3-amino-4-[(1-ethylbutyl)amino]-4-oxo-	Bitter	CCCC(CC)NC(=O)C(N)CC(=O)O	ChemTasteDB
+Caffeic acid	Bitter	O=C(O)C=Cc1ccc(O)c(O)c1	ChemTasteDB
+Caffeic acid ethyl ester	Bitter	CCOC(=O)C=Cc1ccc(O[Si](C)(C)C)c(O[Si](C)(C)C)c1	ChemTasteDB
+Calcium lactate	Bitter	CC(O)C(=O)[O-].CC([O-])C(=O)O.[Ca+2]	ChemTasteDB
+Carbinoxamine maleate	Bitter	CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1.O=C(O)C=CC(=O)O	ChemTasteDB
+Carnosol	Bitter	CC(C)c1cc2c(c(O)c1O)C13CCCC(C)(C)C1CC2OC3=O	ChemTasteDB
+Cascarillin	Bitter	CC(=O)OC1CC2(C)C(CCC(O)C2(C)O)C(C=O)(CC(O)c2ccoc2)C1C	ChemTasteDB
+Catechin	Bitter	Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2	ChemTasteDB
+Cefpodoxime 1-(isopropoxycarbonyloxy)ethyl ester, cefpodoxime proxetil	Bitter	COCC1=C(C(=O)OC(C)OC(=O)OC(C)C)N2C(=O)C(NC(=O)C(=NOC)c3csc(N)n3)C2SC1	ChemTasteDB
+Cephaeline	Bitter	CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(O)c(OC)cc21	ChemTasteDB
+Chalcone	Bitter	O=C(C=Cc1ccccc1)c1ccccc1	ChemTasteDB
+Chloramphenicol	Bitter	O=C(NC(CO)C(O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl	ChemTasteDB
+Chlorhexidine	Bitter	NC(=NCCCCCCN=C(N)N=C(N)Nc1ccc(Cl)cc1)N=C(N)Nc1ccc(Cl)cc1	ChemTasteDB
+Chloroprocaine	Bitter	CC[NH+](CC)CCOC(=O)c1ccc(N)cc1Cl.[Cl-]	ChemTasteDB
+Chloroquine phosphate	Bitter	CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12.O=P(O)(O)O.O=P(O)(O)O	ChemTasteDB
+Chonemorphine	Bitter	CC(C1CCC2C3CCC4CC(N)CCC4(C)C3CCC21C)N(C)C	ChemTasteDB
+Cinchonine	Bitter	C=CC1CN2CCC1CC2C(O)c1ccnc2ccccc12	ChemTasteDB
+Cinnamedrine	Bitter	CC(C(O)c1ccccc1)N(C)CC=Cc1ccccc1	ChemTasteDB
+Cinnamyl alcohol	Bitter	OCC=Cc1ccccc1	ChemTasteDB
+cis-11-Methyl-2-dodecenoic acid	Bitter	CC(C)CCCCCCCC=CC(=O)O	ChemTasteDB
+cis-Cyclo(Gly-L-Phe)	Bitter	O=C1CNC(=O)C(Cc2ccccc2)N1	ChemTasteDB
+cis-Cyclo(Gly-L-Pro)	Bitter	O=C1NCC(=O)N2CCCC12	ChemTasteDB
+cis-Cyclo(L-Ala-Gly)	Bitter	CC1NC(=O)CNC1=O	ChemTasteDB
+cis-Cyclo(L-Ala-L-IIe)	Bitter	CCC(C)C1NC(=O)C(C)NC1=O	ChemTasteDB
+cis-Cyclo(L-Ala-L-Leu)	Bitter	CC(C)CC1NC(=O)C(C)NC1=O	ChemTasteDB
+cis-Cyclo(L-Ala-L-Phe)	Bitter	CC1NC(=O)C(Cc2ccccc2)NC1=O	ChemTasteDB
+cis-Cyclo(L-Ala-L-Tyr)	Bitter	CC1NC(=O)C(Cc2ccc(O)cc2)NC1=O	ChemTasteDB
+cis-Cyclo(L-Asn-L-Phe)	Bitter	NC(=O)CC1NC(=O)C(Cc2ccccc2)NC1=O	ChemTasteDB
+cis-Cyclo(L-Asp-L-Phe)	Bitter	O=C(O)CC1NC(=O)C(Cc2ccccc2)NC1=O	ChemTasteDB
+cis-Cyclo(L-Ile-L-Phe)	Bitter	CCC(C)C1NC(=O)C(Cc2ccccc2)NC1=O	ChemTasteDB
+cis-Cyclo(L-Ile-L-Pro)	Bitter	CCC(C)C1NC(=O)C2CCCN2C1=O	ChemTasteDB
+cis-Cyclo(L-Leu-Gly)	Bitter	CC(C)CC1NC(=O)CNC1=O	ChemTasteDB
+cis-Cyclo(L-Leu-L-Phe)	Bitter	CC(C)CC1NC(=O)C(Cc2ccccc2)NC1=O	ChemTasteDB
+cis-Cyclo(L-Leu-L-Pro)	Bitter	CC(C)CC1NC(=O)C2CCCN2C1=O	ChemTasteDB
+cis-Cyclo(L-Phe-L-Pro)	Bitter	O=C1NC(Cc2ccccc2)C(=O)N2CCCC12	ChemTasteDB
+cis-Cyclo(L-Phe-L-Ser)	Bitter	O=C1NC(Cc2ccccc2)C(=O)NC1CO	ChemTasteDB
+cis-Cyclo(L-Pro-L-Thr)	Bitter	CC(O)C1NC(=O)C2CCCN2C1=O	ChemTasteDB
+cis-Cyclo(L-Pro-L-Tyr)	Bitter	O=C1NC(Cc2ccc(O)cc2)C(=O)N2CCCC12	ChemTasteDB
+cis-Cyclo(L-Val-L-Leu)	Bitter	CC(C)CC1NC(=O)C(C(C)C)NC1=O	ChemTasteDB
+cis-Cyclo(L-Val-L-Pro)	Bitter	CC(C)C1NC(=O)C2CCCN2C1=O	ChemTasteDB
+cis-Cyclo(L-Val-L-Tyr)	Bitter	CC(C)C1NC(=O)C(Cc2ccc(O)cc2)NC1=O	ChemTasteDB
+cis-Cyclo(L-Val-L-Val)	Bitter	CC(C)C1NC(=O)C(C(C)C)NC1=O	ChemTasteDB
+Clarithromycin	Bitter	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(OC)CC(C)C(=O)C(C)C(O)C1(C)O	ChemTasteDB
+Clindamycin	Bitter	CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1	ChemTasteDB
+Cnicin	Bitter	C=C(C(=O)OC1CC(C)=CCCC(CO)=CC2OC(=O)C(=C)C21)C(O)CO	ChemTasteDB
+Cocaine hydrochloride	Bitter	COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C	ChemTasteDB
+Cohumulinone	Bitter	CC(C)=CCC(=O)C1(O)C(=O)C(C(=O)C(C)C)=C(O)C1(O)CC=C(C)C	ChemTasteDB
+Colchicine	Bitter	COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2	ChemTasteDB
+Columbin	Bitter	CC12CC(c3ccoc3)OC(=O)C1CCC1(C)C2C2C=CC1(O)C(=O)O2	ChemTasteDB
+Compound 842	Bitter	CCCCN1C(=O)c2ccc([N+](=O)[O-])cc2S1(=O)=O	ChemTasteDB
+Compound 843	Bitter	CC(C)N1C(=O)c2ccc([N+](=O)[O-])cc2S1(=O)=O	ChemTasteDB
+Compound 844	Bitter	CCCCCN1C(=O)c2ccc([N+](=O)[O-])cc2S1(=O)=O	ChemTasteDB
+Compound 845	Bitter	O=C1c2ccc([N+](=O)[O-])cc2S(=O)(=O)N1SC(Cl)(Cl)Cl	ChemTasteDB
+Compound 849	Bitter	C=CCN1C(=O)c2ccc([N+](=O)[O-])cc2S1(=O)=O	ChemTasteDB
+Compound 850	Bitter	CN1C(=O)c2ccc(S(N)(=O)=O)cc2S1(=O)=O	ChemTasteDB
+Compound 854	Bitter	CCN(CC)CCCN1S(=O)(=O)c2ccccc2S1(=O)=O	ChemTasteDB
+Compound 855	Bitter	CCCCN(CCCC)CCN1S(=O)(=O)c2ccccc2S1(=O)=O	ChemTasteDB
+Compound 857	Bitter	C=C1C(=O)C23CCC4C(C)(C)CC(OOC5OC(CO)C(O)C(O)C5O)CC4(C)C2CCC1C3	ChemTasteDB
+Compound V	Bitter	CC(=O)OCC12C(CCC(C)(C)C1CO)OC(=O)C13CC(CC(O)C12)C(C)C3O	ChemTasteDB
+Compound VII	Bitter	CC(=O)OC1CC2CC3(C(=O)OC4CCC(C)(C)C5C(OC(C)=O)OCC45C13)C(=O)C2C	ChemTasteDB
+Compound IX	Bitter	CC1C(=O)C23CC1CC(O)C2C12COC=C1C(C)(C)CCC2OC3=O	ChemTasteDB
+Compound X	Bitter	COC(=O)C(C)C1CC(OC(C)=O)C2C(C1)C(=O)OC1CCC(C)(C)C(COC(C)=O)C12CO	ChemTasteDB
+Compound XV	Bitter	CC1C(=O)C23C(O)C1CCC2C12COC3(O)C(O)C1C(C)(C)CCC2=O	ChemTasteDB
+Compound XVII	Bitter	CC(=O)OC1CC2CC3(C(O)C2C)C1C12COC3(O)C(O)C1C(C)(C)CCC2OC(C)=O	ChemTasteDB
+Compound XX	Bitter	CC(=O)OC1CC2OC(=O)C34CC(CCC3C23COC(=O)C3C1(C)C)C(C)C4=O	ChemTasteDB
+Compound XXIV	Bitter	CC1C(=O)C2(C(=O)O)CC1CCC2C12CCC(=O)C(C)(C)C1C(=O)OC2	ChemTasteDB
+Conessine hydrobromide	Bitter	Br.Br.CC1C2CCC3C4CC=C5CC(N(C)C)CCC5(C)C4CCC32CN1C	ChemTasteDB
+Convallatoxin	Bitter	CC1OC(OC2CCC3(C=O)C4CCC5(C)C(C6=CC(=O)OC6)CCC5(O)C4CCC3(O)C2)C(O)C(O)C1O	ChemTasteDB
+Costunolide	Bitter	C=C1C(=O)OC2C=C(C)CCC=C(C)CCC12	ChemTasteDB
+Crispolide	Bitter	C=C1C(=O)OC2C1CC=C1CC(C)(CCC1OO)C2O	ChemTasteDB
+Cucurbitacin B	Bitter	CC(=O)OC(C)(C)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(CC(O)C(=O)C4(C)C)C3(C)C(=O)CC12C	ChemTasteDB
+Cucurbitacin D	Bitter	CC(C)(O)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(CC(O)C(=O)C4(C)C)C3(C)C(=O)CC12C	ChemTasteDB
+Cucurbitacin E	Bitter	CC(=O)OC(C)(C)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(C=C(O)C(=O)C4(C)C)C3(C)C(=O)CC12C	ChemTasteDB
+Cucurbitacin I	Bitter	CC(C)(O)C=CC(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(C=C(O)C(=O)C4(C)C)C3(C)C(=O)CC12C	ChemTasteDB
+Cyanidin-3-glucoside	Bitter	OCC1OC(Oc2cc3c(O)cc(O)cc3[o+]c2-c2ccc(O)c(O)c2)C(O)C(O)C1O	ChemTasteDB
+Cyclobarbital calcium	Bitter	CCC1(C2=CCCCC2)C(=O)NC(=O)N=C1[O-].CCC1(C2=CCCCC2)C(=O)NC(=O)N=C1[O-].[Ca+2]	ChemTasteDB
+Cyclohexene, 4-(1,2-dimethoxy-1-methylethyl)-1-methyl-	Bitter	COCC(C)(OC)C1CC=C(C)CC1	ChemTasteDB
+Cycloheximide	Bitter	CC1CC(C)C(=O)C(C(O)CC2CC(=O)NC(=O)C2)C1	ChemTasteDB
+Cyclohexylamine	Bitter	NC1CCCCC1	ChemTasteDB
+Cyclolinopeptide E	Bitter	CCC(C)C1NC(=O)C(Cc2ccccc2)NC(=O)C(CC(C)C)NC(=O)C2CCCN2C(=O)C(Cc2ccccc2)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CCS(C)=O)NC1=O	ChemTasteDB
+Cynaropicrin	Bitter	C=C(CO)C(=O)OC1CC(=C)C2CC(O)C(=C)C2C2OC(=O)C(=C)C12	ChemTasteDB
+Daidzin	Bitter	O=c1c(-c2ccc(O)cc2)coc2cc(OC3OC(CO)C(O)C(O)C3O)ccc12	ChemTasteDB
+D-Alanine tertiary butyl ester	Bitter	CC(N)C(=O)OC(C)(C)C	ChemTasteDB
+D-Camphor	Bitter	CC12CCC(CC1=O)C2(C)C	ChemTasteDB
+Dehydrocholic acid	Bitter	CC(CCC(=O)O)C1CCC2C3C(=O)CC4CC(=O)CCC4(C)C3CC(=O)C12C	ChemTasteDB
+Dehydrotricycloadlupone	Bitter	C=C(C)C1CC23C(=O)C(C(=O)C(C)CC)=C(O)C(CC=C(C)C)(CC2C1(C)C)C3=O	ChemTasteDB
+Dehydrotricyclocolupone	Bitter	C=C(C)C1CC23C(=O)C(C(=O)C(C)C)=C(O)C(CC=C(C)C)(CC2C1(C)C)C3=O	ChemTasteDB
+Dehydrotricyclolupone	Bitter	C=C(C)C1CC23C(=O)C(C(=O)CC(C)C)=C(O)C(CC=C(C)C)(CC2C1(C)C)C3=O	ChemTasteDB
+Denatonium benzoate	Bitter	CC[N+](CC)(CC(=O)Nc1c(C)cccc1C)Cc1ccccc1.O=C([O-])c1ccccc1	ChemTasteDB
+Denatonium derivative 1	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCl	ChemTasteDB
+Denatonium derivative 2	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCBr	ChemTasteDB
+Denatonium derivative 3	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCCCI	ChemTasteDB
+Denatonium derivative 4	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCCCCCl	ChemTasteDB
+Denatonium derivative 5	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCCCCCCl	ChemTasteDB
+Denatonium derivative 6	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCCCCCCCCl	ChemTasteDB
+Denatonium derivative 7	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCCCCCCCCCCl	ChemTasteDB
+Denatonium derivative 8	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)Cc1ccc(Cl)cc1	ChemTasteDB
+Denatonium derivative 9	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCc1ccc(Cl)cc1	ChemTasteDB
+Denatonium derivative 10	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(C)CCCc1ccc(Cl)cc1	ChemTasteDB
+Denatonium derivative 11	Bitter	CC[N+](C)(CC(=O)Nc1c(C)cccc1C)Cc1ccc(Cl)cc1	ChemTasteDB
+Denatonium derivative 12	Bitter	CCCC[N+](C)(CC(=O)Nc1c(C)cccc1C)Cc1ccc(Cl)cc1	ChemTasteDB
+Denatonium derivative 13	Bitter	Cc1cccc(C)c1NC(=O)C[N+](C)(Cc1ccccc1)Cc1ccc(Cl)cc1	ChemTasteDB
+Denatonium derivative 14	Bitter	CC[N+](CC)(CC(=O)Nc1c(C)cccc1C)Cc1ccc(Cl)cc1	ChemTasteDB
+Dexamethasone	Bitter	CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO	ChemTasteDB
+Dextromethorphan	Bitter	COc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3	ChemTasteDB
+Dextromoramide bitartrate	Bitter	CC(CN1CCOCC1)C(C(=O)N1CCCC1)(c1ccccc1)c1ccccc1.O=C(O)C(O)C(O)C(=O)O	ChemTasteDB
+Dibekacin sulfate	Bitter	NCC1CCC(N)C(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)O1.O=S(=O)(O)O	ChemTasteDB
+Digitoxin	Bitter	CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O	ChemTasteDB
+Dihydro taurin	Bitter	CC1=C2C3OC(=O)C(C)C3CCC2(C)C(O)CC1	ChemTasteDB
+Dihydroepinodosin	Bitter	CC1C(=O)C23CC1CC(O)C2C12COC(O)C1C(C)(C)CCC2OC3=O	ChemTasteDB
+Dihydroisodonal	Bitter	CC(=O)OCC12C(CCC(C)(C)C1C=O)OC(=O)C13CC(CC(O)C12)C(C)C3=O	ChemTasteDB
+Dihydrooridonin tetraacetate	Bitter	C=C(C)OC12OCC3(C(OC(C)=O)CCC(C)(C)C3C1OC(C)=O)C1CCC3C(C)C(=O)C12C3OC(C)=O	ChemTasteDB
+Diltiazem hydrochloride	Bitter	COc1ccc(C2Sc3ccccc3N(CCN(C)C)C(=O)C2OC(C)=O)cc1.Cl	ChemTasteDB
+Dimemorfan phosphate	Bitter	Cc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3.O=P(O)(O)O	ChemTasteDB
+Dimethyl sulfoxide	Bitter	CS(C)=O	ChemTasteDB
+Dioscin	Bitter	CC1CCC2(OC1)OC1CC3C4CC=C5CC(OC6OC(CO)C(OC7OC(C)C(O)C(O)C7O)C(O)C6OC6OC(C)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C1C2C	ChemTasteDB
+Diterpene derivative 3	Bitter	CC(=O)OCC12C(CCC(C)(C)C1C(=O)O)OC(=O)C13CC(CC(O)C12)C(C)C3=O	ChemTasteDB
+Diterpene derivative 4	Bitter	COC(=O)C1C(C)(C)CCC2OC(=O)C34CC(CC(O)C3C21COC(C)=O)C(C)C4=O	ChemTasteDB
+Divinyl glycol	Bitter	C=CC(O)C(O)C=C	ChemTasteDB
+Divinyl sulfoxide	Bitter	C=CS(=O)C=C	ChemTasteDB
+Docosahexaenoic acid	Bitter	CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O	ChemTasteDB
+Doxepin	Bitter	CN(C)CCC=C1c2ccccc2COc2ccccc21	ChemTasteDB
+Drotebanol	Bitter	COc1ccc2c(c1OC)C13CCN(C)C(C2)C1(O)CCC(O)C3	ChemTasteDB
+EINECS 227-420-9	Bitter	O=C(C=Cc1ccccc1)OC1CCN2CC3CC(CN4C(=O)CCCC34)C2C1	ChemTasteDB
+Emetine	Bitter	CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1NCCc2cc(OC)c(OC)cc21	ChemTasteDB
+Enalapril	Bitter	CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CCCC1C(=O)O	ChemTasteDB
+Enmein	Bitter	C=C1C(=O)C23CC1CCC2C12COC(O)C1C(C)(C)C(O)CC2OC3=O	ChemTasteDB
+Enmein-3-acetate	Bitter	C=C1C(=O)C23CC1CCC2C12COC(O)C1C(C)(C)C(OC(C)=O)CC2OC3=O	ChemTasteDB
+epi-Acortatarin A	Bitter	O=Cc1ccc2n1CC1(CC(O)C(CO)O1)OC2	ChemTasteDB
+Epigallocatechin gallate	Bitter	O=C(OC1Cc2c(O)cc(O)cc2OC1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1	ChemTasteDB
+Epizaluzanin C	Bitter	C=C1C(=O)OC2C1CCC(=C)C1CC(O)C(=C)C12	ChemTasteDB
+Erythromycin	Bitter	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O	ChemTasteDB
+Esculine	Bitter	O=c1ccc2cc(OC3OC(CO)C(O)C(O)C3O)c(O)cc2o1	ChemTasteDB
+Ethyl 3-(3-hydroxy-4-methoxyphenyl)-2-phenylpropanoate	Bitter	CCOC(=O)C(Cc1ccc(OC)c(O)c1)c1ccccc1	ChemTasteDB
+Ethyl trans-caffeate	Bitter	CCOC(=O)C=Cc1ccc(O)c(O)c1	ChemTasteDB
+Falcarindiol	Bitter	C=CC(O)C#CC#CC(O)C=CCCCCCCC	ChemTasteDB
+Falcarindiol 3-acetate	Bitter	C=CC(C#CC#CC(O)C=CCCCCCCC)OC(C)=O	ChemTasteDB
+Falcarinol	Bitter	C=CC(O)C#CC#CCC=CCCCCCCC	ChemTasteDB
+Famotidine	Bitter	NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1	ChemTasteDB
+Fennel oil	Bitter	C=CCc1ccc(OC)cc1.CC12CCC(C1)C(C)(C)C2=O.CC=Cc1ccc(OC)cc1	ChemTasteDB
+Ferulic acid ethyl ester	Bitter	CCOC(=O)C=Cc1ccc(O)c(OC)c1	ChemTasteDB
+Fraxin	Bitter	COc1cc2ccc(=O)oc2c(OC2OC(CO)C(O)C(O)C2O)c1O	ChemTasteDB
+Furostanol saponin (TFI)	Bitter	CC(CCC1(O)OC2CC3C4CCC5CC(OC6(C)OC(C)(CO)C(C)(COCC7(C)OC(C)(CO)C(C)(O)C(C)(O)C7(C)OC7(C)OC(C)(CO)C(C)(O)C(C)(O)C7(C)O)C(C)(O)C6(C)O)CCC5(C)C4CCC3(C)C2C1C)COCC1(C)OC(C)(CO)C(C)(O)C(C)(O)C1(C)O	ChemTasteDB
+Gamabufotalin	Bitter	CC12CCC(O)CC1CCC1C2C(O)CC2(C)C(c3ccc(=O)oc3)CCC12O	ChemTasteDB
+gamma-Glu-Tyr	Bitter	NC(CCC(=O)NC(Cc1ccc(O)cc1)C(=O)O)C(=O)O	ChemTasteDB
+Ganoderic acid A	Bitter	CC(CC(=O)CC(C)C1CC(O)C2(C)C3=C(C(=O)CC12C)C1(C)CCC(=O)C(C)(C)C1CC3O)C(=O)O	ChemTasteDB
+Garryine	Bitter	C=C1C2CCC3C(CCC4C5(C)CCCC43CN3CCOC35)(C2)C1O	ChemTasteDB
+Gatifloxacin	Bitter	COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12	ChemTasteDB
+Gaudichaudioside D	Bitter	CC(=CCO)CCC1C(C)(O)CC(OC2OCC(O)C(O)C2O)C2C(C)(CO)CCCC12C	ChemTasteDB
+Gentiobiose	Bitter	OCC1OC(OCC2OC(O)C(O)C(O)C2O)C(O)C(O)C1O	ChemTasteDB
+Gentiopicrin	Bitter	C=CC1C2=CCOC(=O)C2=COC1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Geranyl acetate	Bitter	CC(=O)OCC=C(C)CCC=C(C)C	ChemTasteDB
+Geranyl formate	Bitter	CC(C)=CCCC(C)=CCOC=O	ChemTasteDB
+Geranyl propionate	Bitter	CCC(=O)OCC=C(C)CCC=C(C)C	ChemTasteDB
+Germacradien-6,11-dihydroxy-8,12-olide	Bitter	CC1=CC(O)C2C(CC(C)=CCC1)OC(=O)C2(C)O	ChemTasteDB
+Germacrolide	Bitter	CC1CCCC2(C)CCC3C(C)C(=O)OC3C12	ChemTasteDB
+Geshoidin	Bitter	O=C1OCc2cc3cccc(OC4OC(CO)C(O)C(O)C4O)c3c(O)c21	ChemTasteDB
+Ginkgolide A	Bitter	CC1C(=O)OC2CC34C5CC(C(C)(C)C)C36C(OC(=O)C6O)OC4(C(=O)O5)C21O	ChemTasteDB
+Glaucarubin	Bitter	CCC(C)(O)C(=O)OC1C(=O)OC2CC3C(C)=CC(O)C(O)C3(C)C3C4(O)OCC23C1C(C)C4O	ChemTasteDB
+Gln-Leu-Phe-Asn-Pro-Ser-Thr-Asn-Pro-Trp-His-Ser-Pro-OH	Bitter	CC(C)CC(NC(=O)C(N)CCC(N)=O)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(N)=O)C(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(C(=O)NC(CC(N)=O)C(=O)N1CCCC1C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CO)C(=O)N1CCCC1C(=O)O)C(C)O	ChemTasteDB
+Glucobrassicin	Bitter	O=S(=O)(O)ON=C(Cc1c[nH]c2ccccc12)SC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Glucose pentaacetate	Bitter	CC(=O)OCC(OC(C)=O)C(OC(C)=O)C(OC(C)=O)C(C=O)OC(C)=O	ChemTasteDB
+Glucovanillin	Bitter	COc1cc(C=O)ccc1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Glyceryl caprate	Bitter	CCCCCCCCCC(=O)OCC(O)CO	ChemTasteDB
+Glyceryl monolinoleate	Bitter	CCCCCC=CCC=CCCCCCCCC(=O)OCC(O)CO	ChemTasteDB
+Glycitin	Bitter	COc1cc2c(=O)c(-c3ccc(O)cc3)coc2cc1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Helenalin	Bitter	C=C1C(=O)OC2CC(C)C3C=CC(=O)C3(C)C(O)C12	ChemTasteDB
+Helicin	Bitter	O=Cc1ccccc1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Herbolide A	Bitter	CC(=O)OC1CC2C(C=C(C)CCC=C1C)OC(=O)C2C	ChemTasteDB
+Herbolide D acetate	Bitter	C=C1C(OC(C)=O)CCC(C)=CC2OC(=O)C(C)C2CC1OC(C)=O	ChemTasteDB
+Hexobarbital sodium	Bitter	CN1C(=O)[N-]C(=O)C(C)(C2=CCCCC2)C1=O.[Na+]	ChemTasteDB
+Hg-12	Bitter	CC=C(C)C(=O)OC1CC2C(CC=C3CC(OC4CC(OC)C(OC5CC(OC)C(OC6OC(C)C(O)C(OC)C6O)C(C)O5)C(C)O4)CCC32C)C2(O)CCC(C(C)=O)C12C	ChemTasteDB
+Homoeriodictyol	Bitter	COc1cc(C2CC(=O)c3c(O)cc(O)cc3O2)ccc1O	ChemTasteDB
+Homoquinizolate	Bitter	O=C1C(=Cc2ccco2)C(CO)[n+]2cc([O-])c(Cc3ccco3)c(CO)c21	ChemTasteDB
+Homoserine lactone, N-(3-oxooctanoyl)-L-	Bitter	CCCCCC(=O)CC(=O)NC1CCOC1=O	ChemTasteDB
+Homoserine lactone, N-hexanoyl-L-	Bitter	CCCCCC(=O)NC1CCOC1=O	ChemTasteDB
+Humulone	Bitter	CC(C)=CCC1=C(O)C(O)(CC=C(C)C)C(=O)C(C(=O)CC(C)C)=C1O	ChemTasteDB
+Hydrocortisone	Bitter	CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO	ChemTasteDB
+Hydroperoxy-trans-alloisoadhumulone	Bitter	CCC(C)C(=O)C1=C(O)C(O)(C(=O)C=CC(C)(C)OO)C(CC=C(C)C)C1=O	ChemTasteDB
+Hydroperoxy-trans-alloisocohumulone	Bitter	CC(C)=CCC1C(=O)C(C(=O)C(C)C)=C(O)C1(O)C(=O)C=CC(C)(C)OO	ChemTasteDB
+Hydroperoxy-trans-alloisohumulone	Bitter	CC(C)=CCC1C(=O)C(C(=O)CC(C)C)=C(O)C1(O)C(=O)C=CC(C)(C)OO	ChemTasteDB
+Hydroperoxytricycloadlupone	Bitter	CCC(C)C(=O)C1=C(O)C23CC(C(C)(C)OO)C(C)(C)C2CC(CC=C(C)C)(C1=O)C3=O	ChemTasteDB
+Hydroperoxytricyclocolupone	Bitter	CC(C)=CCC12CC3C(CC(C(C)(C)OO)C3(C)C)(C1=O)C(O)=C(C(=O)C(C)C)C2=O	ChemTasteDB
+Hydroperoxytricyclolupone	Bitter	CC(C)=CCC12CC3C(CC(C(C)(C)OO)C3(C)C)(C1=O)C(O)=C(C(=O)CC(C)C)C2=O	ChemTasteDB
+Hydroxylupanine	Bitter	O=C1CCCC2C3CC(CN12)C1CC(O)CCN1C3	ChemTasteDB
+Hydroxy-trans-alloisoadhumulone	Bitter	CCC(C)C(=O)C1=C(O)C(O)(C(=O)C=CC(C)(C)O)C(CC=C(C)C)C1=O	ChemTasteDB
+Hydroxy-trans-alloisocohumulone	Bitter	CC(C)=CCC1C(=O)C(C(=O)C(C)C)=C(O)C1(O)C(=O)C=CC(C)(C)O	ChemTasteDB
+Hydroxy-trans-alloisohumulone	Bitter	CC(C)=CCC1C(=O)C(C(=O)CC(C)C)=C(O)C1(O)C(=O)C=CC(C)(C)O	ChemTasteDB
+Hydroxytricycloadlupone	Bitter	CCC(C)C(=O)C1=C(O)C2(CC=C(C)C)CC3C(CC(C(C)(C)O)C3(C)C)(C1=O)C2=O	ChemTasteDB
+Hydroxytricyclocolupone	Bitter	CC(C)=CCC12CC3C(CC(C(C)(C)O)C3(C)C)(C(=O)C(C(=O)C(C)C)=C1O)C2=O	ChemTasteDB
+Hydroxytricyclolupone	Bitter	CC(C)=CCC12CC3C(CC(C(C)(C)O)C3(C)C)(C(=O)C(C(=O)CC(C)C)=C1O)C2=O	ChemTasteDB
+Inosine	Bitter	O=c1nc[nH]c2c1ncn2C1OC(CO)C(O)C1O	ChemTasteDB
+Isobutylsulfamic acid ethyl ester	Bitter	CCOS(=O)(=O)NCC(C)C	ChemTasteDB
+Isodonal	Bitter	C=C1C(=O)C23CC1CC(O)C2C1(COC(C)=O)C(CCC(C)(C)C1C=O)OC3=O	ChemTasteDB
+Isoeugenyl methyl ether	Bitter	CC=Cc1ccc(OC)c(OC)c1	ChemTasteDB
+Isoliquiritigenin	Bitter	O=C(C=Cc1ccc(O)cc1)c1ccc(O)cc1O	ChemTasteDB
+Kaempferol 3-O-beta-D-(6''-O-malonyl)-glucoside	Bitter	O=C(O)CC(=O)OCC1OC(Oc2c(-c3ccc(O)cc3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	ChemTasteDB
+Kaempferol-3-O-beta-D-glucopyranoside	Bitter	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	ChemTasteDB
+Lactucin	Bitter	C=C1C(=O)OC2C3C(CO)=CC(=O)C3=C(C)CC(O)C12	ChemTasteDB
+Lactucin-15-oxalate	Bitter	C=C1C(=O)OC2C3C(COC(=O)C(=O)O)=CC(=O)C3=C(C)CC(O)C12	ChemTasteDB
+Lactucopicrin	Bitter	C=C1C(=O)OC2C3C(COC(=O)Cc4ccc(O)cc4)=CC(=O)C3=C(C)CC(O)C12	ChemTasteDB
+Lactucopicrin-15-oxalate	Bitter	C=C1C(=O)OC2C3C(COC(=O)C(=O)O)=CC(=O)C3=C(C)CC(OC(=O)Cc3ccc(O)cc3)C12	ChemTasteDB
+Lactupicrin	Bitter	C=C1C(=O)OC2C3C(CO)=CC(=O)C3=C(C)CC(OC(=O)Cc3ccc(O)cc3)C12	ChemTasteDB
+Laevuflex	Bitter	OCC1(O)OCC(O)C(O)C1O	ChemTasteDB
+Lafutidine	Bitter	O=C(CS(=O)Cc1ccco1)NCC=CCOc1cc(CN2CCCCC2)ccn1	ChemTasteDB
+L-Ala-L-Leu	Bitter	CC(C)CC(NC(=O)C(C)N)C(=O)O	ChemTasteDB
+L-Ala-L-Val	Bitter	CC(N)C(=O)NC(C(=O)O)C(C)C	ChemTasteDB
+Lappaconitine	Bitter	CCN1CC2(OC(=O)c3ccccc3NC(C)=O)CCC(OC)C34C1C(CC23)C1(O)CC(OC)C2CC4C1(O)C2OC	ChemTasteDB
+L-Arginine	Bitter	N=C(N)NCCCC(N)C(=O)O	ChemTasteDB
+L-Aspartyl-L-alanine methyl ester	Bitter	COC(=O)C(C)NC(=O)C(N)CC(=O)O	ChemTasteDB
+L-Aspartyl-L-alanyl tetramethylcyclopentyl	Bitter	CC(NC(=O)C(N)CC(=O)O)C(=O)NC1C(C)(C)CCC1(C)C	ChemTasteDB
+L-Asp-D-Phe-OMe	Bitter	COC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(=O)O	ChemTasteDB
+Leu-Phe	Bitter	CC(C)CC(N)C(=O)NC(Cc1ccccc1)C(=O)O	ChemTasteDB
+L-Gly-L-Leu	Bitter	CC(C)CC(NC(=O)CN)C(=O)O	ChemTasteDB
+L-Gly-L-Phe	Bitter	NCC(=O)NC(Cc1ccccc1)C(=O)O	ChemTasteDB
+L-Histidine 	Bitter	NC(Cc1cnc[nH]1)C(=O)O	ChemTasteDB
+Lidocaine HCl	Bitter	CCN(CC)CC(=O)Nc1c(C)cccc1C.Cl	ChemTasteDB
+Limonin	Bitter	CC1(C)OC2CC(=O)OCC23C1CC(=O)C1(C)C3CCC2(C)C(c3ccoc3)OC(=O)C3OC321	ChemTasteDB
+Linamarin	Bitter	CC(C)(C#N)OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Lincomycin hydrochloride	Bitter	CCCC1CC(C(=O)NC(C(C)O)C2OC(SC)C(O)C(O)C2O)N(C)C1.Cl	ChemTasteDB
+L-Isoleucine	Bitter	CCC(C)C(N)C(=O)O	ChemTasteDB
+L-Leucine	Bitter	CC(C)CC(N)C(=O)O	ChemTasteDB
+L-Leu-L-Ala	Bitter	CC(C)CC(N)C(=O)NC(C)C(=O)O	ChemTasteDB
+L-Leu-L-Gly	Bitter	CC(C)CC(N)C(=O)NCC(=O)O	ChemTasteDB
+L-Leu-L-Leu	Bitter	CC(C)CC(N)C(=O)NC(CC(C)C)C(=O)O	ChemTasteDB
+L-Lysine	Bitter	NCCCCC(N)C(=O)O	ChemTasteDB
+L-Menthone	Bitter	CC1CCC(C(C)C)C(=O)C1	ChemTasteDB
+L-Norvaline	Bitter	CCCC(N)C(=O)O	ChemTasteDB
+L-Phe-L-Gly	Bitter	NC(Cc1ccccc1)C(=O)NCC(=O)O	ChemTasteDB
+L-Phe-L-Gly-L-Gly-L-Phe	Bitter	NC(Cc1ccccc1)C(=O)NCC(=O)NCC(=O)NC(Cc1ccccc1)C(=O)O	ChemTasteDB
+L-Phe-L-Gly-L-Phe-L-Gly	Bitter	NC(Cc1ccccc1)C(=O)NCC(=O)NC(Cc1ccccc1)C(=O)NCC(=O)O	ChemTasteDB
+L-Phenylalanine	Bitter	NC(Cc1ccccc1)C(=O)O	ChemTasteDB
+L-Tryptophan	Bitter	NC(Cc1c[nH]c2ccccc12)C(=O)O	ChemTasteDB
+L-Tyrosine	Bitter	NC(Cc1ccc(O)cc1)C(=O)O	ChemTasteDB
+Lupinine	Bitter	OCC1CCCN2CCCCC12	ChemTasteDB
+L-Valine	Bitter	CC(C)C(N)C(=O)O	ChemTasteDB
+L-Val-L-Ala	Bitter	CC(NC(=O)C(N)C(C)C)C(=O)O	ChemTasteDB
+Lycopodine	Bitter	CC1CC2CC(=O)C3CCCN4CCCC2C34C1	ChemTasteDB
+Malvidin-3-glucoside	Bitter	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(OC)c1O	ChemTasteDB
+Marrubiin	Bitter	CC1CC2OC(=O)C3(C)CCCC(C)(C23)C1(O)CCc1ccoc1	ChemTasteDB
+Matrine	Bitter	O=C1CCCC2C3CCCN4CCCC(CN12)C34	ChemTasteDB
+m-Benzenedisulfamic acid, disodium salt	Bitter	O=S(=O)([O-])Nc1cccc(NS(=O)(=O)[O-])c1.[Na+].[Na+]	ChemTasteDB
+Melilotoside	Bitter	O=C(O)C=Cc1ccccc1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Menthyl isovalerate	Bitter	CC(C)CC(=O)OC1CC(C)CCC1C(C)C	ChemTasteDB
+Meranzin	Bitter	COc1ccc2ccc(=O)oc2c1CC1OC1(C)C	ChemTasteDB
+Mersalyl	Bitter	COC(C[Hg])CNC(=O)c1ccccc1OCC(=O)[O-].O.[Na+]	ChemTasteDB
+m-Tolylurea	Bitter	Cc1cccc(NC(N)=O)c1	ChemTasteDB
+Methacycline hydrochloride	Bitter	C=C1c2cccc(O)c2C(O)=C2C(=O)C3(O)C(O)=C(C(N)=O)C(=O)C(N(C)C)C3C(O)C12.Cl	ChemTasteDB
+Methadone hydrochloride	Bitter	CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1.Cl	ChemTasteDB
+Methamphetamine hydrochloride	Bitter	CNC(C)Cc1ccccc1.Cl	ChemTasteDB
+Methyl 2-[2-(3-hydroxy-4-methoxyphenyl)ethyl]benzoate	Bitter	COC(=O)c1ccccc1CCc1ccc(OC)c(O)c1	ChemTasteDB
+Methylergonovine maleate	Bitter	CCC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1.O=C(O)C=CC(=O)O	ChemTasteDB
+Methyl-α-D-2,6-dideoxy-gluco-pyranoside	Bitter	COC1CC(O)C(O)C(C)O1	ChemTasteDB
+Methyl-α-D-3,6-dideoxy-gluco-pyranoside	Bitter	COC1OC(C)C(O)CC1O	ChemTasteDB
+Methyl-α-D-4,6-dideoxy-gluco-pyranoside	Bitter	COC1OC(C)CC(O)C1O	ChemTasteDB
+Mibefradil dihydrochloride	Bitter	COCC(=O)OC1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2C1C(C)C.Cl.Cl	ChemTasteDB
+m-Nitrobenzene	Bitter	O=[N+]([O-])c1cccc([N+](=O)[O-])c1	ChemTasteDB
+Momordicine I	Bitter	CC(C)=CC(O)CC(C)C1CCC2(C)C3C(O)C=C4C(CCC(O)C4(C)C)C3(C=O)CCC12C	ChemTasteDB
+Momordin Ic	Bitter	CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(C(=O)O)C(O)C(OC7OCC(O)C(O)C7O)C6O)C(C)(C)C5CCC43C)C2C1	ChemTasteDB
+Momordin II	Bitter	CC1(C)CCC2(C(=O)OC3OC(CO)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(C(=O)O)C(O)C(OC7OCC(O)C(O)C7O)C6O)C(C)(C)C5CCC43C)C2C1	ChemTasteDB
+Morphine hydrochloride	Bitter	CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5.Cl	ChemTasteDB
+Moveltipril calcium salt	Bitter	CC(CSC(=O)C(C)NC(=O)C1CCCCC1)C(=O)N1CCCC1C(=O)[O-].CC(CSC(=O)C(C)NC(=O)C1CCCCC1)C(=O)N1CCCC1C(=O)[O-].[Ca+2]	ChemTasteDB
+N-(1-naphthyl)imidodisulfuric acid disodium salt	Bitter	O=S(=O)([O-])N(c1cccc2ccccc12)S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-(2,2-diethoxyethyl)imidodisulfuric acid disodium salt	Bitter	CCOC(CN(S(=O)(=O)[O-])S(=O)(=O)[O-])OCC.[Na+].[Na+]	ChemTasteDB
+N-(2-methylprop-2-enylidene)hydroxylamine	Bitter	C=C(C)C=NO	ChemTasteDB
+N-(2-morpholinoethyl)imidodisulfuric acid disodium salt	Bitter	O=S(=O)([O-])N(CCN1CCOCC1)S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-(2-piperidinoethyl)imidodisulfuric acid disodium salt	Bitter	O=S(=O)([O-])N(CCN1CCCCC1)S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-(5-methoxy-2-methylpent-2-en-1-ylidene)hydroxylamine	Bitter	COCCC=C(C)C=NO	ChemTasteDB
+N-(7-methoxy-2-methylhept-2-en-1-ylidene)hydroxylamine	Bitter	COCCCCC=C(C)C=NO	ChemTasteDB
+N-[(3-ethenylcyclohex-1-en-1-yl)methylidene]hydroxylamine	Bitter	C=CC1C=C(C=NO)CCC1	ChemTasteDB
+N-[(4-methylcyclohex-1-en-1-yl)methylidene]hydroxylamine	Bitter	CC1CC=C(C=NO)CC1	ChemTasteDB
+N-[2-(diethylamino)ethyl]imidodisulfuric acid disodium salt	Bitter	CCN(CC)CCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-[2-(dimethylamino)ethyl]imidodisulfuric acid disodium salt	Bitter	CN(C)CCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-[3-(dimethylamino)propyl]imidodisulfuric acid disodium salt	Bitter	CN(C)CCCN(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+N-[6-[Bis(sodiooxysulfonyl)amino]hexyl]imidodisulfuric acid disodium salt	Bitter	O=S(=O)([O-])N(CCCCCCN(S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+].[Na+].[Na+]	ChemTasteDB
+N-{[4-(propan-2-yl)cyclohexa-1,4-dien-1-yl]methylidene}hydroxylamine	Bitter	CC(C)C1=CCC(C=NO)=CC1	ChemTasteDB
+N-{[5-(methoxymethyl)cyclopent-1-en-1-yl]methylidene}hydroxylamine	Bitter	COCC1CCC=C1C=NO	ChemTasteDB
+Naringin	Bitter	CC1OC(OC2C(Oc3cc(O)c4c(c3)OC(c3ccc(O)cc3)CC4=O)OC(CO)C(O)C2O)C(O)C(O)C1O	ChemTasteDB
+Neoeriocitrin	Bitter	CC1OC(OC2C(Oc3cc(O)c4c(c3)OC(c3ccc(O)c(O)c3)CC4=O)OC(CO)C(O)C2O)C(O)C(O)C1O	ChemTasteDB
+Neohesperidin	Bitter	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(CO)C(O)C(O)C4OC4OC(C)C(O)C(O)C4O)cc3O2)cc1O	ChemTasteDB
+Neoquassin	Bitter	COC1=CC(C)C2CC3OC(O)CC4C(C)=C(OC)C(=O)C(C2(C)C1=O)C34C	ChemTasteDB
+Nerol	Bitter	CC(C)=CCCC(C)=CCO	ChemTasteDB
+Neryl isovalerate	Bitter	CC(C)=CCCC(C)=CCOC(=O)CC(C)C	ChemTasteDB
+Nicotine	Bitter	CN1CCCC1c1cccnc1	ChemTasteDB
+N-Isobutyl acetamide	Bitter	CC(=O)NCC(C)C	ChemTasteDB
+Nitrofurazone	Bitter	NC(=O)NN=Cc1ccc([N+](=O)[O-])o1	ChemTasteDB
+Nobilin	Bitter	C=C1C(=O)OC2C=C(C)C(O)CC=C(C)CC(OC(=O)C(C)=CC)C12	ChemTasteDB
+Nodosin	Bitter	C=C1C(=O)C23CC1CC(O)C2C12COC(O)C1C(C)(C)CCC2OC3=O	ChemTasteDB
+Nodosinol	Bitter	CC(=O)OC1OCC23C(CCC(C)(C)C12)OC(=O)C12CC(CC(=O)C13)C(C)C2=O	ChemTasteDB
+Nomilin	Bitter	CC(=O)OC1CC(=O)OC(C)(C)C2CC(=O)C3(C)C(CCC4(C)C(c5ccoc5)OC(=O)C5OC543)C12C	ChemTasteDB
+Nortricycloadlupone	Bitter	CCC(C)C(=O)C1=C(O)C2(CC=C(C)C)CC3C(C)(C)CCC3(C1=O)C2=O	ChemTasteDB
+Nortricyclocolupone	Bitter	CC(C)=CCC12CC3C(C)(C)CCC3(C(=O)C(C(=O)C(C)C)=C1O)C2=O	ChemTasteDB
+Nortricyclolupone	Bitter	CC(C)=CCC12CC3C(C)(C)CCC3(C(=O)C(C(=O)CC(C)C)=C1O)C2=O	ChemTasteDB
+Noscapine	Bitter	COc1ccc2c(c1OC)C(=O)OC2C1c2c(cc3c(c2OC)OCO3)CCN1C	ChemTasteDB
+N-Phenyl-[p-phenylenebis(sulfamic acid sodium)] salt	Bitter	O=S(=O)([O-])Nc1ccc(N(c2ccccc2)S(=O)(=O)[O-])cc1.[Na+].[Na+]	ChemTasteDB
+Obacunone	Bitter	CC1(C)OC(=O)C=CC2(C)C1CC(=O)C1(C)C2CCC2(C)C(c3ccoc3)OC(=O)C3OC321	ChemTasteDB
+Officinalisnin I	Bitter	CC(CCC1(O)OC2CC3C4CCC5CC(OC6OC(CO)C(O)C(O)C6OC6OC(CO)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Oleuropein	Bitter	CC=C1C(OC2OC(CO)C(O)C(O)C2O)OC=C(C(=O)OC)C1CC(=O)OCCc1ccc(O)c(O)c1	ChemTasteDB
+Omeprazole	Bitter	COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1	ChemTasteDB
+Oridonin	Bitter	C=C1C(=O)C23C(O)C1CCC2C12COC3(O)C(O)C1C(C)(C)CCC2O	ChemTasteDB
+Ouabain	Bitter	CC1OC(OC2CC(O)C3(CO)C4C(O)CC5(C)C(C6=CC(=O)OC6)CCC5(O)C4CCC3(O)C2)C(O)C(O)C1O	ChemTasteDB
+Oxyacanthine	Bitter	COc1cc2c3cc1Oc1c(OC)c(OC)cc4c1C(Cc1ccc(cc1)Oc1cc(ccc1O)CC3N(C)CC2)N(C)CC4	ChemTasteDB
+Pancuronium bromide	Bitter	CC(=O)OC1CC2CCC3C(CCC4(C)C3CC([N+]3(C)CCCCC3)C4OC(C)=O)C2(C)CC1[N+]1(C)CCCCC1.[Br-].[Br-]	ChemTasteDB
+Pantoprazole	Bitter	COc1ccnc(CS(=O)c2nc3cc(OC(F)F)ccc3[nH]2)c1OC	ChemTasteDB
+Pantothenic acid	Bitter	CC(C)(CO)C(O)C(=O)NCCC(=O)O	ChemTasteDB
+Parthenin	Bitter	C=C1C(=O)OC2C1CCC(C)C1(O)C=CC(=O)C21C	ChemTasteDB
+Periplocymarin	Bitter	COC1CC(OC2CCC3(C)C4CCC5(C)C(C6=CC(=O)OC6)CCC5(O)C4CCC3(O)C2)OC(C)C1O	ChemTasteDB
+Peroxyartemorin	Bitter	C=C1CCC2C(=C)C(=O)OC2C=C(C)CCC1OO	ChemTasteDB
+Persin	Bitter	CCCCCC=CCC=CCCCCCCCC(=O)CC(O)COC(C)=O	ChemTasteDB
+PGG	Bitter	O=C(OCC1OC(OC(=O)c2cc(O)c(O)c(O)c2)C(OC(=O)c2cc(O)c(O)c(O)c2)C(OC(=O)c2cc(O)c(O)c(O)c2)C1OC(=O)c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1	ChemTasteDB
+Phe-Leu	Bitter	CC(C)CC(NC(=O)C(N)Cc1ccccc1)C(=O)O	ChemTasteDB
+Phenobarbital sodium	Bitter	CCC1(c2ccccc2)C(=O)NC(=O)NC1=O	ChemTasteDB
+Phentolamine mono-hydrochloride	Bitter	Cc1ccc(N(CC2=NCCN2)c2cccc(O)c2)cc1	ChemTasteDB
+Phenyl beta-D-glucopyranoside	Bitter	OCC1OC(Oc2ccccc2)C(O)C(O)C1O	ChemTasteDB
+Phenylephrine hydrochloride	Bitter	CNCC(O)c1cccc(O)c1.Cl	ChemTasteDB
+Phe-Trp	Bitter	NC(Cc1ccccc1)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O	ChemTasteDB
+Phloroisovalerophenon-3,5-di-C-beta-D-glucopyranoside	Bitter	CC(C)CC(=O)c1c(O)c(C2OC(CO)C(O)C(O)C2O)c(O)c(C2OC(CO)C(O)C(O)C2O)c1O	ChemTasteDB
+Pholcodine	Bitter	CN1CCC23c4c5ccc(OCCN6CCOCC6)c4OC2C(O)C=CC3C1C5	ChemTasteDB
+Picrocrocin	Bitter	CC1=C(C=O)C(C)(C)CC(OC2OC(CO)C(O)C(O)C2O)C1	ChemTasteDB
+Picromycin	Bitter	CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)CC(C)C(=O)C=CC1(C)O	ChemTasteDB
+Picrotin	Bitter	CC(C)(O)C1C2OC(=O)C1C1(O)CC3OC34C(=O)OC2C14C	ChemTasteDB
+Picrotoxin	Bitter	C=C(C)C1C2OC(=O)C1C1(O)CC3OC34C(=O)OC2C14C.CC(C)(O)C1C2OC(=O)C1C1(O)CC3OC34C(=O)OC2C14C	ChemTasteDB
+Picrotoxinin	Bitter	C=C(C)C1C2OC(=O)C1C1(O)CC3OC34C(=O)OC2C14C	ChemTasteDB
+Pifarnine	Bitter	CC(C)=CCCC(C)=CCCC(C)=CCN1CCN(Cc2ccc3c(c2)OCO3)CC1	ChemTasteDB
+Pinellic acid	Bitter	CCCCCC(O)C(O)C=CC(O)CCCCCCCC(=O)O	ChemTasteDB
+Pinocembrin	Bitter	O=C1CC(c2ccccc2)Oc2cc(O)cc(O)c21	ChemTasteDB
+Piperazine	Bitter	C1CNCCN1	ChemTasteDB
+Plaunotol	Bitter	CC(C)=CCCC(C)=CCCC(=CCCC(C)=CCO)CO	ChemTasteDB
+Pollenopyrroside A	Bitter	O=Cc1ccc2n1CC1(CC(O)C(O)CO1)OC2	ChemTasteDB
+Polysorbate 80	Bitter	CCCCCCCCC=CCCCCCCCC(=O)OCCOCC(OCCO)C1OCC(OCCO)C1OCCO	ChemTasteDB
+Poncirin 	Bitter	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(CO)C(O)C(O)C4OC4OC(C)C(O)C(O)C4O)cc3O2)cc1	ChemTasteDB
+Prednisolone	Bitter	CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO	ChemTasteDB
+Prednisone	Bitter	CC12C=CC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO	ChemTasteDB
+Pro-Arg	Bitter	NC(N)=NCCCC(NC(=O)C1CCCN1)C(=O)O	ChemTasteDB
+Procaine	Bitter	CCN(CC)CCOC(=O)c1ccc(N)cc1	ChemTasteDB
+Procyanidin B2 3'-O-gallate	Bitter	O=C(OC1Cc2c(O)cc(O)c(C3c4c(O)cc(O)cc4OC(c4ccc(O)c(O)c4)C3O)c2OC1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1	ChemTasteDB
+Procyanidin B3	Bitter	Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2	ChemTasteDB
+Procyanidin C2	Bitter	Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2	ChemTasteDB
+Progesterone	Bitter	CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	ChemTasteDB
+Progoitrin	Bitter	C=CC(O)CC(=NOS(=O)(=O)O)SC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Promethazine	Bitter	CC(CN1c2ccccc2Sc2ccccc21)N(C)C	ChemTasteDB
+Propoxyphene	Bitter	CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C.O=S(=O)(O)c1ccc2ccccc2c1	ChemTasteDB
+Propoxyphene hydrochloride	Bitter	CCC(=O)OC(Cc1ccccc1)(c1ccccc1)C(C)CN(C)C.Cl	ChemTasteDB
+Propyl 2-furanacrylate	Bitter	CCCOC(=O)C=Cc1ccco1	ChemTasteDB
+Prunin	Bitter	O=C1CC(c2ccc(O)cc2)Oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c21	ChemTasteDB
+Pseudoephedrine sulfate	Bitter	CNC(C)C(O)c1ccccc1.O=S(=O)(O)O	ChemTasteDB
+Psychotrine	Bitter	CCC1CN2CCc3cc(OC)c(OC)cc3C2CC1CC1=C2C=C(OC)C(=O)C=C2CCN1	ChemTasteDB
+Purine	Bitter	c1ncc2[nH]cnc2n1	ChemTasteDB
+Pyrazine	Bitter	c1cnccn1	ChemTasteDB
+Pyridine	Bitter	c1ccncc1	ChemTasteDB
+Pyrimidine	Bitter	c1cncnc1	ChemTasteDB
+Pyrrole	Bitter	c1cc[nH]c1	ChemTasteDB
+Pyrrolidine	Bitter	C1CCNC1	ChemTasteDB
+QLFGPNVNPWHNP	Bitter	CC(C)CC(NC(=O)C(N)CCC(N)=O)C(=O)NC(Cc1ccccc1)C(=O)NCC(=O)N1CCCC1C(=O)NC(CC(N)=O)C(=O)NC(C(=O)NC(CC(N)=O)C(=O)N1CCCC1C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC(N)=O)C(=O)N1CCCC1C(=O)O)C(C)C	ChemTasteDB
+Quassin	Bitter	COC1=CC(C)C2CC3OC(=O)CC4C(C)=C(OC)C(=O)C(C2(C)C1=O)C34C	ChemTasteDB
+Quebrachamine	Bitter	CCC12CCCN(CCc3c([nH]c4ccccc34)CC1)C2	ChemTasteDB
+Quercetin-3-O-beta-D-glucopyranoside	Bitter	O=c1c(OC2CC(CO)C(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	ChemTasteDB
+Quinic acid	Bitter	O=C(O)C1(O)CC(O)C(O)C(O)C1	ChemTasteDB
+Quinidine sulphate	Bitter	C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.O=S(=O)(O)O	ChemTasteDB
+Quinine	Bitter	C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12	ChemTasteDB
+Quinine dihydrochloride	Bitter	C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.Cl.Cl	ChemTasteDB
+Quinine hydrochloride	Bitter	C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.Cl	ChemTasteDB
+Quinizolate	Bitter	O=C1C(=Cc2ccco2)C(CO)[n+]2cc([O-])c(Cc3ccco3)cc21	ChemTasteDB
+Quinovic acid	Bitter	CC1CCC2(C(=O)O)CCC3(C(=O)O)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C	ChemTasteDB
+Rabdosianone I	Bitter	C=C1C(=O)C23CC1CCC2C12COC3(O)C(O)C1C(C)(C)C=CC2=O	ChemTasteDB
+Rabdosianone II	Bitter	C=C1C2CCC3C45COC(O)(C(O)C4C(C)(C)C=CC5=O)C3(C2)C1OC(C)=O	ChemTasteDB
+Raffinose undecaacetate	Bitter	CC(=O)OCC1OC(OCC2OC(OC3(COC(C)=O)OC(COC(C)=O)C(OC(C)=O)C3OC(C)=O)C(OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O	ChemTasteDB
+Ranitidine hydrochloride	Bitter	CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1.Cl	ChemTasteDB
+Resveratrol	Bitter	Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1	ChemTasteDB
+Rhododendrin	Bitter	CC(CCc1ccc(O)cc1)OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Salicine	Bitter	OCc1ccccc1OC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Santamarine	Bitter	C=C1C(=O)OC2C1CCC1(C)C(O)CC=C(C)C21	ChemTasteDB
+Scabraside	Bitter	C=CC1C(OC2OC(COC(C)=O)C(OC(=O)c3cccc(OC4OC(CO)C(O)C(O)C4O)c3O)C(OC(C)=O)C2OC(=O)c2ccccc2)OC=C2C(=O)OCCC21	ChemTasteDB
+Scillaren	Bitter	CC1OC(OC2C=C3CCC4C(CCC5(C)C(c6ccc(=O)oc6)CCC45O)C3(C)CC2)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1O	ChemTasteDB
+Scorpiocohumol	Bitter	CC(C)=CC1OC(C)(C)C2CC3C(=O)C(C(=O)C(C)C)=C(O)C3(O)C12O	ChemTasteDB
+Scorpiohumol	Bitter	CC(C)=CC1OC(C)(C)C2CC3C(=O)C(C(=O)CC(C)C)=C(O)C3(O)C12O	ChemTasteDB
+Senecionine	Bitter	CC=C1CC(C)C(C)(O)C(=O)OCC2=CCN3CCC(OC1=O)C23	ChemTasteDB
+Shikokianin	Bitter	C=C1C(=O)C23CC1CC(OC(C)=O)C2C12COC3(O)C(O)C1C(C)(C)CCC2OC(C)=O	ChemTasteDB
+Silibinin	Bitter	COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O	ChemTasteDB
+Sinapic acid	Bitter	COc1cc(C=CC(=O)O)cc(OC)c1O	ChemTasteDB
+Sinapine	Bitter	COc1cc(C=CC(=O)OCC[N+](C)(C)C)cc(OC)c1O	ChemTasteDB
+Sinigrin	Bitter	C=CCC(=NOS(=O)(=O)[O-])SC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Sinigrin potassium	Bitter	C=CCC(=NOS(=O)(=O)[O-])SC1OC(CO)C(O)C(O)C1O.[K+]	ChemTasteDB
+Sintenin	Bitter	CC(=O)OC1CC=C(C)C(OC(C)=O)CC2C(C=C1C)OC(=O)C2C	ChemTasteDB
+Sodium N-(2,3-dihydro-1,4-benzodioxin-6-yl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccc2c(c1)OCCO2.[Na+]	ChemTasteDB
+Sodium N-(2,4-dibromophenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccc(Br)cc1Br.[Na+]	ChemTasteDB
+Sodium N-(2,6-diethylphenyl)sulfamate	Bitter	CCc1cccc(CC)c1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(2-benzylphenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccccc1Cc1ccccc1.[Na+]	ChemTasteDB
+Sodium N-(2-bromo-4-propan-2-ylphenyl)sulfamate	Bitter	CC(C)c1ccc(NS(=O)(=O)[O-])c(Br)c1.[Na+]	ChemTasteDB
+Sodium N-(2-butoxycarbonylphenyl)sulfamate	Bitter	CCCCOC(=O)c1ccccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(2-chloro-4-fluorophenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccc(F)cc1Cl.[Na+]	ChemTasteDB
+Sodium N-(2-chloro-4-nitrophenyl)sulfamate	Bitter	O=[N+]([O-])c1ccc(NS(=O)(=O)[O-])c(Cl)c1.[Na+]	ChemTasteDB
+Sodium N-(2-methyl-4-nitrophenyl)sulfamate	Bitter	Cc1cc([N+](=O)[O-])ccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(3-ethoxycarbonylphenyl)sulfamate	Bitter	CCOC(=O)c1cccc(NS(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-(3-ethyl-6-methylpyridin-2-yl)sulfamate	Bitter	CCc1ccc(C)nc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(3-fluoro-4-methylphenyl)sulfamate	Bitter	Cc1ccc(NS(=O)(=O)[O-])cc1F.[Na+]	ChemTasteDB
+Sodium N-(3-iodo-4-methylphenyl)sulfamate	Bitter	Cc1ccc(NS(=O)(=O)[O-])cc1I.[Na+]	ChemTasteDB
+Sodium N-(3-phenoxyphenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1cccc(Oc2ccccc2)c1.[Na+]	ChemTasteDB
+Sodium N-(3-phenylmethoxyphenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1cccc(OCc2ccccc2)c1.[Na+]	ChemTasteDB
+Sodium N-(3-tert-butylphenyl)sulfamate	Bitter	CC(C)(C)c1cccc(NS(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-(4-bromo-2-chlorophenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccc(Br)cc1Cl.[Na+]	ChemTasteDB
+Sodium N-(4-bromo-2-fluorophenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccc(Br)cc1F.[Na+]	ChemTasteDB
+Sodium N-(4-chloro-1,3-benzothiazol-2-yl)sulfamate	Bitter	O=S(=O)([O-])Nc1nc2c(Cl)cccc2s1.[Na+]	ChemTasteDB
+Sodium N-(4-chloro-2-nitrophenyl)sulfamate	Bitter	O=[N+]([O-])c1cc(Cl)ccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(4-fluoro-2-methylphenyl)sulfamate	Bitter	Cc1cc(F)ccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(4-fluoro-2-nitrophenyl)sulfamate	Bitter	O=[N+]([O-])c1cc(F)ccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(4-fluoro-3-methylphenyl)sulfamate	Bitter	Cc1cc(NS(=O)(=O)[O-])ccc1F.[Na+]	ChemTasteDB
+Sodium N-(4-methoxy-2-methylphenyl)sulfamate	Bitter	COc1ccc(NS(=O)(=O)[O-])c(C)c1.[Na+]	ChemTasteDB
+Sodium N-(4-methoxycarbonylphenyl)sulfamate	Bitter	COC(=O)c1ccc(NS(=O)(=O)[O-])cc1.[Na+]	ChemTasteDB
+Sodium N-(4-tert-butyl-1,3-thiazol-2-yl)sulfamate	Bitter	CC(C)(C)c1csc(NS(=O)(=O)[O-])n1.[Na+]	ChemTasteDB
+Sodium N-(5-bromo-6-methylpyridin-2-yl)sulfamate	Bitter	Cc1nc(NS(=O)(=O)[O-])ccc1Br.[Na+]	ChemTasteDB
+Sodium N-(5-chloro-2-nitrophenyl)sulfamate	Bitter	O=[N+]([O-])c1ccc(Cl)cc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(6-nitro-1,3-benzothiazol-2-yl)sulfamate	Bitter	O=[N+]([O-])c1ccc2nc(NS(=O)(=O)[O-])sc2c1.[Na+]	ChemTasteDB
+Sodium N-[2-(butan-2-yl)phenyl]sulfamate	Bitter	CCC(C)c1ccccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-[2,6-di(propan-2-yl)phenyl]sulfamate	Bitter	CC(C)c1cccc(C(C)C)c1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-[3-(dimethylamino)phenyl]sulfamate	Bitter	CN(C)c1cccc(NS(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-[3,5-bis(methoxycarbonyl)phenyl]sulfamate	Bitter	COC(=O)c1cc(NS(=O)(=O)[O-])cc(C(=O)OC)c1.[Na+]	ChemTasteDB
+Sodium N-[4-(1-hydroxyethyl)phenyl]sulfamate	Bitter	CC(O)c1ccc(NS(=O)(=O)[O-])cc1.[Na+]	ChemTasteDB
+Sodium N-[4-(4-nitrobenzenesulfonyl)phenyl]sulfamate	Bitter	O=[N+]([O-])c1ccc(S(=O)(=O)c2ccc(NS(=O)(=O)[O-])cc2)cc1.[Na+]	ChemTasteDB
+Sodium N-[4-(methylsulfanyl)phenyl]sulfamate	Bitter	CSc1ccc(NS(=O)(=O)[O-])cc1.[Na+]	ChemTasteDB
+Sodium N-[4-(piperidine-1-sulfonyl)phenyl]sulfamate	Bitter	O=S(=O)([O-])Nc1ccc(S(=O)(=O)N2CCCCC2)cc1.[Na+]	ChemTasteDB
+Sodium N-[4-[(2-methylpropan-2-yl)oxycarbonyl]phenyl]sulfamate	Bitter	CC(C)(C)OC(=O)c1ccc(NS(=O)(=O)[O-])cc1.[Na+]	ChemTasteDB
+Sodium N-{[1,1'-biphenyl]-2-yl}sulfamate	Bitter	O=S(=O)([O-])Nc1ccccc1-c1ccccc1.[Na+]	ChemTasteDB
+Sodium nitrobenzene sulfonate	Bitter	O=[N+]([O-])c1cccc(S(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium thiocyanate	Bitter	N#C[S-].[Na+]	ChemTasteDB
+Solanidine	Bitter	CC1CCC2C(C)C3C(CC4C5CC=C6CC(O)CCC6(C)C5CCC43C)N2C1	ChemTasteDB
+Spartein sulfate	Bitter	C1CCN2CC3CC(CN4CCCCC34)C2C1.O=S(=O)(O)O	ChemTasteDB
+Sparteine	Bitter	C1CCN2CC3CC(CN4CCCCC34)C2C1	ChemTasteDB
+Speciformin acetate	Bitter	C=C1C(=O)OC2CC(C)=CCCC3(C)OC3C(OC(C)=O)C12	ChemTasteDB
+Streptomycin	Bitter	CNC1C(OC2C(OC3C(O)C(O)C(N=C(N)N)C(O)C3N=C(N)N)OC(C)C2(O)C=O)OC(CO)C(O)C1O	ChemTasteDB
+Strychnine	Bitter	O=C1CC2OCC=C3CN4CCC56c7ccccc7N1C5C2C3CC46	ChemTasteDB
+Strychnine-N-oxide	Bitter	O=C1CC2OCC=C3C[N+]4([O-])CCC56c7ccccc7N1C5C2C3CC64	ChemTasteDB
+Sucrose octaacetate	Bitter	CC(=O)OCC1OC(OC2(COC(C)=O)OC(COC(C)=O)C(OC(C)=O)C2OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O	ChemTasteDB
+Sulfamerazine monosodium salt	Bitter	Cc1ccnc([N-]S(=O)(=O)c2ccc(N)cc2)n1.[Na+]	ChemTasteDB
+Suosan-aspartame hybrid 34	Bitter	COC(=O)C(NC(=O)C(CC(=O)O)NC(=S)Nc1ccc(C#N)cc1)C(=O)OC1C2(C)CCC(C2)C1(C)C	ChemTasteDB
+Swertiamarin	Bitter	C=CC1C(OC2OC(CO)C(O)C(O)C2O)OC=C2C(=O)OCCC21O	ChemTasteDB
+Tatridin A	Bitter	C=C1C(=O)OC2C=C(C)C(O)CCC(C)=CC(O)C12	ChemTasteDB
+Tatridin B	Bitter	C=C1CC2OC(=O)C(=C)C2C(O)C=C(C)CCC1O	ChemTasteDB
+Tatridn A acetate	Bitter	C=C1C(=O)OC2C=C(C)C(OC(C)=O)CCC(C)=CC(OC(C)=O)C12	ChemTasteDB
+Taurocholic acid	Bitter	CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	ChemTasteDB
+Telosmoside A2	Bitter	CCC(C)C(=O)OC(C)C1(O)CCC2(O)C3CCC4CC(OC5CC(OC)C(OC6CC(OC)C(OC7OC(C)C(OC8OC(CO)C(O)C(O)C8O)C(OC)C7O)C(C)O6)C(C)O5)CCC4(C)C3CC(OC(C)=O)C12C	ChemTasteDB
+Terpin	Bitter	CC1(O)CCC(C(C)(C)O)CC1	ChemTasteDB
+Tetracycloadhumol	Bitter	CCC(C)C1=C2C(=O)C3CC(C(C)(C)O)C4(O)CC(C(C)(C)O1)C2(O)C34O	ChemTasteDB
+Tetracyclocohumol	Bitter	CC(C)C1=C2C(=O)C3CC(C(C)(C)O)C4(O)CC(C(C)(C)O1)C2(O)C34O	ChemTasteDB
+Tetracyclohumol	Bitter	CC(C)CC1=C2C(=O)C3CC(C(C)(C)O)C4(O)CC(C(C)(C)O1)C2(O)C34O	ChemTasteDB
+Tetrahydroepinodosin	Bitter	CC1C2CC(O)C3C(C2)(C(=O)OC2CCC(C)(C)C4C(O)OCC243)C1O	ChemTasteDB
+Teuflavin	Bitter	CC(=O)OCC12C(O)CC(C)C3(CC(c4ccoc4)OC3O)C1CCC(=O)C21CO1	ChemTasteDB
+Teuflavoside	Bitter	CC(=O)OCC1=C2C(OC3OC(CO)C(O)C(O)C3O)CC(C)C3(CC(c4ccoc4)OC3=O)C2CCC1	ChemTasteDB
+Teumarin	Bitter	CC(=O)OCC12C(O)CC(C)C3(CC(c4ccoc4)OC3=O)C1CC(O)CC21CO1	ChemTasteDB
+Theophylline sodium acetate	Bitter	CC(=O)[O-].Cn1c(=O)c2[nH]cnc2n(C)c1=O.[Na+]	ChemTasteDB
+Thiacetazone	Bitter	CC(=O)Nc1ccc(C=NNC(N)=S)cc1	ChemTasteDB
+Thiamine hydrochloride	Bitter	Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1.Cl.[Cl-]	ChemTasteDB
+Tiliacorine	Bitter	COc1ccc2cc1-c1cc(ccc1O)CC1c3cc4c(cc3CCN1C)Oc1c(OC)cc3c(c1O4)C(C2)N(C)CC3	ChemTasteDB
+Tomatine	Bitter	CC1CCC2(NC1)OC1CC3C4CCC5CC(OC6OC(CO)C(OC7OC(CO)C(O)C(OC8OCC(O)C(O)C8O)C7OC7OC(CO)C(O)C(O)C7O)C(O)C6O)CCC5(C)C4CCC3(C)C1C2C	ChemTasteDB
+Topiramate	Bitter	CC1(C)OC2COC3(COS(N)(=O)=O)OC(C)(C)OC3C2O1	ChemTasteDB
+Tramadol hydrochloride	Bitter	COc1cccc(C2(O)CCCCC2CN(C)C)c1.Cl	ChemTasteDB
+trans-Adhumulinic acid	Bitter	CCC(C)C(=O)C1=C(O)C(O)C(CC=C(C)C)C1=O	ChemTasteDB
+trans-Alloisoadhumulone	Bitter	CCC(C)C(=O)C1=C(O)C(O)(C(=O)C=CC(C)C)C(CC=C(C)C)C1=O	ChemTasteDB
+trans-Alloisocohumulone	Bitter	CC(C)=CCC1C(=O)C(C(=O)C(C)C)=C(O)C1(O)C(=O)C=CC(C)C	ChemTasteDB
+trans-Alloisohumulone	Bitter	CC(C)=CCC1C(=O)C(C(=O)CC(C)C)=C(O)C1(O)C(=O)C=CC(C)C	ChemTasteDB
+trans-Cohumulinic acid	Bitter	CC(C)=CCC1C(=O)C(C(=O)C(C)C)=C(O)C1O	ChemTasteDB
+trans-Cyclo(D-Ala-L-Pro)	Bitter	CC1NC(=O)C2CCCN2C1=O	ChemTasteDB
+trans-Cyclo(D-Ala-L-Val)	Bitter	CC1NC(=O)C(C(C)C)NC1=O	ChemTasteDB
+trans-Cyclo(L-Val-D-Phe)	Bitter	CC(C)C1NC(=O)C(Cc2ccccc2)NC1=O	ChemTasteDB
+trans-Humulinic acid	Bitter	CC(C)=CCC1C(O)=C(C(=O)CC(C)C)C(=O)C1O	ChemTasteDB
+trans-Isoadhumulone	Bitter	CCC(C)C(=O)C1=C(O)C(O)(C(=O)CC=C(C)C)C(CC=C(C)C)C1=O	ChemTasteDB
+trans-Isocohumulone	Bitter	CC(C)=CCC(=O)C1(O)C(O)=C(C(=O)C(C)C)C(=O)C1CC=C(C)C	ChemTasteDB
+trans-Isohumulone	Bitter	CC(C)=CCC(=O)C1(O)C(O)=C(C(=O)CC(C)C)C(=O)C1CC=C(C)C	ChemTasteDB
+trans-N-feruloyltyramine	Bitter	COc1cc(C=CC(=O)NCCc2ccc(O)cc2)ccc1O	ChemTasteDB
+trans-p-Coumaric acid ethyl ester	Bitter	CCOC(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+trans-p-Coumaric acid methyl ester	Bitter	COC(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+trans-Pseudoisoeugenol 2-methyl butyrate	Bitter	CC=Cc1cc(OC)ccc1OC(=O)C(C)CC	ChemTasteDB
+Tricycloadhumene	Bitter	C=C(C)C1CC2(O)C(CC3C(=O)C(C(=O)C(C)CC)=C(O)C32O)C1(C)C	ChemTasteDB
+Tricycloadhumol	Bitter	CCC(C)C(=O)C1=C(O)C2(O)C(CC3C(C)(C)C(C(C)(C)O)CC32O)C1=O	ChemTasteDB
+Tricycloadhumulactol	Bitter	CCC(C)C(=O)C1=C(O)C2(O)C(CC3C(C)(C)OC(O)CC32O)C1=O	ChemTasteDB
+Tricycloadlupone	Bitter	CCC(C)C(=O)C1=C(O)C2(CC=C(C)C)CC3C(CC(C(C)C)C3(C)C)(C1=O)C2=O	ChemTasteDB
+Tricyclocohumene	Bitter	C=C(C)C1CC2(O)C(CC3C(=O)C(C(=O)C(C)C)=C(O)C32O)C1(C)C	ChemTasteDB
+Tricyclocohumol	Bitter	CC(C)C(=O)C1=C(O)C2(O)C(CC3C(C)(C)C(C(C)(C)O)CC32O)C1=O	ChemTasteDB
+Tricyclocohumulactol	Bitter	CC(C)C(=O)C1=C(O)C2(O)C(CC3C(C)(C)OC(O)CC32O)C1=O	ChemTasteDB
+Tricyclocolupone	Bitter	CC(C)=CCC12CC3C(CC(C(C)C)C3(C)C)(C(=O)C(C(=O)C(C)C)=C1O)C2=O	ChemTasteDB
+Tricyclohumene	Bitter	C=C(C)C1CC2(O)C(CC3C(=O)C(C(=O)CC(C)C)=C(O)C32O)C1(C)C	ChemTasteDB
+Tricyclohumol	Bitter	CC(C)CC(=O)C1=C(O)C2(O)C(CC3C(C)(C)C(C(C)(C)O)CC32O)C1=O	ChemTasteDB
+Tricyclohumulactol	Bitter	CC(C)CC(=O)C1=C(O)C2(O)C(CC3C(C)(C)OC(O)CC32O)C1=O	ChemTasteDB
+Tricyclolupone	Bitter	CC(C)=CCC12CC3C(CC(C(C)C)C3(C)C)(C(=O)C(C(=O)CC(C)C)=C1O)C2=O	ChemTasteDB
+Trigonelloside C	Bitter	CC(CCC1(O)OC2CC3C4CC=C5CC(OC6OC(CO)C(OC7OC(C)C(O)C(O)C7O)C(O)C6OC6OC(C)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Trp-Leu	Bitter	CC(C)CC(NC(=O)C(N)Cc1c[nH]c2ccccc12)C(=O)O	ChemTasteDB
+Trp-Trp	Bitter	NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O	ChemTasteDB
+Trp-Trp-Trp	Bitter	NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O	ChemTasteDB
+Umbellifolide	Bitter	C=C1C(=O)OC2CC(C)(CCCC(C)=O)C(=O)CC12	ChemTasteDB
+Ursodiol	Bitter	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	ChemTasteDB
+Vancomycin	Bitter	CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O	ChemTasteDB
+Verbenalin	Bitter	COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)CC(=O)C12	ChemTasteDB
+Vinbarbital sodium	Bitter	CCC=C(C)C1(CC)C(=O)[N-]C(=O)NC1=O.[Na+]	ChemTasteDB
+Viquidil hydrochloride	Bitter	C=CC1CNCCC1CCC(=O)c1ccnc2ccc(OC)cc12.Cl	ChemTasteDB
+Vitalboside A	Bitter	CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(CO)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1	ChemTasteDB
+Vulgarolid	Bitter	C=C1C(=O)OC2C1CCC(=O)CC1(C)CCC(O)OC21	ChemTasteDB
+Xanthohumol	Bitter	COc1cc(O)c(CC=C(C)C)c(O)c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+Xanthohumol B	Bitter	COc1cc2c(c(O)c1C(=O)C=Cc1ccc(O)cc1)CC(O)C(C)(C)O2	ChemTasteDB
+Xanthohumol C	Bitter	COc1cc2c(c(O)c1C(=O)C=Cc1ccc(O)cc1)C=CC(C)(C)O2	ChemTasteDB
+Xanthohumol D	Bitter	C=C(C)C(O)Cc1c(O)cc(OC)c(C(=O)C=Cc2ccc(O)cc2)c1O	ChemTasteDB
+Xanthohumol G	Bitter	COc1cc(O)c(CC(O)C(C)(C)O)c(O)c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+Xanthohumol H	Bitter	COc1cc(O)c(CCC(C)(C)O)c(O)c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+Xanthohumol I	Bitter	COc1cc(O)c2c(c1C(=O)C=Cc1ccc(O)cc1)OC(C(C)(C)O)C2	ChemTasteDB
+Xanthohumol L	Bitter	COc1cc(O)c2c(c1C(=O)C=Cc1ccc(O)cc1)OC(C)(C)C(O)C2	ChemTasteDB
+Xanthohumol M	Bitter	COc1cc(O)c(CCC(C)(C)OC)c(O)c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+Xanthohumol N	Bitter	C=C(C)CCc1c(O)cc(OC)c(C(=O)C=Cc2ccc(O)cc2)c1O	ChemTasteDB
+Xanthohumol O	Bitter	COc1cc(O)c2ccoc2c1C(=O)C=Cc1ccc(O)cc1	ChemTasteDB
+Xanthohumol P	Bitter	CCOC(C)(C)CCc1c(O)cc(OC)c(C(=O)C=Cc2ccc(O)cc2)c1O	ChemTasteDB
+Yohimbine	Bitter	COC(=O)C1C(O)CCC2CN3CCc4c([nH]c5ccccc45)C3CC21	ChemTasteDB
+Zaluzanin D	Bitter	C=C1C(=O)OC2C1CCC(=C)C1CC(OC(C)=O)C(=C)C12	ChemTasteDB
+ZINC01532585	Bitter	Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C	ChemTasteDB
+α-Chaconine	Bitter	CC1CCC2C(C)C3C(CC4C5CC=C6CC(OC7OC(CO)C(OC8OC(C)C(O)C(O)C8O)C(O)C7OC7OC(C)C(O)C(O)C7O)CCC6(C)C5CCC43C)N2C1	ChemTasteDB
+α-Linolenic acid	Bitter	CCC=CCC=CCC=CCCCCCCCC(=O)O	ChemTasteDB
+α-Santonin, (-)-form	Bitter	CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O	ChemTasteDB
+β-D-Mannose	Bitter	OCC1OC(O)C(O)C(O)C1O	ChemTasteDB
+β-Glucogallin	Bitter	O=C(OC1OC(CO)C(O)C(O)C1O)c1cc(O)c(O)c(O)c1	ChemTasteDB
+(-)-Hesperitin 	Bitter	COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O	ChemTasteDB
+13-Hydroxy-cis-9, trans-11-octadecadienoic acid	Bitter	CCCCCC(O)C=CC=CCCCCCCCC(=O)O	ChemTasteDB
+1-Aminocyclohexane-1-carboxylic acid	Bitter	NC1(C(=O)O)CCCCC1	ChemTasteDB
+1-Aminocyclooctane-1-carboxylic acid	Bitter	NC1(C(=O)O)CCCCCCC1	ChemTasteDB
+1-Aminocyclopentane-1-carboxylic acid	Bitter	NC1(C(=O)O)CCCC1	ChemTasteDB
+1-Cycloheptene-1-carboxaldehyde oxime	Bitter	ON=CC1=CCCCCC1	ChemTasteDB
+2-(4-bromophenylsulfonyl)-3-methylbutanoic acid	Bitter	CC(C)C(C(=O)O)S(=O)(=O)c1ccc(Br)cc1	ChemTasteDB
+2-Tridecenal	Bitter	CCCCCCCCCCC=CC=O	ChemTasteDB
+3-(p-tolilosulfonyl)butanoic acid	Bitter	Cc1ccc(S(=O)(=O)C(C)CC(=O)O)cc1	ChemTasteDB
+5-Chlorosaccharin	Bitter	O=C1NS(=O)(=O)c2ccc(Cl)cc21	ChemTasteDB
+6-Bromosaccharine	Bitter	O=C1NS(=O)(=O)c2cc(Br)ccc21	ChemTasteDB
+6-Chlorosaccharin	Bitter	O=C1NS(=O)(=O)c2cc(Cl)ccc21	ChemTasteDB
+7-Chloro-2,3-dihydro-1lambda6,2-benzothiazole-1,1,3-trione	Bitter	O=C1NS(=O)(=O)c2c(Cl)cccc21	ChemTasteDB
+9-Hydroxy-trans-10,cis-12-octadecadienoic acid	Bitter	CCCCCC=CC=CC(O)CCCCCCCC(=O)O	ChemTasteDB
+Aryl urea derivative 12	Bitter	N#Cc1ccc(NC(=O)NC(CC(=O)O)C2CCCCCCC2)cc1	ChemTasteDB
+Aryl urea derivative 13	Bitter	N#Cc1ccc(NC(=O)NC(CC(=O)O)C2CCCCC2)cc1	ChemTasteDB
+Aryl urea derivative 14	Bitter	N#Cc1ccc(NC(=O)NC2(CC(=O)O)CCCCCC2)cc1	ChemTasteDB
+Barium chloride	Bitter	[Ba+2].[Cl-].[Cl-]	ChemTasteDB
+Benzothiazolylsulfamate derivative 107	Bitter	O=S(=O)([O-])Nc1ccc2nc(S)sc2c1.[Na+]	ChemTasteDB
+Butanoic acid, 2-[(4-chlorophenyl)sulfonyl]-3-methyl-	Bitter	CC(C)C(C(=O)O)S(=O)(=O)c1ccc(Cl)cc1	ChemTasteDB
+Butylsulfamic acid ethyl ester	Bitter	CCCCNS(=O)(=O)OCC	ChemTasteDB
+Butylsulfamic acid propyl ester	Bitter	CCCCNS(=O)(=O)OCCC	ChemTasteDB
+Cinnamyl formate	Bitter	O=COCC=Cc1ccccc1	ChemTasteDB
+Citral (neral)	Bitter	CC(C)=CCCC(C)=CC=O	ChemTasteDB
+Cyclohexylsulfamic acid butyl ester	Bitter	CCCCOS(=O)(=O)NC1CCCCC1	ChemTasteDB
+Cyclohexylsulfamic acid cyclohexyl ester	Bitter	O=S(=O)(NC1CCCCC1)OC1CCCCC1	ChemTasteDB
+Cyclohexylsulfamic acid ethyl ester	Bitter	CCOS(=O)(=O)NC1CCCCC1	ChemTasteDB
+Cyclohexylsulfamic acid isobutyl ester	Bitter	CC(C)COS(=O)(=O)NC1CCCCC1	ChemTasteDB
+Cyclohexylsulfamic acid isopropyl ester	Bitter	CC(C)OS(=O)(=O)NC1CCCCC1	ChemTasteDB
+Cyclohexylsulfamic acid methyl ester	Bitter	COS(=O)(=O)NC1CCCCC1	ChemTasteDB
+Cyclohexylsulfamic acid propyl ester	Bitter	CCCOS(=O)(=O)NC1CCCCC1	ChemTasteDB
+Cyclohexylsulfamic acid sec-butyl ester	Bitter	CCC(C)OS(=O)(=O)NC1CCCCC1	ChemTasteDB
+Gaudichaudioside B	Bitter	CC(=CCO)CCC1=C(CO)CC(OC2OCC(O)C(O)C2O)C2C(C)(CO)CCCC12C	ChemTasteDB
+Gaudichaudioside E	Bitter	CC(=CCO)CCC1C(C)(O)CC(OC2OCC(O)C(O)C2O)C2C(C)(C)CC(O)CC21C	ChemTasteDB
+Genistin	Bitter	O=c1c(-c2ccc(O)cc2)coc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	ChemTasteDB
+Isobutylsulfamic acid propyl ester	Bitter	CCCOS(=O)(=O)NCC(C)C	ChemTasteDB
+L-Cysteine	Bitter	NC(CS)C(=O)O	ChemTasteDB
+L-Glutamic acid diethyl ester	Bitter	COC(=O)CCC(N)C(=O)OC	ChemTasteDB
+L-Menthol	Bitter	CC1CCC(C(C)C)C(O)C1	ChemTasteDB
+L-Methionine	Bitter	CSCCC(N)C(=O)O	ChemTasteDB
+Methyl D-mannopyranoside	Bitter	COCC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+Methyl β-D-glucoside	Bitter	COC1OC(CO)C(O)C(O)C1O	ChemTasteDB
+N-(1,5-dimethylhexyl)imidodisulfuric acid disodium salt	Bitter	CC(C)CCCC(C)N(S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]	ChemTasteDB
+Oleic acid	Bitter	CCCCCCCCC=CCCCCCCCC(=O)O	ChemTasteDB
+p-Nitrosaccharin	Bitter	O=C1NS(=O)(=O)c2cccc([N+](=O)[O-])c21	ChemTasteDB
+Potassium acid oxalate	Bitter	O=C([O-])C(=O)O.[K+]	ChemTasteDB
+Propylsulfamic acid propyl ester	Bitter	CCCNS(=O)(=O)OCCC	ChemTasteDB
+Protocatechuic acid	Bitter	O=C(O)c1ccc(O)c(O)c1	ChemTasteDB
+QLFGPNVNPW-COOC2H5	Bitter	CCc1[nH]c2ccccc2c1CC(NC(=O)C1CCCN1C(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(CC(N)=O)NC(=O)C1CCCN1C(=O)CNC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)C(N)CCC(N)=O)C(C)C)C(=O)O	ChemTasteDB
+QLFNPSTNPW	Bitter	CC(C)CC(NC(=O)C(N)CCC(N)=O)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(N)=O)C(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(C(=O)NC(CC(N)=O)C(=O)N1CCCC1C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O)C(C)O	ChemTasteDB
+QLFNPSTNPW-COOC2H5	Bitter	CCOC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C1CCCN1C(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(CO)NC(=O)C1CCCN1C(=O)C(CC(N)=O)NC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)C(N)CCC(N)=O)C(C)O	ChemTasteDB
+Santalol acetate	Bitter	C=C1C2CCC(C2)C1(C)CCC=C(C)COC(C)=O.CC(=O)OCC(C)=CCCC1(C)C2CC3C(C2)C31	ChemTasteDB
+Sodium N-(2,4-dimethoxyphenyl)sulfamate	Bitter	COc1ccc(NS(=O)(=O)[O-])c(OC)c1.[Na+]	ChemTasteDB
+Sodium N-(2-ethyl-6-methylphenyl)sulfamate	Bitter	CCc1cccc(C)c1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(2-methoxy-6-methylphenyl)sulfamate	Bitter	COc1cccc(C)c1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(3-bromo-5-methylpyridin-2-yl)sulfamate	Bitter	Cc1cnc(NS(=O)(=O)[O-])c(Br)c1.[Na+]	ChemTasteDB
+Sodium N-(3-methoxycarbonylphenyl)sulfamate	Bitter	COC(=O)c1cccc(NS(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-(4-chloro-2-fluorophenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccc(Cl)cc1F.[Na+]	ChemTasteDB
+Sodium N-(4-chloro-2-methylphenyl)sulfamate	Bitter	Cc1cc(Cl)ccc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+Sodium N-(4-chloro-3-nitrophenyl)sulfamate	Bitter	O=[N+]([O-])c1cc(NS(=O)(=O)[O-])ccc1Cl.[Na+]	ChemTasteDB
+Sodium N-(4-methoxy-2-nitrophenyl)sulfamate	Bitter	COc1ccc(NS(=O)(=O)[O-])c([N+](=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-(4-methyl-3-nitrophenyl)sulfamate	Bitter	Cc1ccc(NS(=O)(=O)[O-])cc1[N+](=O)[O-].[Na+]	ChemTasteDB
+Sodium N-[3-[(2-methylpropan-2-yl)oxycarbonyl]phenyl]sulfamate	Bitter	CC(C)(C)OC(=O)c1cccc(NS(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-[4-(propan-2-yl)-1,3-thiazol-2-yl]sulfamate	Bitter	CC(C)c1csc(NS(=O)(=O)[O-])n1.[Na+]	ChemTasteDB
+syn-Cyclohexane carboxaldehyde 	Bitter	ON=CC1CCCCC1	ChemTasteDB
+syn-p-Anisaldehyde oxime	Bitter	COc1ccc(C=NO)cc1	ChemTasteDB
+Tiglic aldehyde oxime 	Bitter	CC=C(C)CC=NO	ChemTasteDB
+trans-2-Me-2-pentenal oxime	Bitter	CCC=C(C)CC=NO	ChemTasteDB
+γ-Linolenic acid	Bitter	CCCCCC=CCC=CCC=CCCCCC(=O)O	ChemTasteDB
+9-Hydroperoxy-trans-10,cis-12-octadecadienoic acid	Bitter	CCCCCC=CC=CC(CCCCCCCC(=O)O)OO	ChemTasteDB
+13-Hydroperoxy-cis-9,trans-11-octadecadienoic acid	Bitter	CCCCCC(C=CC=CCCCCCCCC(=O)O)OO	ChemTasteDB
+Arachidonic acid	Bitter	CCCCCC=CCC=CCC=CCC=CCCCC(=O)O	ChemTasteDB
+Capsaicin	Bitter	COc1cc(CNC(=O)CCCCC=CC(C)C)ccc1O	ChemTasteDB
+D-Proline	Bitter	O=C(O)C1CCCN1	ChemTasteDB
+L-Asparagine	Bitter	NC(=O)CC(N)C(=O)O	ChemTasteDB
+L-Glutamine	Bitter	NC(=O)CCC(N)C(=O)O	ChemTasteDB
+Limonin monolactone	Bitter	CC1(C)OC2CC(=O)OCC23C1CC(=O)C1(C)C3CCC(C)(C(O)c2ccoc2)C12OC2(C)C(=O)O	ChemTasteDB
+Linolelaidic acid	Bitter	CCCCCC=CCC=CCCCCCCCC(=O)O	ChemTasteDB
+Sodium 4-nitro-2-(sulfonatoamino)benzen-1-olate	Bitter	O=[N+]([O-])c1ccc([O-])c(NS(=O)(=O)[O-])c1.[Na+]	ChemTasteDB
+Sodium N-(4-phenylmethoxyphenyl)sulfamate	Bitter	O=S(=O)([O-])Nc1ccc(OCc2ccccc2)cc1.[Na+]	ChemTasteDB
+Sodium N-(5-chloro-2-methoxyphenyl)sulfamate	Bitter	COc1ccc(Cl)cc1NS(=O)(=O)[O-].[Na+]	ChemTasteDB
+ACHILLIN	Bitter	CC1=CC(=O)C2=C(C)CC[C@@H]3[C@H](OC(=O)[C@@H]3C)[C@@H]12	VirtuousSweetBitter
+Acteoside	Bitter	C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](OCCc3ccc(O)c(O)c3)O[C@H](CO)[C@H]2OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+Aloenin	Bitter	COc1cc(-c2c(C)cc(O)cc2O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)oc(=O)c1	VirtuousSweetBitter
+BIS(ACETIC ACID)_TANNINS	Bitter	CC(=O)O.CC(=O)O.O=C(OCC1OC(OC(=O)c2cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c2)C(OC(=O)c2cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c2)C(OC(=O)c2cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c2)C1OC(=O)c1cc(O)c(O)c(OC(=O)c2cc(O)c(O)c(O)c2)c1)c1cc(O)c(O)c(OC(=O)c2cc(O)c(O)c(O)c2)c1	VirtuousSweetBitter
+BRUCEIN B	Bitter	COC(=O)[C@@]12OC[C@@]34C(C[C@H]5C(C)=C(O)C(=O)C[C@]5(C)[C@H]3[C@@H](O)[C@@H]1O)OC(=O)[C@H](OC(C)=O)C42	VirtuousSweetBitter
+Bruceine C	Bitter	COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)O)[C@@H]24	VirtuousSweetBitter
+Carnosifloside III	Bitter	C/C(=C\CC[C@@H](C)[C@H]1CC[C@@]2(C)[C@@H]3CC=C4[C@@H](CC[C@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C4(C)C)[C@]3(C)C(=O)C[C@]12C)CO[C@@H]1O[C@H](CO[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+Catalpol	Bitter	OC[C@H]1O[C@@H](O[C@@H]2OC=C[C@H]3[C@H](O)[C@@H]4O[C@]4(CO)[C@@H]23)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+Catalposide	Bitter	O=C(O[C@H]1[C@@H]2C=CO[C@@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H]2[C@@]2(CO)O[C@@H]12)c1ccc(O)cc1	VirtuousSweetBitter
+Centapicrin	Bitter	C=C[C@H]1[C@H](O[C@@H]2O[C@H](COc3cccc(C(=O)O)c3)[C@@H](O)[C@H](OC(C)=O)[C@H]2O)OC=C2C(=O)OCC[C@H]21	VirtuousSweetBitter
+Chaparrinone	Bitter	CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@]4(O)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)C[C@H]5[C@@H](C)[C@H]4O	VirtuousSweetBitter
+Digallic acid	Bitter	O=C(O)c1cc(O)c(O)c(OC(=O)c2cc(O)c(O)c(O)c2)c1	VirtuousSweetBitter
+digitoxin	Bitter	C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5CC[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O	VirtuousSweetBitter
+Erythrocentaurin	Bitter	O=Cc1cccc2c1CCOC2=O	VirtuousSweetBitter
+Germacranolide	Bitter	C/C1=C/[C@H]2OC(=O)[C@@H](C)[C@@H]2[C@@H](O)/C=C(/C)[C@@H](O)CC1	VirtuousSweetBitter
+Hydroxyvernolide	Bitter	C=C(CO)C(=O)O[C@H]1C[C@@]23O[C@@H]2CC/C(=C/[C@H]2OC(=O)C(=C)[C@H]12)CO[C@H]3O	VirtuousSweetBitter
+Hymenoside A	Bitter	C/C(=C\CO)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](OC(=O)Cc2ccc(O)cc2)[C@H]1OC(=O)Cc1ccc(O)cc1	VirtuousSweetBitter
+Hymenoside B	Bitter	C/C(=C\CO)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](OC(=O)Cc2ccc(O)c(O)c2)[C@H]1OC(=O)Cc1ccc(O)c(O)c1	VirtuousSweetBitter
+Hymenoside C	Bitter	C/C(=C\CO)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](OC(=O)Cc2ccc(O)cc2)[C@H]1OC(=O)Cc1ccc(O)c(O)c1	VirtuousSweetBitter
+Hymenoside D	Bitter	C/C(=C\CO)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](OC(=O)Cc2ccc(O)c(O)c2)[C@H]1OC(=O)Cc1ccc(O)cc1	VirtuousSweetBitter
+Hymenoside E	Bitter	C/C(=C\CO)CO[C@@H]1O[C@H](COC(=O)Cc2ccc(O)c(O)c2)[C@@H](O)[C@H](O)[C@H]1OC(=O)Cc1ccc(O)c(O)c1	VirtuousSweetBitter
+Hymenoside F	Bitter	C/C(=C\CO)CO[C@@H]1O[C@H](COC(=O)Cc2ccc(O)c(O)c2)[C@@H](O)[C@H](OC(=O)Cc2ccc(O)cc2)[C@H]1OC(=O)Cc1ccc(O)c(O)c1	VirtuousSweetBitter
+Isocoumarin	Bitter	O=c1occc2ccccc12	VirtuousSweetBitter
+Klaineanone	Bitter	CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@H](C)[C@@H]4CC(=O)O[C@H](C[C@@H]12)[C@]34C	VirtuousSweetBitter
+Kutkin	Bitter	COc1cc(C(=O)O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)ccc1OC(=O)/C=C/c1ccccc1.O.O	VirtuousSweetBitter
+linoleic acid	Bitter	CCCCC/C=C\C/C=C\CCCCCCCC(=O)O	VirtuousSweetBitter
+MD bacitracin	Bitter	CCC(C)C(N)C1=NC(C(=O)N[C@@H](CC(C)C)C(=O)N[C@H](CCC(=O)O)C(=O)N[C@H](C(=O)N[C@@H](CCCCN)C(=O)N[C@H](CCCN)C(=O)N[C@H](C(=O)N[C@H](Cc2ccccc2)C(=O)N[C@@H](Cc2cnc[nH]2)C(=O)N[C@H](CC(=O)O)C(=O)N[C@@H](CC(N)=O)C(=O)O)[C@@H](C)CC)[C@@H](C)CC)CS1.O=C(OCOC(=O)c1ccccc1O)c1ccccc1O	VirtuousSweetBitter
+OLEANOLIC ACID	Bitter	CC1(C)CC[C@]2(C(=O)O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1	VirtuousSweetBitter
+Parillin	Bitter	C[C@H]1CC[C@@]2(OC1)O[C@H]1C[C@H]3[C@@H]4CC[C@@H]5C[C@@H](O[C@@H]6O[C@H](CO[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)[C@@H](O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)[C@H](O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]1[C@@H]2C	VirtuousSweetBitter
+Phytol	Bitter	C/C(=C\CO)CCCC(C)CCCC(C)CCCC(C)C	VirtuousSweetBitter
+Premarrubiin	Bitter	C[C@@H]1C[C@H]2OC(=O)[C@@]3(C)CCC[C@@](C)([C@@H]23)[C@@]12CC[C@]1(C=COC1)O2	VirtuousSweetBitter
+Ranunculin	Bitter	O=C1C=C[C@@H](CO[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)O1	VirtuousSweetBitter
+Stevisalioside A	Bitter	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(OC6OCC(O)C(O)C6O)C(OC(C)=O)C5OC(C)=O)CCCC4(C)C2C(O)C1C(=O)C3	VirtuousSweetBitter
+Tauremisin	Bitter	CC1C(=O)OC2C1CCC1(C)C(=O)C=CC(C)(O)C21	VirtuousSweetBitter
+Tenulin	Bitter	C[C@@H]1C[C@@H]2OC(=O)[C@]3(C)[C@H]2[C@@H](OC3(C)O)[C@]2(C)C(=O)C=C[C@@H]12	VirtuousSweetBitter
+Tomatine	Bitter	C[C@H]1CC[C@]2(NC1)O[C@H]1C[C@H]3[C@@H]4CC[C@H]5C[C@@H](O[C@@H]6O[C@H](CO)[C@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O[C@@H]8OC[C@@H](O)[C@H](O)[C@H]8O)[C@H]7O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]1[C@@H]2C	VirtuousSweetBitter
+VERNODALIN	Bitter	C=C[C@@]12COC(=O)C(=C)[C@@H]1[C@H]1OC(=O)C(=C)[C@@H]1[C@@H](OC(=O)C(=C)CO)C2	VirtuousSweetBitter
+Vernodalol	Bitter	C=C[C@@]12COC(=O)C(=C)[C@@H]1[C@@H](O)[C@H](C(=C)C(=O)OC)[C@@H](OC(=O)C(=C)CO)C2	VirtuousSweetBitter
+VERNOLIDE	Bitter	C=C(C)C(=O)O[C@H]1C[C@@]23O[C@@H]2CC/C(=C/[C@H]2OC(=O)C(=C)[C@H]12)CO[C@H]3O	VirtuousSweetBitter
+240	Bitter	O=Cc1ccccc1	VirtuousSweetBitter
+289	Bitter	Oc1ccccc1O	VirtuousSweetBitter
+323	Bitter	O=c1ccc2ccccc2o1	VirtuousSweetBitter
+338	Bitter	O=C(O)c1ccccc1O	VirtuousSweetBitter
+370	Bitter	O=C(O)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+586	Bitter	CN(CC(=O)O)C(=N)N	VirtuousSweetBitter
+588	Bitter	CN1CC(=O)N=C1N	VirtuousSweetBitter
+679	Bitter	C[S+](C)[O-]	VirtuousSweetBitter
+768	Bitter	C#N	VirtuousSweetBitter
+784	Bitter	OO	VirtuousSweetBitter
+790	Bitter	O=c1nc[nH]c2nc[nH]c12	VirtuousSweetBitter
+795	Bitter	c1c[nH]cn1	VirtuousSweetBitter
+932	Bitter	O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21	VirtuousSweetBitter
+998	Bitter	O=CCc1ccccc1	VirtuousSweetBitter
+1048	Bitter	c1cn[nH]c1	VirtuousSweetBitter
+1119	Bitter	O=S=O	VirtuousSweetBitter
+1123	Bitter	NCCS(=O)(=O)O	VirtuousSweetBitter
+1130	Bitter	Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1	VirtuousSweetBitter
+1176	Bitter	NC(N)=O	VirtuousSweetBitter
+1188	Bitter	O=c1[nH]c(=O)c2[nH]cnc2[nH]1	VirtuousSweetBitter
+1889	Bitter	O=C1CC(c2ccc(O)cc2)Oc2cc(O)ccc21	VirtuousSweetBitter
+1983	Bitter	CC(=O)Nc1ccc(O)cc1	VirtuousSweetBitter
+2153	Bitter	Cn1c(=O)c2[nH]cnc2n(C)c1=O	VirtuousSweetBitter
+2164	Bitter	CCC1(CCC(C)C)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+2180	Bitter	N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1	VirtuousSweetBitter
+2194	Bitter	COc1ccc(-c2cc(=S)ss2)cc1	VirtuousSweetBitter
+2206	Bitter	Cc1cc(=O)n(-c2ccccc2)n1C	VirtuousSweetBitter
+2236	Bitter	COc1cccc2c1cc([N+](=O)[O-])c1c(C(=O)O)cc3c(c12)OCO3	VirtuousSweetBitter
+2244	Bitter	CC(=O)Oc1ccccc1C(=O)O	VirtuousSweetBitter
+2265	Bitter	Cn1cnc([N+](=O)[O-])c1Sc1ncnc2nc[nH]c12	VirtuousSweetBitter
+2294	Bitter	CCC1(CC)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+2331	Bitter	NC(=O)c1ccccc1	VirtuousSweetBitter
+2353	Bitter	COc1ccc2cc3[n+](cc2c1OC)CCc1cc2c(cc1-3)OCO2	VirtuousSweetBitter
+2355	Bitter	COc1c2ccoc2cc2oc(=O)ccc12	VirtuousSweetBitter
+2481	Bitter	C=CCC1(CC(C)C)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+2483	Bitter	O=C(C=Cc1ccc(O)c(O)c1)c1ccc(O)cc1O	VirtuousSweetBitter
+2519	Bitter	Cn1c(=O)c2c(ncn2C)n(C)c1=O	VirtuousSweetBitter
+2576	Bitter	CCCC(C)(COC(N)=O)COC(=O)NC(C)C	VirtuousSweetBitter
+2707	Bitter	OC(O)C(Cl)(Cl)Cl	VirtuousSweetBitter
+2719	Bitter	CCN(CC)CCCC(C)Nc1ccnc2cc(Cl)ccc12	VirtuousSweetBitter
+2725	Bitter	CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1	VirtuousSweetBitter
+2764	Bitter	O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O	VirtuousSweetBitter
+2955	Bitter	Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1	VirtuousSweetBitter
+2972	Bitter	Cc1c(O)c(=O)ccn1C	VirtuousSweetBitter
+3016	Bitter	CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21	VirtuousSweetBitter
+3033	Bitter	O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl	VirtuousSweetBitter
+3055	Bitter	OC(CCCN1CCCCC1)(c1ccccc1)c1ccccc1	VirtuousSweetBitter
+3100	Bitter	CN(C)CCOC(c1ccccc1)c1ccccc1	VirtuousSweetBitter
+3108	Bitter	OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1	VirtuousSweetBitter
+3182	Bitter	Cn1c(=O)c2c(ncn2CC(O)CO)n(C)c1=O	VirtuousSweetBitter
+3229	Bitter	CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)nc21	VirtuousSweetBitter
+3242	Bitter	COc1cc(C)nc(-n2nc(C)cc2OC)n1	VirtuousSweetBitter
+3371	Bitter	O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1	VirtuousSweetBitter
+3476	Bitter	CCC1=C(C)CN(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCC(C)CC3)cc2)C1=O	VirtuousSweetBitter
+3516	Bitter	COc1ccccc1OCC(O)CO	VirtuousSweetBitter
+3559	Bitter	O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1	VirtuousSweetBitter
+3676	Bitter	CCN(CC)CC(=O)Nc1c(C)cccc1C	VirtuousSweetBitter
+3776	Bitter	CC(C)O	VirtuousSweetBitter
+3778	Bitter	Cc1c(C(C)C)c(=O)n(-c2ccccc2)n1C	VirtuousSweetBitter
+3828	Bitter	COc1c2occc2c(OC)c2c(=O)cc(C)oc12	VirtuousSweetBitter
+3948	Bitter	CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21	VirtuousSweetBitter
+4004	Bitter	CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC	VirtuousSweetBitter
+4044	Bitter	Cc1cccc(Nc2ccccc2C(=O)O)c1C	VirtuousSweetBitter
+4059	Bitter	Cc1ccccc1OCC(O)CO	VirtuousSweetBitter
+4064	Bitter	CCCC(C)(COC(N)=O)COC(N)=O	VirtuousSweetBitter
+4095	Bitter	CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1	VirtuousSweetBitter
+4114	Bitter	COc1c2occc2cc2ccc(=O)oc12	VirtuousSweetBitter
+4162	Bitter	CCC1(CC)C(=O)NCC(C)C1=O	VirtuousSweetBitter
+4189	Bitter	Clc1ccc(COC(Cn2ccnc2)c2ccc(Cl)cc2Cl)c(Cl)c1	VirtuousSweetBitter
+4472	Bitter	O=C(CCNNC(=O)c1ccncc1)NCc1ccccc1	VirtuousSweetBitter
+4488	Bitter	O=C(O)c1cccnc1Nc1cccc(C(F)(F)F)c1	VirtuousSweetBitter
+4583	Bitter	CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23	VirtuousSweetBitter
+4594	Bitter	COc1ccc2nc([S+]([O-])Cc3ncc(C)c(OC)c3C)[nH]c2c1	VirtuousSweetBitter
+4601	Bitter	Cc1ccccc1C(OCCN(C)C)c1ccccc1	VirtuousSweetBitter
+4619	Bitter	CCN(CC)CCOCCOC(=O)C(CC)(CC)c1ccccc1	VirtuousSweetBitter
+4679	Bitter	COc1ccnc(C[S+]([O-])c2nc3ccc(OC(F)F)cc3[nH]2)c1OC	VirtuousSweetBitter
+4680	Bitter	COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC	VirtuousSweetBitter
+4740	Bitter	CC(=O)CCCCn1c(=O)c2c(ncn2C)n(C)c1=O	VirtuousSweetBitter
+4754	Bitter	CCOc1ccc(NC(C)=O)cc1	VirtuousSweetBitter
+4770	Bitter	NC(=O)OCCCc1ccccc1	VirtuousSweetBitter
+4780	Bitter	NC(N)=NC(N)=Nc1ccccc1	VirtuousSweetBitter
+4781	Bitter	CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O	VirtuousSweetBitter
+4788	Bitter	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O	VirtuousSweetBitter
+4806	Bitter	O=C(O)c1ccccc1C(=O)Nc1ccc(S(=O)(=O)Nc2nccs2)cc1	VirtuousSweetBitter
+4831	Bitter	CCn1cc(C(=O)O)c(=O)c2cnc(N3CCNCC3)nc21	VirtuousSweetBitter
+4848	Bitter	CN1CCN(CC(=O)N2c3ccccc3C(=O)Nc3cccnc32)CC1	VirtuousSweetBitter
+4873	Bitter	[Cl-].[K+]	VirtuousSweetBitter
+4913	Bitter	CCN(CC)CCNC(=O)c1ccc(N)cc1	VirtuousSweetBitter
+4946	Bitter	CC(C)NCC(O)COc1cccc2ccccc12	VirtuousSweetBitter
+4947	Bitter	CCCOC(=O)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+5143	Bitter	O=C1NS(=O)(=O)c2ccccc21	VirtuousSweetBitter
+5147	Bitter	NC(=O)c1ccccc1O	VirtuousSweetBitter
+5161	Bitter	O=C(Oc1ccccc1C(=O)O)c1ccccc1O	VirtuousSweetBitter
+5326	Bitter	COc1cnc(NS(=O)(=O)c2ccc(N)cc2)nc1	VirtuousSweetBitter
+5329	Bitter	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1	VirtuousSweetBitter
+5330	Bitter	COc1ccc(NS(=O)(=O)c2ccc(N)cc2)nn1	VirtuousSweetBitter
+5344	Bitter	Cc1noc(NS(=O)(=O)c2ccc(N)cc2)c1C	VirtuousSweetBitter
+5362	Bitter	CCCCC1(COC(=O)CCC(=O)O)C(=O)N(c2ccccc2)N(c2ccccc2)C1=O	VirtuousSweetBitter
+5429	Bitter	Cn1cnc2c1c(=O)[nH]c(=O)n2C	VirtuousSweetBitter
+5497	Bitter	CCN(CC)C(=O)c1cccnc1	VirtuousSweetBitter
+5531	Bitter	CCN(CC)c1cc(C)nc2ncnn12	VirtuousSweetBitter
+5541	Bitter	CC(=O)OCC(COC(C)=O)OC(C)=O	VirtuousSweetBitter
+5576	Bitter	CN1C(=O)OC(C)(C)C1=O	VirtuousSweetBitter
+5578	Bitter	COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC	VirtuousSweetBitter
+5741	Bitter	COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2.Cl	VirtuousSweetBitter
+5743	Bitter	C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO	VirtuousSweetBitter
+5750	Bitter	CCOC(=O)C1(c2ccccc2)CCN(C)CC1.Cl	VirtuousSweetBitter
+5754	Bitter	C[C@]12CCC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO	VirtuousSweetBitter
+5755	Bitter	C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO	VirtuousSweetBitter
+5825	Bitter	C[C@H](N)Cc1ccccc1.C[C@H](N)Cc1ccccc1.O=S(=O)(O)O	VirtuousSweetBitter
+5827	Bitter	COc1ccc(NC(C)=O)cc1	VirtuousSweetBitter
+5838	Bitter	CCC1(C2=CCCCC2)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+5842	Bitter	C=CCC1(CC=C)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+5865	Bitter	C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2C(=O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO	VirtuousSweetBitter
+5879	Bitter	C[C@]12CC[C@@H](O)C[C@@H]1CC[C@@H]1[C@@H]2CC[C@]2(C)C(=O)CC[C@@H]12	VirtuousSweetBitter
+5883	Bitter	CC[N+](C)(CC)CCOC(=O)C1c2ccccc2Oc2ccccc21.[Br-]	VirtuousSweetBitter
+5917	Bitter	C1CCc2nnnn2CC1	VirtuousSweetBitter
+5959	Bitter	O=C(N[C@H](CO)[C@H](O)c1ccc([N+](=O)[O-])cc1)C(Cl)Cl	VirtuousSweetBitter
+5962	Bitter	NCCCC[C@H](N)C(=O)O	VirtuousSweetBitter
+5971	Bitter	C=CCN=C=S	VirtuousSweetBitter
+5994	Bitter	CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C	VirtuousSweetBitter
+6021	Bitter	O=c1nc[nH]c2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O	VirtuousSweetBitter
+6048	Bitter	Cl.c1ccc(CC2=NCCN2)cc1	VirtuousSweetBitter
+6050	Bitter	CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC	VirtuousSweetBitter
+6054	Bitter	OCCc1ccccc1	VirtuousSweetBitter
+6055	Bitter	CC(N)Cc1ccccc1.CC(N)Cc1ccccc1.O=S(=O)(O)O	VirtuousSweetBitter
+6057	Bitter	N[C@@H](Cc1ccc(O)cc1)C(=O)O	VirtuousSweetBitter
+6072	Bitter	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+6100	Bitter	CC[N+](C)(C)Cc1ccccc1Br.Cc1ccc(S(=O)(=O)[O-])cc1	VirtuousSweetBitter
+6106	Bitter	CC(C)C[C@H](N)C(=O)O	VirtuousSweetBitter
+6140	Bitter	N[C@@H](Cc1ccccc1)C(=O)O	VirtuousSweetBitter
+6167	Bitter	COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2	VirtuousSweetBitter
+6197	Bitter	C[C@@H]1C[C@@H]([C@H](O)CC2CC(=O)NC(=O)C2)C(=O)[C@@H](C)C1	VirtuousSweetBitter
+6209	Bitter	C[N+](C)(C)CCO.[Cl-]	VirtuousSweetBitter
+6274	Bitter	N[C@@H](Cc1cnc[nH]1)C(=O)O	VirtuousSweetBitter
+6282	Bitter	O=C1OC(c2ccc(O)c(S(=O)(=O)[O-])c2)(c2ccc(O)c(S(=O)(=O)[O-])c2)c2c(Br)c(Br)c(Br)c(Br)c21.[Na+].[Na+]	VirtuousSweetBitter
+6287	Bitter	CC(C)[C@H](N)C(=O)O	VirtuousSweetBitter
+6305	Bitter	N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	VirtuousSweetBitter
+6306	Bitter	CC[C@H](C)[C@H](N)C(=O)O	VirtuousSweetBitter
+6322	Bitter	NC(N)=NCCC[C@H](N)C(=O)O	VirtuousSweetBitter
+6433	Bitter	CCC(C)(S(=O)(=O)CC)S(=O)(=O)CC	VirtuousSweetBitter
+6454	Bitter	C=CCC1(C2C=CCC2)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+6463	Bitter	O=C(O)C(O)(c1ccccc1)c1ccccc1	VirtuousSweetBitter
+6464	Bitter	C=CCC1(C(C)C)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+6465	Bitter	CCC1(CC)C(=O)CCNC1=O	VirtuousSweetBitter
+6473	Bitter	CCCCC1(CC)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+6489	Bitter	CCC(Br)(CC)C(=O)NC(=O)NC(C)=O	VirtuousSweetBitter
+6506	Bitter	CCOC(=O)CC(O)(CC(=O)OCC)C(=O)OCC	VirtuousSweetBitter
+6509	Bitter	CC[N+](CC)(CC)CC.[OH-]	VirtuousSweetBitter
+6584	Bitter	COC(C)=O	VirtuousSweetBitter
+6613	Bitter	CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)O	VirtuousSweetBitter
+6674	Bitter	C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3C(=O)C[C@@H]4CC(=O)CC[C@]4(C)[C@H]3CC(=O)[C@]12C	VirtuousSweetBitter
+6675	Bitter	C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C	VirtuousSweetBitter
+6759	Bitter	Cc1cc2nc3c(=O)[nH]c(=O)nc-3n(C[C@@H](O)[C@@H](O)[C@@H](O)CO)c2cc1C	VirtuousSweetBitter
+6760	Bitter	COc1ccc2c(OC)c3ccoc3nc2c1OC	VirtuousSweetBitter
+6781	Bitter	CCOC(=O)c1ccccc1C(=O)OCC	VirtuousSweetBitter
+6847	Bitter	O=C(O)c1cccc2ccccc12	VirtuousSweetBitter
+6849	Bitter	O=[N+]([O-])c1cccc2ccccc12	VirtuousSweetBitter
+6873	Bitter	CC(C)COC(=O)c1ccccc1O	VirtuousSweetBitter
+6874	Bitter	CC(C)CCOC(=O)c1ccccc1O	VirtuousSweetBitter
+6954	Bitter	O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1	VirtuousSweetBitter
+7020	Bitter	O=c1c2ccccc2oc2ccccc12	VirtuousSweetBitter
+7092	Bitter	Cc1ccc2oc(=O)ccc2c1	VirtuousSweetBitter
+7127	Bitter	C=CCc1ccc(OC)c(OC)c1	VirtuousSweetBitter
+7144	Bitter	COc1cc(C)ccc1O	VirtuousSweetBitter
+7165	Bitter	CCOC(=O)c1ccccc1	VirtuousSweetBitter
+7170	Bitter	CCOC(=O)CC(=O)c1ccccc1	VirtuousSweetBitter
+7196	Bitter	O=C(O)c1ccc2c(c1)OCO2	VirtuousSweetBitter
+7330	Bitter	O=C(C(Cl)Cl)N(CCO)Cc1ccc(Cl)cc1Cl	VirtuousSweetBitter
+7361	Bitter	OCc1ccco1	VirtuousSweetBitter
+7410	Bitter	CC(=O)c1ccccc1	VirtuousSweetBitter
+7461	Bitter	CC1=CCC(C(C)C)=CC1	VirtuousSweetBitter
+7462	Bitter	CC1=CC=C(C(C)C)CC1	VirtuousSweetBitter
+7476	Bitter	COc1ccc(C(C)=O)cc1	VirtuousSweetBitter
+7531	Bitter	CC(C)(O)Cc1ccccc1	VirtuousSweetBitter
+7535	Bitter	CCCCCCCCCCCCNC(=O)C[N+](C)(C)Cc1ccccc1.[Cl-]	VirtuousSweetBitter
+7550	Bitter	CN(C)C(=O)Oc1ccc[n+](C)c1.[Br-]	VirtuousSweetBitter
+7590	Bitter	CCOC(=O)Cc1ccccc1	VirtuousSweetBitter
+7655	Bitter	CC(C)C(=O)OCCc1ccccc1	VirtuousSweetBitter
+7662	Bitter	CC(C)C(=O)OCCCc1ccccc1	VirtuousSweetBitter
+7711	Bitter	O=COCCc1ccccc1	VirtuousSweetBitter
+7768	Bitter	O=C1CCCCCN1	VirtuousSweetBitter
+7772	Bitter	CCC(=O)OCCC(C)C	VirtuousSweetBitter
+7792	Bitter	CC(C)CCCC(C)CCO	VirtuousSweetBitter
+7803	Bitter	CCCOC(=O)CC	VirtuousSweetBitter
+7896	Bitter	CC(O)CCO	VirtuousSweetBitter
+7975	Bitter	Cc1ccccn1	VirtuousSweetBitter
+7997	Bitter	CCCOC(C)=O	VirtuousSweetBitter
+8025	Bitter	CCOC=O	VirtuousSweetBitter
+8038	Bitter	CC(=O)OCC(C)C	VirtuousSweetBitter
+8073	Bitter	CCCOC=O	VirtuousSweetBitter
+8082	Bitter	C1CCNCC1	VirtuousSweetBitter
+8085	Bitter	CC(C)CNCC(C)C	VirtuousSweetBitter
+8093	Bitter	CCCCCCC(C)=O	VirtuousSweetBitter
+8105	Bitter	OCCCCCO	VirtuousSweetBitter
+8246	Bitter	CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1.[Br-]	VirtuousSweetBitter
+8274	Bitter	C=CCC1(c2ccccc2)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+8275	Bitter	C=CCC1(C(C)CC)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+8400	Bitter	O=C(c1ccccc1)C(O)c1ccccc1	VirtuousSweetBitter
+8438	Bitter	O=Cc1ccc2c(c1)OCO2	VirtuousSweetBitter
+8478	Bitter	CC(C)(C)CC(C)(C)c1ccc(OCCOCC[N+](C)(C)Cc2ccccc2)cc1.[Cl-]	VirtuousSweetBitter
+8486	Bitter	Nc1ncc([N+](=O)[O-])s1	VirtuousSweetBitter
+8549	Bitter	C=C[C@H]1CN2CCC1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12	VirtuousSweetBitter
+8577	Bitter	N.O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1	VirtuousSweetBitter
+8593	Bitter	O=C(O)c1cc(-c2ccccc2)nc2ccccc12	VirtuousSweetBitter
+8631	Bitter	O=C(O)c1cc(I)cc(I)c1O	VirtuousSweetBitter
+8635	Bitter	COC(=O)c1ccccc1N	VirtuousSweetBitter
+8644	Bitter	CCN(CC)CC(C)(C)COC(=O)C(CO)c1ccccc1.O=P(O)(O)O	VirtuousSweetBitter
+8658	Bitter	COc1ccccc1C=O	VirtuousSweetBitter
+8691	Bitter	Cl.Nc1ccc(N=Nc2ccccc2)c(N)n1	VirtuousSweetBitter
+8695	Bitter	CCCCNc1ccc(C(=O)OCCN(C)C)cc1.Cl	VirtuousSweetBitter
+8714	Bitter	CC(C)(CO)C(O)C(=O)NCCC(=O)[O-].CC(C)(CO)C(O)C(=O)NCCC(=O)[O-].[Ca+2]	VirtuousSweetBitter
+8763	Bitter	CCC(=O)OCC(COC(=O)CC)OC(=O)CC	VirtuousSweetBitter
+8785	Bitter	CC(=O)OCc1ccccc1	VirtuousSweetBitter
+8792	Bitter	CC(C)CC(=O)OCCc1ccccc1	VirtuousSweetBitter
+8813	Bitter	N=C(N)c1ccc(OCCCCCOc2ccc(C(=N)N)cc2)cc1.O=S(=O)(O)CCO.O=S(=O)(O)CCO	VirtuousSweetBitter
+8833	Bitter	C=C(C)CCCC(C)CCOC(C)=O	VirtuousSweetBitter
+8834	Bitter	CCC(=O)OCCC(C)CCC=C(C)C	VirtuousSweetBitter
+8842	Bitter	CC(C)=CCCC(C)CCO	VirtuousSweetBitter
+8908	Bitter	CCCCCCOC(C)=O	VirtuousSweetBitter
+8914	Bitter	CCCCCCCCCO	VirtuousSweetBitter
+8918	Bitter	CCCCCCCCCOC(C)=O	VirtuousSweetBitter
+8969	Bitter	COC(=O)[C@@H]1[C@H]2C[C@H]3c4[nH]c5ccccc5c4CCN3C[C@@H]2CC[C@@H]1O	VirtuousSweetBitter
+9015	Bitter	COc1ccc(O)cc1	VirtuousSweetBitter
+9016	Bitter	COc1ccc(OC)cc1	VirtuousSweetBitter
+9064	Bitter	Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@@H](O)C2	VirtuousSweetBitter
+9065	Bitter	CC(N)C(O)c1ccccc1.Cl	VirtuousSweetBitter
+9210	Bitter	c1ccc2ncncc2c1	VirtuousSweetBitter
+9259	Bitter	c1ccnnc1	VirtuousSweetBitter
+9301	Bitter	Br.COC(=O)C1=CCCN(C)C1	VirtuousSweetBitter
+9336	Bitter	CC[N+](C)(C)c1cccc(O)c1.[Br-]	VirtuousSweetBitter
+9473	Bitter	CC(=O)OCc1ccc2c(c1)OCO2	VirtuousSweetBitter
+9475	Bitter	CCCCC(N)C(=O)O	VirtuousSweetBitter
+9603	Bitter	Cc1ccc(F)cc1	VirtuousSweetBitter
+9649	Bitter	COc1cc2c(cc1OC)[C@@]13CCN4CC5=CCOC6CC(=O)N2C1[C@H]6[C@H]5C[C@H]43	VirtuousSweetBitter
+9862	Bitter	CC(=O)CCC=C(C)C	VirtuousSweetBitter
+10052	Bitter	CC(=O)O[C@H]1C[C@]2(O)C3CC[C@@H]4C[C@@H](OC(=O)CCCCCCC(=O)NC(CCCN=C(N)N)C(=O)O)CC[C@]4(C)C3CC[C@]2(C)[C@H]1c1ccoc(=O)c1	VirtuousSweetBitter
+10133	Bitter	C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	VirtuousSweetBitter
+10189	Bitter	COc1cc(O)c2c(=O)cc(C)oc2c1	VirtuousSweetBitter
+10251	Bitter	O=C1CC(c2ccccc2)Oc2ccccc21	VirtuousSweetBitter
+10331	Bitter	O=C(O)c1cc2ccccc2o1	VirtuousSweetBitter
+10403	Bitter	O=C1CCCCCCC1	VirtuousSweetBitter
+10511	Bitter	CCN1CC2(COC)C(O)CC(OC)C34[C@@H]5C[C@]6(O)C(OC)C(O)[C@](O)(C(C(OC)[C@H]23)[C@@H]14)[C@H]5C6O	VirtuousSweetBitter
+10512	Bitter	COc1ccc2c(c1)C13CCN4CC5=CCOC6CC(=O)N2C1C6C5CC43	VirtuousSweetBitter
+10518	Bitter	CCC1(C2=CCCCCC2)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+10535	Bitter	CCC(Br)(CC)C(N)=O	VirtuousSweetBitter
+10680	Bitter	O=c1cc(-c2ccccc2)oc2ccccc12	VirtuousSweetBitter
+10685	Bitter	OCCc1c[nH]c2ccccc12	VirtuousSweetBitter
+10709	Bitter	O=C(O)c1ccc([N+](=O)[O-])c([N+](=O)[O-])c1	VirtuousSweetBitter
+10724	Bitter	O=C1CCCc2ccccc21	VirtuousSweetBitter
+10766	Bitter	CCC(C)(CN(C)C)OC(=O)c1ccccc1.Cl	VirtuousSweetBitter
+10830	Bitter	Cl.O=C(Nc1ccccc1)OCC(CN1CCCCC1)OC(=O)Nc1ccccc1	VirtuousSweetBitter
+10866	Bitter	CCCCCCCCCCCC[N+](C)(C)CCOc1ccccc1.[Br-]	VirtuousSweetBitter
+10895	Bitter	CCC(=O)OCC(C)C	VirtuousSweetBitter
+10919	Bitter	C[N+](C)(C)CCCCC[N+](C)(C)C.[Br-].[Br-]	VirtuousSweetBitter
+10976	Bitter	CCCCCC(C)O	VirtuousSweetBitter
+10983	Bitter	CC(C)=CCN=C(N)N	VirtuousSweetBitter
+10994	Bitter	N#CCCCC#N	VirtuousSweetBitter
+11020	Bitter	C=C(Br)CC1(C(C)C)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+11069	Bitter	C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12.O=S(=O)(O)O	VirtuousSweetBitter
+11079	Bitter	Cl.c1ccc2c(CC3=NCCN3)cccc2c1	VirtuousSweetBitter
+11095	Bitter	O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21	VirtuousSweetBitter
+11107	Bitter	c1cc(-c2ccncc2)ccn1	VirtuousSweetBitter
+11114	Bitter	CC(C)CNCCOC(=O)c1cccc(N)c1.Cl	VirtuousSweetBitter
+11128	Bitter	CC(C)(C#N)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+11176	Bitter	CCCOC(=O)CC(C)C	VirtuousSweetBitter
+11368	Bitter	CC(COc1ccccc1)NC(C)C(O)c1ccc(O)cc1.Cl	VirtuousSweetBitter
+11520	Bitter	CCCCC(O)CC	VirtuousSweetBitter
+11820	Bitter	Cn1c(=O)ccc2ccccc21	VirtuousSweetBitter
+12020	Bitter	C=CC(O)CC	VirtuousSweetBitter
+12038	Bitter	CCOC(=O)c1ccc(O)c(OC)c1	VirtuousSweetBitter
+12508	Bitter	CCC(=O)OC(C)C	VirtuousSweetBitter
+12560	Bitter	CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O	VirtuousSweetBitter
+12947	Bitter	CCN(CCO)CCCC(C)Nc1ccnc2cc(Cl)ccc12.O=S(=O)(O)O	VirtuousSweetBitter
+13144	Bitter	CC(O)C(=O)[O-].CC(O)C(=O)[O-].[Ca+2]	VirtuousSweetBitter
+13250	Bitter	CCOC(=O)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+13810	Bitter	CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1.O=C(O)CC(O)(CC(=O)O)C(=O)O	VirtuousSweetBitter
+14217	Bitter	C=C[S+]([O-])C=C	VirtuousSweetBitter
+14362	Bitter	C=C(Br)CC1(C(C)CC)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+14525	Bitter	CC12CCC(C1)C(C)(C)C2=O	VirtuousSweetBitter
+14710	Bitter	CC[n+]1c(-c2ccccc2)c2cc(N)ccc2c2ccc(N)cc21.[Br-]	VirtuousSweetBitter
+14777	Bitter	[Ca+2].[OH-].[OH-]	VirtuousSweetBitter
+14842	Bitter	Cc1cc(OCCOCC[N+](C)(C)Cc2ccccc2)ccc1C(C)(C)CC(C)(C)C.[Cl-]	VirtuousSweetBitter
+14900	Bitter	CCCCCCCCCCCCCCCC(=O)OCC(O)CO	VirtuousSweetBitter
+14969	Bitter	CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O)c3ccc(c(Cl)c3)Oc3cc2cc(c3O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]2C[C@](C)(N)[C@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O	VirtuousSweetBitter
+14989	Bitter	O=C1c2c(O)cccc2[C@@H]([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2cc(CO)cc(O)c21	VirtuousSweetBitter
+15063	Bitter	CCC(C)(O)C(=O)OC1C(=O)OC2CC3C(C)=C[C@H](O)[C@@H](O)[C@]3(C)C3C24CO[C@]3(O)[C@H](O)[C@H](C)C14	VirtuousSweetBitter
+15406	Bitter	CC12CCC(C1)C(C)(C)C2O	VirtuousSweetBitter
+15424	Bitter	CCC(=O)O[C@](Cc1ccccc1)(c1ccccc1)[C@H](C)CN(C)C.Cl	VirtuousSweetBitter
+15487	Bitter	CC[N+](CC)(CC(=O)Nc1c(C)cccc1C)Cc1ccccc1.[Cl-]	VirtuousSweetBitter
+15722	Bitter	Cl.OC(c1ccccc1)(c1ccccc1)C1CCNCC1	VirtuousSweetBitter
+16331	Bitter	CCCCOC(=O)CCC(C)=O	VirtuousSweetBitter
+16537	Bitter	CC1=CCC(C(C)(C)OC=O)CC1	VirtuousSweetBitter
+16666	Bitter	CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O	VirtuousSweetBitter
+16741	Bitter	S=C=NCCc1ccccc1	VirtuousSweetBitter
+17141	Bitter	CC1(O)CCC(C(C)(C)O)CC1.O	VirtuousSweetBitter
+17275	Bitter	Cl.c1ccc(CN(CC2=NCCN2)c2ccccc2)cc1	VirtuousSweetBitter
+18735	Bitter	C=C(Br)CC1(C(C)C)C(=O)NC(=O)N(C)C1=O	VirtuousSweetBitter
+19094	Bitter	CC(CC(C)(C)O)OC(O)C(Cl)(Cl)Cl	VirtuousSweetBitter
+19649	Bitter	CN[C@@H]1[C@H](O[C@H]2[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N=C(N)N)[C@@H](O)[C@@H]3N=C(N)N)O[C@@H](C)[C@]2(O)C=O)O[C@@H](CO)[C@H](O)[C@H]1O	VirtuousSweetBitter
+19727	Bitter	CCN(CC)CCOC(=O)c1ccc(N)cc1Cl.Cl	VirtuousSweetBitter
+19845	Bitter	CCOC(=O)c1cc(OC)c(O)c(OC)c1	VirtuousSweetBitter
+20525	Bitter	COc1cc(OC)c(OC)cc1C=O	VirtuousSweetBitter
+21059	Bitter	CCc1occc(=O)c1O	VirtuousSweetBitter
+21718	Bitter	CCN(CCCc1ccccc1)CCCc1ccccc1.O=C(O)CC(O)(CC(=O)O)C(=O)O	VirtuousSweetBitter
+21852	Bitter	CC(I)C1OCC(CO)O1	VirtuousSweetBitter
+22475	Bitter	C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C.[Cl-].[Cl-]	VirtuousSweetBitter
+22527	Bitter	CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12.Cl.Cl	VirtuousSweetBitter
+23205	Bitter	C=C1C(=O)O[C@@H]2C[C@@H](C)[C@@H]3C=CC(=O)[C@@]3(C)[C@@H](O)[C@H]12	VirtuousSweetBitter
+24083	Bitter	O=S(=O)([O-])[O-].[Mg+2]	VirtuousSweetBitter
+24109	Bitter	CNC(C)CCC=C(C)C.O=C(O)C(O)C(O)C(O)C(O)C(=O)O	VirtuousSweetBitter
+24283	Bitter	CCC1(c2ccccc2)C(=O)N=C([O-])NC1=O.CCC1(c2ccccc2)C(=O)N=C([O-])NC1=O.[Ca+2]	VirtuousSweetBitter
+24436	Bitter	O=S(=O)([O-])[O-].[Na+].[Na+]	VirtuousSweetBitter
+24507	Bitter	O=S(=O)([O-])[O-].[K+].[K+]	VirtuousSweetBitter
+24699	Bitter	CCCCCCCCCCCCCCCCCC(=O)OCC(O)CO	VirtuousSweetBitter
+25155	Bitter	[Mg+2].[O-][Cl+2]([O-])[O-].[O-][Cl+2]([O-])[O-]	VirtuousSweetBitter
+25210	Bitter	COC(CNC(N)=O)C[Hg]Cl	VirtuousSweetBitter
+25302	Bitter	[Br-].[Br-].[Sr+2]	VirtuousSweetBitter
+26331	Bitter	CCc1cnccn1	VirtuousSweetBitter
+26447	Bitter	CC(C)[C@@H]1CC[C@@H](C)CC1=O	VirtuousSweetBitter
+27350	Bitter	CC(=O)O[C@H]1C[C@@H]2CC[C@@H]3[C@H](CC[C@@]4(C)[C@H]3C[C@H]([N+]3(C)CCCCC3)[C@@H]4OC(C)=O)[C@@]2(C)C[C@@H]1[N+]1(C)CCCCC1.[Br-].[Br-]	VirtuousSweetBitter
+27686	Bitter	O=C(O)c1cc(=O)c2cc(OCC(O)COc3cccc4oc(C(=O)O)cc(=O)c34)ccc2o1	VirtuousSweetBitter
+27868	Bitter	CCC(C)C(=O)OC1CC(C)CCC1C(C)C	VirtuousSweetBitter
+28718	Bitter	Cc1c(Cl)cccc1Nc1ncccc1C(=O)O	VirtuousSweetBitter
+29029	Bitter	CCC[C@@H]1C[C@@H](C(=O)NC(C(C)Cl)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)N(C)C1	VirtuousSweetBitter
+30914	Bitter	CC(=O)c1cnccn1	VirtuousSweetBitter
+31072	Bitter	CCOC(=O)n1ccn(C)c1=S	VirtuousSweetBitter
+31226	Bitter	CC(=O)OCCCc1ccccc1	VirtuousSweetBitter
+31244	Bitter	COc1ccc(C=O)cc1	VirtuousSweetBitter
+31276	Bitter	CC(=O)OCCC(C)C	VirtuousSweetBitter
+31304	Bitter	C=C(C)[C@@H]1C2OC(=O)C1[C@]1(O)CC3O[C@]34C(=O)O[C@H]2[C@]14C.CC(C)(O)[C@@H]1C2OC(=O)C1[C@]1(O)C[C@H]3O[C@]34C(=O)O[C@H]2[C@]14C	VirtuousSweetBitter
+31334	Bitter	CC[N+](CC)(CC)CCC(O)(c1ccccc1)C1CCCCC1.[I-]	VirtuousSweetBitter
+31340	Bitter	CC(=O)OC[C@H]1O[C@@](COC(C)=O)(O[C@H]2O[C@H](COC(C)=O)[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@H]2OC(C)=O)[C@@H](OC(C)=O)[C@@H]1OC(C)=O	VirtuousSweetBitter
+31392	Bitter	O=S(=O)([O-])c1ccc(O)cc1.O=S(=O)([O-])c1ccc(O)cc1.[Ca+2]	VirtuousSweetBitter
+31401	Bitter	C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	VirtuousSweetBitter
+31553	Bitter	COc1cc([C@H]2Oc3cc([C@H]4Oc5cc(O)cc(O)c5C(=O)[C@@H]4O)ccc3O[C@@H]2CO)ccc1O	VirtuousSweetBitter
+36145	Bitter	COC1C[C@H](O[C@H]2CC[C@]3(C)C4CC[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)C4CC[C@]3(O)C2)OC(C)[C@H]1O	VirtuousSweetBitter
+36573	Bitter	CC1=CC(=O)NS(=O)(=O)O1	VirtuousSweetBitter
+36708	Bitter	CCCNCC(O)COc1ccccc1C(=O)CCc1ccccc1.Cl	VirtuousSweetBitter
+55182	Bitter	Cl.Cl.O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1	VirtuousSweetBitter
+57697	Bitter	Cc1cccn2c(=O)c(-c3nn[nH]n3)cnc12	VirtuousSweetBitter
+60662	Bitter	COCC(=O)O[C@]1(CCN(C)CCCc2nc3ccccc3[nH]2)CCc2cc(F)ccc2[C@@H]1C(C)C.Cl.Cl	VirtuousSweetBitter
+60961	Bitter	Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O	VirtuousSweetBitter
+60995	Bitter	COC(Cc1ccccc1)OC	VirtuousSweetBitter
+61040	Bitter	C=CC(C)(CCC=C(C)C)OC=O	VirtuousSweetBitter
+61092	Bitter	C=C(C)CCCC(C)CCOC=O	VirtuousSweetBitter
+61746	Bitter	CC1=CCC(C(C)(C)OC(=O)c2ccccc2N)CC1	VirtuousSweetBitter
+62328	Bitter	CCC(=O)OC(C)(C)C1CC=C(C)CC1	VirtuousSweetBitter
+62341	Bitter	CC(=O)OC(C)c1ccccc1	VirtuousSweetBitter
+62884	Bitter	CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1.Cl	VirtuousSweetBitter
+62920	Bitter	COc1ccc([C@@H]2Sc3ccccc3N(CCN(C)C)C(=O)[C@@H]2OC(C)=O)cc1.Cl	VirtuousSweetBitter
+62945	Bitter	CN[C@@H](C)[C@@H](O)c1ccccc1.O=S(=O)(O)O	VirtuousSweetBitter
+63013	Bitter	COc1cccc([C@@]2(O)CCCC[C@@H]2CN(C)C)c1.Cl	VirtuousSweetBitter
+64646	Bitter	CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O.Cl.Cl.O.O	VirtuousSweetBitter
+64763	Bitter	C[C@@H](NC(=O)[C@@H](N)CC(=O)O)C(=O)NC1C(C)(C)SC1(C)C	VirtuousSweetBitter
+64772	Bitter	CC[N+](CC)(CC(=O)Nc1c(C)cccc1C)Cc1ccccc1.O=S1(=O)N=C([O-])c2ccccc21	VirtuousSweetBitter
+65030	Bitter	CC1=C2[C@H]3OC(=O)[C@@H](C)[C@@H]3[C@@H](O)C[C@@]2(C)C=CC1=O	VirtuousSweetBitter
+65064	Bitter	O=C(O[C@@H]1Cc2c(O)cc(O)cc2O[C@@H]1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+65080	Bitter	OC[C@H]1O[C@@H](Oc2ccccc2)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+65238	Bitter	O=C(OC[C@H]1O[C@@H](OC(=O)c2cc(O)c(O)c(O)c2)[C@H](OC(=O)c2cc(O)c(O)c(O)c2)[C@@H](OC(=O)c2cc(O)c(O)c(O)c2)[C@@H]1OC(=O)c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+65243	Bitter	CC1C(=O)OC2C(O)C34C5CC(C(C)(C)C)C36C(OC(=O)C6O)OC4(C(=O)O5)C12O	VirtuousSweetBitter
+65571	Bitter	COC1=C[C@@H](C)[C@@H]2C[C@H]3OC(=O)C[C@H]4C(C)=C(OC)C(=O)[C@H]([C@@]2(C)C1=O)[C@@]34C	VirtuousSweetBitter
+65727	Bitter	C[C@H]1CC[C@@H]2[C@@H](C)[C@H]3[C@H](C[C@H]4[C@@H]5CC=C6C[C@@H](O)CC[C@]6(C)[C@H]5CC[C@]34C)N2C1	VirtuousSweetBitter
+66008	Bitter	Cl.OC(c1ccccc1)(c1ccccc1)C1CCCCN1	VirtuousSweetBitter
+66124	Bitter	CN[C@@H](C)Cc1ccccc1.Cl	VirtuousSweetBitter
+66147	Bitter	Cc1ccc(N(CC2=NCCN2)c2ccc(O)cc2)cc1.Cl	VirtuousSweetBitter
+66160	Bitter	CC1(c2ccccc2)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+66574	Bitter	CCN(CC)CCOC(c1ccccc1)c1ccccc1.Cl	VirtuousSweetBitter
+67111	Bitter	O=C1C(=Cc2ccc(O)c(O)c2)Oc2cc(O)ccc21	VirtuousSweetBitter
+67145	Bitter	O=C(O)c1cc(Cc2ccc(O)c(C(=O)O)c2)ccc1O	VirtuousSweetBitter
+67413	Bitter	N=C(N)c1ccc(OCCCOc2ccc(C(=N)N)cc2)cc1.O=S(=O)(O)CCO.O=S(=O)(O)CCO	VirtuousSweetBitter
+68051	Bitter	CC(C)=CCC1=C(O)C(CC=C(C)C)(CC=C(C)C)C(=O)C(C(=O)CC(C)C)=C1O	VirtuousSweetBitter
+68066	Bitter	COC(=O)c1c(C)cc(OC(=O)c2c(C)cc(O)c(C=O)c2O)c(C)c1O	VirtuousSweetBitter
+68071	Bitter	O=C1C[C@@H](c2ccccc2)Oc2cc(O)cc(O)c21	VirtuousSweetBitter
+68077	Bitter	COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1	VirtuousSweetBitter
+68079	Bitter	COc1c2ccoc2c(OC)c2oc(=O)ccc12	VirtuousSweetBitter
+68112	Bitter	O=c1cc(-c2ccccc2)oc2cccc(O)c12	VirtuousSweetBitter
+68214	Bitter	CC(=O)N(C)N(C(=O)C(=O)N(C)C)c1ccccc1	VirtuousSweetBitter
+68415	Bitter	C=CCC1(C(C)(C)CC)C(=O)NC(=O)NC1=O	VirtuousSweetBitter
+68437	Bitter	COc1ccc2c(c1OC)C(=O)OC2	VirtuousSweetBitter
+68843	Bitter	CC1CCCC(C)N1	VirtuousSweetBitter
+69794	Bitter	CN(C)C=S	VirtuousSweetBitter
+71105	Bitter	CCN(CC)C(=O)CSc1ccc(Cl)nn1	VirtuousSweetBitter
+71113	Bitter	CCCC(CCC)C(N)=O	VirtuousSweetBitter
+71412	Bitter	CC(CCc1ccccc1)NCC(O)c1ccc(O)c(C(N)=O)c1.Cl	VirtuousSweetBitter
+71471	Bitter	CCC(NC)c1ccccc1OC.Cl	VirtuousSweetBitter
+71476	Bitter	CCC[C@@H]1C[C@@H](C(=O)N[C@@H]([C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)[C@@H](C)O)N(C)C1.Cl.O	VirtuousSweetBitter
+71485	Bitter	OC[C@H]1O[C@H](O[C@]2(CCl)O[C@H](CCl)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1Cl	VirtuousSweetBitter
+71542	Bitter	CCOc1ccc2nccc(C(O)C3CC4CCN3CC4CC)c2c1	VirtuousSweetBitter
+71830	Bitter	CC12CCC(C(S(=O)(=O)[O-])C1=O)C2(C)C.CCN(CC)C(=O)c1ccc[n+](C)c1	VirtuousSweetBitter
+72276	Bitter	Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@H](O)C2	VirtuousSweetBitter
+72277	Bitter	Oc1cc(O)c2c(c1)O[C@H](c1cc(O)c(O)c(O)c1)[C@H](O)C2	VirtuousSweetBitter
+72281	Bitter	COc1ccc([C@@H]2CC(=O)c3c(O)cc(O)cc3O2)cc1O	VirtuousSweetBitter
+72304	Bitter	O=c1c(-c2ccccc2)coc2ccccc12	VirtuousSweetBitter
+72320	Bitter	CC(=O)O[C@H]1CC(=O)OC(C)(C)[C@@H]2CC(=O)[C@]3(C)[C@H](CC[C@@]4(C)[C@H](c5ccoc5)OC(=O)[C@H]5O[C@]543)[C@@]12C	VirtuousSweetBitter
+72325	Bitter	C1CCN2C[C@H]3C[C@H](CN4CCCC[C@@H]34)[C@H]2C1.O.O.O.O.O.O=S(=O)(O)O	VirtuousSweetBitter
+72344	Bitter	COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1OC	VirtuousSweetBitter
+72625	Bitter	CC(C)=CCC1=C(O)[C@@](O)(CC=C(C)C)C(=O)C(C(=O)CC(C)C)=C1O	VirtuousSweetBitter
+72964	Bitter	COC1=C[C@@H](C)[C@@H]2C[C@H]3OC(O)C[C@H]4C(C)=C(OC)C(=O)[C@H]([C@@]2(C)C1=O)[C@@]34C	VirtuousSweetBitter
+73356	Bitter	CCOC(CN1CCN(CC(C)C(=O)c2ccccc2)CC1)c1ccccc1.Cl.Cl	VirtuousSweetBitter
+73393	Bitter	O=C1C[C@@H]2OCC=C3C[N+]4([O-])CC[C@]56c7ccccc7N1[C@H]5[C@H]2[C@H]3C[C@@H]64	VirtuousSweetBitter
+73401	Bitter	C[C@@H]1C[C@H]2OC(=O)[C@@]3(C)CCC[C@@](C)([C@@H]23)[C@@]1(O)CCc1ccoc1	VirtuousSweetBitter
+73404	Bitter	O=C1CCC[C@@H]2[C@H]3C[C@@H](CN12)[C@@H]1C[C@@H](O)CCN1C3	VirtuousSweetBitter
+73415	Bitter	COc1cc2c3cc1OCc1c(O)c(OC)cc4c1[C@H](Cc1ccc(cc1)Oc1cc(ccc1O)C[C@H]3N(C)CC2)N(C)CC4	VirtuousSweetBitter
+73467	Bitter	COC(=O)C1=CO[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H]2[C@@H]1C(=O)C[C@@H]2C	VirtuousSweetBitter
+73635	Bitter	COc1cc([C@@H]2CC(=O)c3c(O)cc(O)cc3O2)ccc1O	VirtuousSweetBitter
+75324	Bitter	Cn1c(=O)c2c(n(C)c1=O)n(C)c(=O)n2C	VirtuousSweetBitter
+76808	Bitter	CC(C)C[C@H](NC(=O)[C@@H](N)Cc1ccccc1)C(=O)O	VirtuousSweetBitter
+77547	Bitter	CCOC(=O)c1ccc(O)c(O)c1	VirtuousSweetBitter
+79730	Bitter	COc1ccc(-c2cc(=O)c3c(OC)cc(OC)cc3o2)cc1	VirtuousSweetBitter
+79881	Bitter	O=Cc1cccc2cccc(C(=O)O)c12	VirtuousSweetBitter
+82050	Bitter	[Br-].[Li+]	VirtuousSweetBitter
+82241	Bitter	[Br-].[Br-].[Mg+2]	VirtuousSweetBitter
+83412	Bitter	COc1cc(O)c2c(c1)C[C@@H](C)OC2=O	VirtuousSweetBitter
+84029	Bitter	CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(OC)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O	VirtuousSweetBitter
+84567	Bitter	O=S(=O)([O-])[O-].[Fe+2].c1cnc2c(c1)ccc1cccnc12.c1cnc2c(c1)ccc1cccnc12.c1cnc2c(c1)ccc1cccnc12	VirtuousSweetBitter
+88286	Bitter	CN(C)CCC[N+]1([O-])c2ccccc2CCc2ccccc21.Cl	VirtuousSweetBitter
+88708	Bitter	C=C[C@@H]1C2=CCOC(=O)C2=CO[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+88881	Bitter	COc1cc(OC)c2c(=O)cc(-c3ccccc3)oc2c1	VirtuousSweetBitter
+89421	Bitter	COc1cc2c(cc1O)C(Cc1ccc(OC)c(OC)c1)N(C)CC2	VirtuousSweetBitter
+89594	Bitter	CN1CCC[C@H]1c1cccnc1	VirtuousSweetBitter
+90454	Bitter	C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@@H](O)c1ccnc2ccccc12	VirtuousSweetBitter
+91429	Bitter	C=C[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12.Cl.Cl	VirtuousSweetBitter
+91461	Bitter	OC[C@@H]1CCCN2CCCC[C@H]12	VirtuousSweetBitter
+91466	Bitter	O=C1CCC[C@@H]2[C@H]3CCCN4CCC[C@@H](CN12)[C@@H]34	VirtuousSweetBitter
+91469	Bitter	Oc1ccc([C@H]2COc3cc(O)ccc3C2)cc1	VirtuousSweetBitter
+91513	Bitter	Cl.Cl.OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1	VirtuousSweetBitter
+92141	Bitter	CC(O)CCOCCC(C)O	VirtuousSweetBitter
+92794	Bitter	O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)cc(O)c21	VirtuousSweetBitter
+92798	Bitter	CNC(C)CC1CCCC1.Cl	VirtuousSweetBitter
+92843	Bitter	CC(C)C[C@H](NC(=O)CN)C(=O)O	VirtuousSweetBitter
+92876	Bitter	CC(CN(C)C)C(C)(O)Cc1ccc(Cl)cc1.Cl	VirtuousSweetBitter
+92941	Bitter	O=[N+]([O-])c1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+92942	Bitter	C[C@H](CN1CCOCC1)C(C(=O)N1CCCC1)(c1ccccc1)c1ccccc1.O=C(O)[C@H](O)[C@@H](O)C(=O)O	VirtuousSweetBitter
+92953	Bitter	NCC(=O)N[C@@H](Cc1ccccc1)C(=O)O	VirtuousSweetBitter
+92972	Bitter	CC(=O)OC[C@@H](OC(C)=O)[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@H](C=O)OC(C)=O	VirtuousSweetBitter
+92990	Bitter	CC[C@@]12CCCN(CCc3c([nH]c4ccccc34)CC1)C2	VirtuousSweetBitter
+94340	Bitter	N[C@@H](CCC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O)C(=O)O	VirtuousSweetBitter
+98046	Bitter	CCOc1ccc(NC(=O)C(C)O)cc1	VirtuousSweetBitter
+99489	Bitter	OC[C@H]1O[C@H](Oc2ccccc2)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+99924	Bitter	CCN1CC2(CO)CCC(OC)C34C5CC6C(OC)CC(O)(C5C6OC)C(O)(C(OC)C23)C14	VirtuousSweetBitter
+99967	Bitter	C=C1CC(O)C2C(=C)C(=O)OC2C2C(C)C(=O)CC12	VirtuousSweetBitter
+100021	Bitter	CC12CC(c3ccoc3)OC(=O)C1CC(=O)C1C3CC(CC12)OC3=O	VirtuousSweetBitter
+100094	Bitter	N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	VirtuousSweetBitter
+100187	Bitter	O=C1NS(=O)(=O)c2cc([N+](=O)[O-])ccc21	VirtuousSweetBitter
+101597	Bitter	Cl.OC(CCN1CCCCC1)(c1ccccc1)C1CCCC1	VirtuousSweetBitter
+101684	Bitter	CC1CC23CCCN4CCCC(C(=O)CC2)C43C1	VirtuousSweetBitter
+101799	Bitter	O=Cc1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+102336	Bitter	OC[C@H]1O[C@@H](Oc2ccccc2)[C@H](O)[C@@H](O)[C@H]1O	VirtuousSweetBitter
+107905	Bitter	O=C(O[C@@H]1Cc2c(O)cc(O)cc2O[C@@H]1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+110673	Bitter	Cc1ccccc1CN1CCN(CCOC(c2ccccc2)c2ccccc2Cl)CC1.Cl.Cl	VirtuousSweetBitter
+111054	Bitter	O=C(O)C[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC1=O	VirtuousSweetBitter
+111109	Bitter	Br.Br.C[C@H]1[C@H]2CC[C@H]3[C@@H]4CC=C5C[C@@H](N(C)C)CC[C@]5(C)[C@H]4CC[C@]23CN1C	VirtuousSweetBitter
+111141	Bitter	OC[C@H]1O[C@@H](Oc2ccc3ccccc3c2)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+114700	Bitter	C=C[C@H]1[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)OC=C2C(=O)OCCC21O	VirtuousSweetBitter
+115149	Bitter	C=C[C@H]1[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2OC(=O)c2c(O)cc(O)cc2-c2cccc(O)c2)OC=C2C(=O)OCC[C@H]21	VirtuousSweetBitter
+115161	Bitter	CCN1C[C@]2(OC(=O)c3ccccc3NC(C)=O)CC[C@H](OC)C34C1C(C[C@@H]32)[C@@]1(O)C[C@H](OC)[C@H]2C[C@@H]4[C@]1(O)[C@H]2OC	VirtuousSweetBitter
+115373	Bitter	CC(Cc1ccccc1)N(C)CCNc1nc2c(c(=O)n(C)c(=O)n2C)n1C.Cl	VirtuousSweetBitter
+115662	Bitter	CNCC(C)C1CCCCC1.Cl	VirtuousSweetBitter
+119041	Bitter	CC1(C)OC(=O)C=C[C@]2(C)[C@H]3CC[C@@]4(C)[C@H](c5ccoc5)OC(=O)[C@H]5O[C@]54[C@]3(C)C(=O)C[C@@H]12	VirtuousSweetBitter
+119093	Bitter	C=C(CO)C(=O)O[C@H]1CC(=C)[C@@H]2C[C@H](O)C(=C)[C@@H]2[C@H]2OC(=O)C(=C)[C@@H]21	VirtuousSweetBitter
+119133	Bitter	CCCC(=O)CC(=O)NC1CCOC1=O	VirtuousSweetBitter
+119245	Bitter	C[C@@H]1CC[C@@]2(OC1)O[C@H]1C[C@H]3[C@@H]4CC=C5C[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)[C@H](O)[C@H]6O[C@@H]6O[C@@H](C)[C@H](O)[C@@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]1[C@@H]2C	VirtuousSweetBitter
+119404	Bitter	O=C1N[C@@H](Cc2ccc(O)cc2)C(=O)N2CCC[C@@H]12	VirtuousSweetBitter
+120286	Bitter	CCN(CC)CC(C)(C)COC(=O)c1ccc(N)cc1.Cl	VirtuousSweetBitter
+120678	Bitter	C[C@H]1[C@H](C)CC[C@]2(C(=O)O)CC[C@]3(C(=O)O)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@H]12	VirtuousSweetBitter
+124021	Bitter	O=C(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+126154	Bitter	O=C1NCC(=O)N2CCC[C@@H]12	VirtuousSweetBitter
+127293	Bitter	CCCCCC(=O)CC(=O)N[C@H]1CCOC1=O	VirtuousSweetBitter
+128861	Bitter	Oc1cc(O)c2cc(O)c(-c3ccc(O)c(O)c3)[o+]c2c1	VirtuousSweetBitter
+130796	Bitter	CC1=C(C=O)C(C)(C)C[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C1	VirtuousSweetBitter
+134896	Bitter	CCOC(=O)c1c(N)sc2c1CCN(Cc1ccccc1)C2.Cl	VirtuousSweetBitter
+134906	Bitter	N[C@@H](Cc1ccccc1)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	VirtuousSweetBitter
+136419	Bitter	COc1ccc(-c2coc3cc(OC)ccc3c2=O)cc1	VirtuousSweetBitter
+145659	Bitter	COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)cc3o2)cc1OC	VirtuousSweetBitter
+146798	Bitter	Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@@H](O)[C@@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@@H](O)C2	VirtuousSweetBitter
+147524	Bitter	CCc1ccc(C(=O)C(C)CN2CCCC2)cc1.Cl	VirtuousSweetBitter
+151004	Bitter	NC(N)=NCCC[C@H](NC(=O)[C@@H]1CCCN1)C(=O)O	VirtuousSweetBitter
+154387	Bitter	CCN(CC)CCOC(=O)c1ccc(N)cc1.O.O	VirtuousSweetBitter
+158573	Bitter	C=CCCCCCCCCCCCC(O)CC(O)CO	VirtuousSweetBitter
+159055	Bitter	CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2	VirtuousSweetBitter
+159134	Bitter	C=C[C@H]1[C@H](O[C@@H]2O[C@H](COC(C)=O)[C@@H](OC(=O)c3cccc(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)c3O)[C@H](OC(C)=O)[C@H]2OC(=O)c2ccccc2)OC=C2C(=O)OCC[C@H]21	VirtuousSweetBitter
+159626	Bitter	CCN(CC)CC(O)CNc1c2ccc(Cl)cc2nc2ccc(OC)cc12.Cl.Cl	VirtuousSweetBitter
+160467	Bitter	CC(C)=CCC1C(=O)C(C(=O)CC(C)C)=C(O)C(O)(CC=C(C)C)C1=O	VirtuousSweetBitter
+160602	Bitter	O=C=NCCc1ccccc1	VirtuousSweetBitter
+161120	Bitter	CC1C(=O)OC2C(O)C34C5OC(=O)C3(OC3OC(=O)C(O)C34C(C(C)(C)C)C5O)C12O	VirtuousSweetBitter
+161245	Bitter	CC(Cc1ccccc1)NCCC#N.Cl	VirtuousSweetBitter
+162862	Bitter	NC[C@@H]1CC[C@@H](N)[C@@H](O[C@H]2[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H](N)C[C@@H]2N)O1.O=S(=O)(O)O	VirtuousSweetBitter
+164652	Bitter	CCNCC(O)c1cccc(O)c1.Cl	VirtuousSweetBitter
+165208	Bitter	C[C@@H]([C@H]1CC[C@H]2[C@@H]3CC[C@H]4C[C@@H](N)CC[C@]4(C)[C@H]3CC[C@]12C)N(C)C	VirtuousSweetBitter
+165521	Bitter	O=c1cc(-c2ccc(O)cc2)oc2cccc(O)c12	VirtuousSweetBitter
+168198	Bitter	Cl.c1ccc(N(CCN2CCCCC2)Cc2ccccn2)cc1	VirtuousSweetBitter
+169853	Bitter	Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@H](O)[C@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@H](O)[C@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@H](O)C2	VirtuousSweetBitter
+171296	Bitter	COc1ccc2c(c1)c1c3n2CCN(C)C3=NCC1.Cl	VirtuousSweetBitter
+174174	Bitter	CN1[C@@H]2CC[C@H]1CC(OC(=O)C(CO)c1ccccc1)C2	VirtuousSweetBitter
+174863	Bitter	C=C1C(=O)O[C@@H]2[C@H]3C(COC(=O)Cc4ccc(O)cc4)=CC(=O)C3=C(C)C[C@H](O)[C@@H]12	VirtuousSweetBitter
+174880	Bitter	C=C1C(=O)O[C@@H]2[C@H]3C(CO)=CC(=O)C3=C(C)C[C@H](OC(=O)Cc3ccc(O)cc3)[C@@H]12	VirtuousSweetBitter
+176596	Bitter	CC1(C)CC[C@]2(C(=O)O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O[C@@H]6O[C@H](C(=O)O)[C@@H](O)[C@H](O[C@@H]7OC[C@@H](O)[C@H](O)[C@H]7O)[C@H]6O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1	VirtuousSweetBitter
+179422	Bitter	C#CCCCCCCCCCCC[C@H](O)C[C@H](O)COC(C)=O	VirtuousSweetBitter
+179651	Bitter	CC1(C)O[C@H]2CC(=O)OC[C@]23[C@H]2CC[C@@]4(C)[C@H](c5ccoc5)OC(=O)[C@H]5O[C@]54[C@]2(C)C(=O)C[C@@H]13	VirtuousSweetBitter
+181164	Bitter	CC(CCC1(O)OC2CC3C4CCC5CC(OC6OC(CO)C(OC7OCC(O)C(O)C7O)C(O)C6OC6OC(CO)C(O)C(O)C6O)CCC5(C)C4CCC3(C)C2C1C)COC1OC(CO)C(O)C(O)C1O	VirtuousSweetBitter
+182362	Bitter	O=c1cc(-c2ccc(O)cc2)oc2ccc(O)cc12	VirtuousSweetBitter
+185635	Bitter	CCC(C)C(=O)C1=C(O)C(O)(CC=C(C)C)C(=O)C(CC=C(C)C)C1=O	VirtuousSweetBitter
+187808	Bitter	COc1cc2c(=O)c(-c3ccc(O)cc3)coc2cc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+188289	Bitter	C[C@@]12C[C@@H](c3ccoc3)OC(=O)[C@@H]1CC[C@]1(C)[C@H]2[C@@H]2C=C[C@@]1(O)C(=O)O2	VirtuousSweetBitter
+188297	Bitter	C=C1C(=O)O[C@@H]2[C@H]3C(C)=CC[C@@H](O)[C@]3(C)CC[C@@H]12	VirtuousSweetBitter
+196915	Bitter	CC(C)=CCC1=C(O)C(O)(CC=C(C)C)C(=O)C(C(=O)C(C)C)=C1O	VirtuousSweetBitter
+197754	Bitter	OC1CCCN2CC3CC(CN4CCCCC34)C12	VirtuousSweetBitter
+198279	Bitter	C=C[C@H]1CNCC[C@H]1CCC(=O)c1ccnc2ccc(OC)cc12.Cl	VirtuousSweetBitter
+221071	Bitter	CC1=C2[C@H]3OC(=O)[C@@H](C)[C@@H]3CC[C@@]2(C)C=CC1=O	VirtuousSweetBitter
+222156	Bitter	CC1OC(O[C@@H]2C=C3CC[C@@H]4[C@H](CC[C@]5(C)[C@@H](c6ccc(=O)oc6)CC[C@]45O)[C@@]3(C)CC2)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1O	VirtuousSweetBitter
+222994	Bitter	CC1=CC(=O)CC(C(C)C)C1	VirtuousSweetBitter
+229016	Bitter	O=c1cc(-c2ccc(O)cc2)oc2ccccc12	VirtuousSweetBitter
+234540	Bitter	[O-][N+]12CCCCC1CCCC2CO	VirtuousSweetBitter
+246330	Bitter	O=C1c2ccc(O)cc2OC(c2ccc(O)c(O)c2)C1O	VirtuousSweetBitter
+253881	Bitter	[Br-].[Na+]	VirtuousSweetBitter
+259327	Bitter	CC(C)CC(N)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)O	VirtuousSweetBitter
+259803	Bitter	C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2[C@H](O)C[C@]2(C)[C@@H](c3ccc(=O)oc3)CC[C@]12O	VirtuousSweetBitter
+261491	Bitter	CC(C)[C@]12CC(=O)[C@H](C)[C@H]1C2	VirtuousSweetBitter
+262500	Bitter	CC1CCC2C(C)C3C(CC4C5CC=C6CC(OC7OC(CO)C(O)C(OC8OC(CO)C(O)C(O)C8O)C7OC7OC(C)C(O)C(O)C7O)CCC6(C)C5CCC43C)N2C1	VirtuousSweetBitter
+275196	Bitter	COc1ccc2c(c1OC)C(=O)O[C@@H]2[C@H]1c2c(cc3c(c2OC)OCO3)CCN1C	VirtuousSweetBitter
+284314	Bitter	CS(=O)(=O)OCCCNCCCOS(C)(=O)=O.Cc1ccc(S(=O)(=O)O)cc1	VirtuousSweetBitter
+329275	Bitter	CC(C)CC(N)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)O	VirtuousSweetBitter
+338777	Bitter	O=C1NS(=O)(=O)c2ccc([N+](=O)[O-])cc21	VirtuousSweetBitter
+351830	Bitter	NC(CCC(=O)O)C(=O)NC(Cc1ccc(O)cc1)C(=O)O	VirtuousSweetBitter
+354616	Bitter	C=Cc1cncc2c1CCOC2=O	VirtuousSweetBitter
+373677	Bitter	CC(C)=CCC1=C(O)C(CC=C(C)C)(CC=C(C)C)C(=O)C(C(=O)C(C)C)=C1O	VirtuousSweetBitter
+385552	Bitter	COc1cc(OC2OC(COC(=O)c3cc(O)c(O)c(O)c3)C(O)C(O)C2O)ccc1O	VirtuousSweetBitter
+413112	Bitter	CCN(CC)CCN1C(=O)c2ccccc2S1(=O)=O	VirtuousSweetBitter
+413117	Bitter	CCN(CC)CCCN1C(=O)c2ccccc2S1(=O)=O	VirtuousSweetBitter
+433737	Bitter	C=C(C)C1C2CC3(C)C4(CO4)C4OC4C3(O)C1C(=O)O2	VirtuousSweetBitter
+435597	Bitter	CCCCN(CCCC)CCN1C(=O)c2ccccc2S1(=O)=O	VirtuousSweetBitter
+439501	Bitter	C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+439503	Bitter	OCc1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+439533	Bitter	O=C1c2c(O)cc(O)cc2O[C@H](c2ccc(O)c(O)c2)[C@H]1O	VirtuousSweetBitter
+440545	Bitter	OC[C@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+440832	Bitter	Oc1ccc(-c2[o+]c3cc(O)cc(O)c3cc2O)cc1	VirtuousSweetBitter
+440936	Bitter	OC[C@H]1O[C@@H](Oc2ccc(O)cc2)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+441071	Bitter	O=C1C[C@@H]2OCC=C3CN4CC[C@]56c7ccccc7N1[C@H]5[C@H]2[C@H]3C[C@H]46	VirtuousSweetBitter
+441293	Bitter	C[C@@H]1C(=O)O[C@H]2CC34[C@H]5C[C@@H](C(C)(C)C)C36C(O)C(=O)O[C@H]6O[C@@]4(C(=O)O5)[C@]21O	VirtuousSweetBitter
+441310	Bitter	CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.O=C1N(Cc2ccccc2)C2C[S+]3CCCC3C2N1Cc1ccccc1	VirtuousSweetBitter
+441344	Bitter	CCN(CC)CCOC(=O)C1(C2CCCCC2)CCCCC1.Cl	VirtuousSweetBitter
+441422	Bitter	OC[C@H]1O[C@@H](OC[C@H]2O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+441734	Bitter	C=C1[C@H]2CC[C@@H]3[C@@](CC[C@H]4[C@@]35CCC[C@@]4(C)C3OCCN3C5)(C2)[C@H]1O	VirtuousSweetBitter
+441852	Bitter	C[C@@H]1O[C@@H](O[C@H]2CC[C@]3(C=O)[C@H]4CC[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+441889	Bitter	C[C@H](CC[C@@]1(O)O[C@H]2C[C@H]3[C@@H]4CC[C@@H]5C[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]2[C@@H]1C)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+441891	Bitter	C[C@H](CC[C@@]1(O)O[C@H]2C[C@H]3[C@@H]4CC=C5C[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)[C@H](O)[C@H]6O[C@@H]6O[C@@H](C)[C@H](O)[C@@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]2[C@@H]1C)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+442011	Bitter	CC(=O)O[C@@H]1C[C@]2(C)[C@H](CC[C@@H](O)[C@]2(C)O)[C@@](C=O)(C[C@@H](O)c2ccoc2)[C@@H]1C	VirtuousSweetBitter
+442138	Bitter	CC1=C[C@@H]2[C@H]3[C@H](C(C)=C4[C@H]5OC(=O)[C@@H](C)[C@@H]5CC[C@](C)(O)[C@@H]43)[C@@]13[C@@H]2[C@@](C)(O)CC[C@H]1[C@H](C)C(=O)O[C@@H]13	VirtuousSweetBitter
+442146	Bitter	CC1=C2C(=CC1)[C@@](C)(O)CC[C@H]1[C@H](C)C(=O)O[C@H]21	VirtuousSweetBitter
+442195	Bitter	CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1C[C@H]1NCCc2cc(O)c(OC)cc21	VirtuousSweetBitter
+442266	Bitter	C=C1C(=O)O[C@@H]2[C@H]3C(CO)=CC(=O)C3=C(C)C[C@H](O)[C@@H]12	VirtuousSweetBitter
+442288	Bitter	C=C1C(=O)O[C@@H]2[C@H]1CC[C@H](C)[C@]1(O)C=CC(=O)[C@@]21C	VirtuousSweetBitter
+442291	Bitter	CC(C)(O)[C@@H]1[C@H]2OC(=O)[C@@H]1[C@]1(O)C[C@H]3O[C@]34C(=O)O[C@H]2[C@]14C	VirtuousSweetBitter
+442292	Bitter	C=C(C)[C@@H]1[C@H]2OC(=O)[C@@H]1[C@]1(O)C[C@H]3O[C@]34C(=O)O[C@H]2[C@]14C	VirtuousSweetBitter
+442369	Bitter	COc1ccc2cc1-c1cc(ccc1O)C[C@H]1c3cc4c(cc3CCN1C)Oc1c(OC)cc3c(c1O4)[C@H](C2)N(C)CC3	VirtuousSweetBitter
+442428	Bitter	C[C@@H]1O[C@@H](O[C@H]2[C@H](Oc3cc(O)c4c(c3)O[C@H](c3ccc(O)cc3)CC4=O)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+442439	Bitter	COc1ccc([C@@H]2CC(=O)c3c(O)cc(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)cc3O2)cc1O	VirtuousSweetBitter
+442456	Bitter	COc1ccc([C@@H]2CC(=O)c3c(O)cc(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@@H](C)[C@H](O)[C@@H](O)[C@H]4O)cc3O2)cc1	VirtuousSweetBitter
+442506	Bitter	C=C[C@H]1[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)OC=C2C(=O)NCC[C@H]21	VirtuousSweetBitter
+442538	Bitter	C[C@H](CCc1ccc(O)cc1)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+442971	Bitter	C[C@H]1CC[C@@H]2[C@@H](C)[C@H]3[C@H](C[C@H]4[C@@H]5CC=C6C[C@@H](O[C@@H]7O[C@H](CO)[C@@H](O[C@@H]8O[C@@H](C)[C@H](O)[C@@H](O)[C@H]8O)[C@H](O)[C@H]7O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)CC[C@]6(C)[C@H]5CC[C@]34C)N2C1	VirtuousSweetBitter
+443314	Bitter	CCCCCCCCCCCC(=O)OCCOCC(OCCO)C1OCC(OCCO)C1OCCO	VirtuousSweetBitter
+443433	Bitter	CCCC(=O)NC1CCOC1=O	VirtuousSweetBitter
+443440	Bitter	O=C1N[C@@H](Cc2ccccc2)C(=O)N2CCC[C@@H]12	VirtuousSweetBitter
+443652	Bitter	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc(OC)c1O	VirtuousSweetBitter
+443949	Bitter	Cl.O=C(Cn1c(=O)sc2ccc(Cl)cc21)N1CCN(CCO)CC1	VirtuousSweetBitter
+445154	Bitter	Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1	VirtuousSweetBitter
+445238	Bitter	CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+445580	Bitter	CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)O	VirtuousSweetBitter
+455264	Bitter	CC(C)c1cc2c(c(O)c1O)[C@@]13CCCC(C)(C)C1CC2OC3=O	VirtuousSweetBitter
+470970	Bitter	C=C1[C@@H]2[C@H]3OC(=O)C(=C)[C@@H]3CCC(=C)[C@@H]2C[C@H]1O	VirtuousSweetBitter
+471002	Bitter	C[C@H](CC(=O)C[C@@H](C)[C@H]1C[C@H](O)[C@@]2(C)C3=C(C(=O)C[C@]12C)[C@@]1(C)CCC(=O)C(C)(C)[C@@H]1C[C@@H]3O)C(=O)O	VirtuousSweetBitter
+494227	Bitter	C=C1C2CCC3C(CCC4C5(C)CCCC43C3OCCN3C5)(C2)C1O	VirtuousSweetBitter
+509245	Bitter	CC(C)=CCc1c(O)cc(O)c2c1OC(c1ccc(O)cc1)CC2=O	VirtuousSweetBitter
+513197	Bitter	COc1cc(O)c(CC=C(C)C)c2c1C(=O)CC(c1ccc(O)cc1)O2	VirtuousSweetBitter
+517055	Bitter	O=C([O-])c1ccccc1.[Na+]	VirtuousSweetBitter
+534962	Bitter	CC(C)=CCC(=O)C1(O)C(=O)C(C(=O)CC(C)C)=C(O)C1(O)CC=C(C)C	VirtuousSweetBitter
+550598	Bitter	CC(C)=CCC1(CC=C(C)C)C(=O)C(=O)C(C(=O)C(C)C)C1=O	VirtuousSweetBitter
+566062	Bitter	CC1=CCC23OC2(C)CCC2C(C)C(=O)OC2C13	VirtuousSweetBitter
+585911	Bitter	CC1=CCC(C(C)(C)OC(=O)CC(C)C)CC1	VirtuousSweetBitter
+630403	Bitter	CC(C)=CCC1(CC=C(C)C)C(=O)C(O)=C(C(=O)CC(C)C)C1=O	VirtuousSweetBitter
+636760	Bitter	C=C1C(=O)O[C@H]2[C@H]1CC[C@]1(C)O[C@@]13CC=C(C)[C@@H]23	VirtuousSweetBitter
+637760	Bitter	O=C(/C=C/c1ccccc1)c1ccccc1	VirtuousSweetBitter
+637775	Bitter	COc1cc(/C=C/C(=O)O)cc(OC)c1O	VirtuousSweetBitter
+637776	Bitter	C/C=C/c1ccc(OC)c(OC)c1	VirtuousSweetBitter
+638011	Bitter	CC(C)=CCC/C(C)=C/C=O	VirtuousSweetBitter
+638023	Bitter	COC(=O)[C@H]1[C@H]2CC[C@@H](C[C@H]1OC(=O)c1ccccc1)N2C	VirtuousSweetBitter
+638278	Bitter	O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O	VirtuousSweetBitter
+639665	Bitter	COc1cc(O)c(CC=C(C)C)c(O)c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+643820	Bitter	CC(C)=CCC/C(C)=C\CO	VirtuousSweetBitter
+644020	Bitter	C1CCN2C[C@@H]3C[C@@H](CN4CCCC[C@@H]34)[C@H]2C1	VirtuousSweetBitter
+657298	Bitter	CCCc1cc(=O)[nH]c(=S)[nH]1	VirtuousSweetBitter
+657302	Bitter	O=C1[N-]C(=O)C(c2ccccc2)(c2ccccc2)N1.[Na+]	VirtuousSweetBitter
+667477	Bitter	CN(C)CC/C=C1\c2ccccc2COc2ccccc21	VirtuousSweetBitter
+667493	Bitter	Cc1cc(=O)[nH]c(=S)[nH]1	VirtuousSweetBitter
+667581	Bitter	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2ccc(O)cc12	VirtuousSweetBitter
+667687	Bitter	C[C@@H](CN1c2ccccc2Sc2ccccc21)N(C)C	VirtuousSweetBitter
+676294	Bitter	COc1cc2oc(-c3ccccc3)cc(=O)c2cc1OC	VirtuousSweetBitter
+676306	Bitter	COc1ccc2oc(-c3ccc(O)cc3)cc(=O)c2c1	VirtuousSweetBitter
+676307	Bitter	COc1ccc2c(=O)cc(-c3ccc(O)cc3)oc2c1	VirtuousSweetBitter
+676454	Bitter	NC(=S)Nc1ccccc1	VirtuousSweetBitter
+676946	Bitter	CCOC(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+688660	Bitter	O=c1cc(-c2ccccc2O)oc2cccc(O)c12	VirtuousSweetBitter
+689043	Bitter	O=C(O)/C=C/c1ccc(O)c(O)c1	VirtuousSweetBitter
+700999	Bitter	S=C(Nc1ccccc1)Nc1ccccc1	VirtuousSweetBitter
+736366	Bitter	NC(=S)Nc1cccc2ccccc12	VirtuousSweetBitter
+736681	Bitter	CCOC(=O)/C=C/c1ccc(O)c(OC)c1	VirtuousSweetBitter
+736756	Bitter	O=C1[C@@H]2CCCN2C(=O)[C@@H]2CCCN12	VirtuousSweetBitter
+820777	Bitter	CC(=S)Nc1ccccc1	VirtuousSweetBitter
+927723	Bitter	CC(C)C[C@@H]1NC(=O)CNC1=O	VirtuousSweetBitter
+969463	Bitter	COc1c(N2CCN[C@H](C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12	VirtuousSweetBitter
+1269845	Bitter	O=c1cc[nH]c(=S)[nH]1	VirtuousSweetBitter
+1349907	Bitter	Cn1cc[nH]c1=S	VirtuousSweetBitter
+1548943	Bitter	COc1cc(CNC(=O)CCCC/C=C/C(C)C)ccc1O	VirtuousSweetBitter
+1549026	Bitter	CC(=O)OC/C=C(\C)CCC=C(C)C	VirtuousSweetBitter
+1549517	Bitter	C=CCNC(N)=S	VirtuousSweetBitter
+1803558	Bitter	COc1ccc2ccc(=O)oc2c1C[C@@H]1OC1(C)C	VirtuousSweetBitter
+1917817	Bitter	O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3[C@H]2C1	VirtuousSweetBitter
+2723593	Bitter	CC(=O)NC(N)=S	VirtuousSweetBitter
+2723650	Bitter	S=C1NCCN1	VirtuousSweetBitter
+2723704	Bitter	CNC(N)=S	VirtuousSweetBitter
+2723754	Bitter	Cl.Nc1c2c(nc3ccccc13)CCCC2	VirtuousSweetBitter
+2763159	Bitter	CCCCCCCc1[nH]c2ccccc2c(=O)c1O	VirtuousSweetBitter
+2883177	Bitter	CCN(CC)C1=NS(=O)(=O)c2cc([N+](=O)[O-])ccc21	VirtuousSweetBitter
+3002043	Bitter	CCCc1c[nH]c(=S)[nH]c1=O	VirtuousSweetBitter
+3015189	Bitter	C#CCCCCCCCCCCCC(O)CC(O)CO	VirtuousSweetBitter
+3032338	Bitter	CCNC(N)=S	VirtuousSweetBitter
+3033332	Bitter	CN/C(=C\[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1.Cl	VirtuousSweetBitter
+3034683	Bitter	C=CC1CNC(=S)O1	VirtuousSweetBitter
+3082543	Bitter	CC1(C)C(=O)CCC2(C)C3CCC4CC3(CCC12)CC4(O)COC1OC(CO)C(O)C(O)C1O	VirtuousSweetBitter
+3085401	Bitter	CCCCCCCCCC(=O)OC[C@H](O)CO	VirtuousSweetBitter
+3163205	Bitter	CC(C)OC1=NS(=O)(=O)c2ccccc21	VirtuousSweetBitter
+3624980	Bitter	C=CCCCCCCCCCCCC(O)CC(O)COC(C)=O	VirtuousSweetBitter
+3625947	Bitter	NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)O	VirtuousSweetBitter
+3938245	Bitter	O=C1c2c([N+](=O)[O-])cc([N+](=O)[O-])c(O)c2C(=O)c2c(O)c([N+](=O)[O-])cc([N+](=O)[O-])c21	VirtuousSweetBitter
+4214199	Bitter	Cc1nnc(SCC2=C(C(=O)[O-])N3C(=O)C(NC(=O)Cn4cnnn4)C3SC2)s1.[Na+]	VirtuousSweetBitter
+4427709	Bitter	NC(Cc1c[nH]c2ccccc12)C(=O)NC(Cc1ccccc1)C(=O)O	VirtuousSweetBitter
+5270542	Bitter	O=C(/C=C/c1cccc(O)c1)c1ccccc1O	VirtuousSweetBitter
+5273568	Bitter	COc1cc2ccc(=O)oc2c(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c1O	VirtuousSweetBitter
+5280343	Bitter	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5280373	Bitter	COc1ccc(-c2coc3cc(O)cc(O)c3c2=O)cc1	VirtuousSweetBitter
+5280378	Bitter	COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1	VirtuousSweetBitter
+5280443	Bitter	O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5280445	Bitter	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5280489	Bitter	CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C2=C(C)CCCC2(C)C)C(C)(C)CCC1	VirtuousSweetBitter
+5280537	Bitter	COc1cc(/C=C/C(=O)NCCc2ccc(O)cc2)ccc1O	VirtuousSweetBitter
+5280544	Bitter	O=c1c(O)c(-c2ccc(O)cc2)oc2c(O)c(O)cc(O)c12	VirtuousSweetBitter
+5280647	Bitter	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2c(O)c(O)cc(O)c12	VirtuousSweetBitter
+5280666	Bitter	COc1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O	VirtuousSweetBitter
+5280759	Bitter	O=C(O)/C=C/c1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+5280863	Bitter	O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5280906	Bitter	C/C=C1/C[C@@H](C)[C@@](C)(O)C(=O)OCC2=CCN3CC[C@@H](OC1=O)[C@@H]23	VirtuousSweetBitter
+5280934	Bitter	CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O	VirtuousSweetBitter
+5280961	Bitter	O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12	VirtuousSweetBitter
+5281072	Bitter	CC[C@@H](CO)NC(=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1.O=C(O)/C=C\C(=O)O	VirtuousSweetBitter
+5281149	Bitter	C=C[C@@H](O)C#CC#CC/C=C\CCCCCCC	VirtuousSweetBitter
+5281157	Bitter	O=C(/C=C/c1ccc(O)cc1)Nc1ccc(O)cc1C(=O)O	VirtuousSweetBitter
+5281318	Bitter	CC(C)(O)/C=C/C(=O)[C@](C)(O)[C@H]1[C@H](O)C[C@@]2(C)[C@@H]3CC=C4[C@@H](C[C@H](O)C(=O)C4(C)C)[C@]3(C)C(=O)C[C@]12C	VirtuousSweetBitter
+5281321	Bitter	CC(C)(O)/C=C/C(=O)[C@](C)(O)[C@H]1[C@H](O)C[C@@]2(C)[C@@H]3CC=C4[C@@H](C=C(O)C(=O)C4(C)C)[C@]3(C)C(=O)C[C@]12C	VirtuousSweetBitter
+5281377	Bitter	O=c1c(-c2ccc(O)cc2)coc2cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)cc(O)c12	VirtuousSweetBitter
+5281404	Bitter	Cc1nccc2c1[nH]c1ccccc12	VirtuousSweetBitter
+5281417	Bitter	O=c1ccc2cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)cc2o1	VirtuousSweetBitter
+5281426	Bitter	O=c1ccc2ccc(O)cc2o1	VirtuousSweetBitter
+5281428	Bitter	C=C1CC[C@H]2C(=C)C(=O)O[C@@H]2/C=C(\C)CC[C@H]1O	VirtuousSweetBitter
+5281435	Bitter	C=C1C(=O)O[C@@H]2/C=C(\CO)CC/C=C(\C)C[C@H](OC(=O)C(=C)[C@@H](O)CO)[C@@H]12	VirtuousSweetBitter
+5281544	Bitter	C/C=C1/[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)OC=C(C(=O)OC)[C@H]1CC(=O)OCCc1ccc(O)c(O)c1	VirtuousSweetBitter
+5281607	Bitter	O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5281610	Bitter	O=c1c(O)c(-c2ccccc2O)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5281611	Bitter	O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)ccc12	VirtuousSweetBitter
+5281614	Bitter	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)ccc12	VirtuousSweetBitter
+5281617	Bitter	COc1cc(O)c2c(=O)cc(-c3ccc(O)cc3)oc2c1	VirtuousSweetBitter
+5281654	Bitter	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O	VirtuousSweetBitter
+5281670	Bitter	O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5281672	Bitter	O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5281680	Bitter	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)c(O)c(O)c12	VirtuousSweetBitter
+5281697	Bitter	O=c1cc(-c2ccc(O)cc2)oc2cc(O)c(O)c(O)c12	VirtuousSweetBitter
+5281701	Bitter	O=c1cc(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5281707	Bitter	O=c1oc2cc(O)ccc2c2oc3cc(O)ccc3c12	VirtuousSweetBitter
+5281708	Bitter	O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12	VirtuousSweetBitter
+5281804	Bitter	COc1cc(O)c2c(=O)c(-c3ccc(O)cc3)coc2c1	VirtuousSweetBitter
+5281955	Bitter	CCCCCCCC/C=C/CCCCCCCC(=O)OCCOCC(OCCO)C1OCC(OCCO)C1OCCO	VirtuousSweetBitter
+5282073	Bitter	O=c1cc(-c2ccc(O)cc2)oc2cc(O)ccc12	VirtuousSweetBitter
+5282102	Bitter	O=c1c(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5282109	Bitter	CC(C)=CCC/C(C)=C/COC=O	VirtuousSweetBitter
+5282136	Bitter	O=C(C[S+]([O-])Cc1ccco1)NCC=CCOc1cc(CN2CCCCC2)ccn1	VirtuousSweetBitter
+5282197	Bitter	CC(C)=CCC/C(C)=C/CC/C(=C/CC/C(C)=C/CO)CO	VirtuousSweetBitter
+5282362	Bitter	O=C(/C=C/c1ccccc1)c1ccc(O)cc1	VirtuousSweetBitter
+5282409	Bitter	CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1.O=C(O)/C=C\C(=O)O	VirtuousSweetBitter
+5283266	Bitter	CCCCC/C=C\C/C=C\CCCCCCCC(=O)CC(O)COC(C)=O	VirtuousSweetBitter
+5283363	Bitter	CCCCCCCCCC/C=C/C=O	VirtuousSweetBitter
+5283468	Bitter	CCCCCCCC/C=C\CCCCCCCC(=O)OCC(O)CO	VirtuousSweetBitter
+5283469	Bitter	CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC(O)CO	VirtuousSweetBitter
+5284346	Bitter	O.O.[Ba+2].[Cl-].[Cl-]	VirtuousSweetBitter
+5284359	Bitter	[Ca+2].[Cl-].[Cl-]	VirtuousSweetBitter
+5284443	Bitter	CNC[C@H](O)c1cccc(O)c1.Cl	VirtuousSweetBitter
+5284627	Bitter	CC1(C)O[C@@H]2[C@@H](CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@@H]23)O1	VirtuousSweetBitter
+5284648	Bitter	O=c1c(-c2ccc(O)c(O)c2)coc2cc(O)ccc12	VirtuousSweetBitter
+5284649	Bitter	O=c1c(-c2ccc(O)cc2)coc2cc(O)c(O)cc12	VirtuousSweetBitter
+5315831	Bitter	CC(=O)OC[C@H]1O[C@@H](Oc2cc(O)c3c(=O)c(-c4ccc(O)cc4)coc3c2)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+5315832	Bitter	O=C(/C=C/c1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(O)C1O	VirtuousSweetBitter
+5315892	Bitter	OC/C=C/c1ccccc1	VirtuousSweetBitter
+5317238	Bitter	CCOC(=O)/C=C/c1ccc(O)c(O)c1	VirtuousSweetBitter
+5317284	Bitter	COc1c(O)cc2oc(-c3ccc(O)c(O)c3)cc(=O)c2c1O	VirtuousSweetBitter
+5317750	Bitter	COc1cc2c(=O)c(-c3ccc(O)cc3)coc2cc1O	VirtuousSweetBitter
+5318517	Bitter	C=C1CC[C@@H]2[C@](C)(CO)[C@H](O)CC[C@@]2(C)[C@@H]1C/C=C1/C(=O)OC[C@H]1O	VirtuousSweetBitter
+5319562	Bitter	COC(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+5319879	Bitter	CCCCCCCC/C=C\CCCCCCCC(=O)OC(CO)CO	VirtuousSweetBitter
+5322064	Bitter	O=c1cc(-c2ccccc2O)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+5322065	Bitter	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)ccc12	VirtuousSweetBitter
+5323592	Bitter	CCC(C)C(=O)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1O	VirtuousSweetBitter
+5353547	Bitter	CC(=O)OC(C)(C)/C=C/C(=O)C(C)(O)C1C(O)CC2(C)C3CC=C4C(C=C(O)C(=O)C4(C)C)C3(C)C(=O)CC12C	VirtuousSweetBitter
+5354883	Bitter	O=COC/C=C/c1ccccc1	VirtuousSweetBitter
+5355853	Bitter	CCC(=O)OC/C=C(\C)CCC=C(C)C	VirtuousSweetBitter
+5357070	Bitter	CC(C)c1ccc(/C=N\O)cc1	VirtuousSweetBitter
+5359422	Bitter	CN1CC[C@]23c4c5ccc(OCCN6CCOCC6)c4O[C@H]2[C@@H](O)C=CC3[C@H]1C5	VirtuousSweetBitter
+5360315	Bitter	[Cl-].[Cl-].[Mg+2]	VirtuousSweetBitter
+5360696	Bitter	COc1ccc2c(c1)[C@]13CCCC[C@@H]1[C@H](C2)N(C)CC3	VirtuousSweetBitter
+5362830	Bitter	CC(C)=CCC/C(C)=C/COC(=O)CC(C)C	VirtuousSweetBitter
+5370611	Bitter	CC(C(O)c1ccccc1)N(C)C/C=C/c1ccccc1	VirtuousSweetBitter
+5376891	Bitter	O=c1c(-c2ccccc2)coc2cc(O)ccc12	VirtuousSweetBitter
+5388962	Bitter	CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O	VirtuousSweetBitter
+5447130	Bitter	NC(=O)N/N=C/c1ccc([N+](=O)[O-])o1	VirtuousSweetBitter
+5458201	Bitter	C=C1C(=O)O[C@@H]2/C=C(/C)CC/C=C(/C)CC[C@@H]12	VirtuousSweetBitter
+5462438	Bitter	CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1CC1=C2C=C(OC)C(=O)C=C2CCN1	VirtuousSweetBitter
+5463863	Bitter	COc1ccc2c(c1OC)[C@]13CCN(C)[C@H](C2)[C@]1(O)CC[C@@H](O)C3	VirtuousSweetBitter
+5464110	Bitter	CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5.Cl	VirtuousSweetBitter
+5464155	Bitter	CCOCc1c(O)c(C(=O)O)c(C)c2c1OC(=O)c1c(C)cc(O)c(C=O)c1O2	VirtuousSweetBitter
+5466139	Bitter	O=c1c(-c2ccc(O)cc2)coc2c(O)c(O)ccc12	VirtuousSweetBitter
+5488630	Bitter	COC1=CC=C2Nc3cc(Cl)ccc3C(N=C3C=C(CN4CCCC4)C(=O)C(CN4CCCC4)=C3)=C2N1.O=P(O)(O)O.O=P(O)(O)O.O=P(O)(O)O.O=P(O)(O)O	VirtuousSweetBitter
+5492722	Bitter	Cc1ccc2c(c1)[C@]13CCCC[C@@H]1[C@@H](C2)N(C)CC3.O=P(O)(O)O	VirtuousSweetBitter
+5702160	Bitter	NC(N)=Nc1nc(CSCC/C(N)=N/S(N)(=O)=O)cs1	VirtuousSweetBitter
+5811533	Bitter	O=C(/C=C/c1ccccc1O)c1ccc(O)cc1O	VirtuousSweetBitter
+5980988	Bitter	O=C(/C=C/c1ccc(O)cc1)c1cc(O)ccc1O	VirtuousSweetBitter
+6168296	Bitter	COc1cc(/C=C/C(=O)OC2OC(CO)C(O)C(O)C2O)cc(OC)c1O	VirtuousSweetBitter
+6336573	Bitter	CC(CS)C(=O)N1CCC[C@@]1(C(=O)O)C(=O)[C@@H](C)NC(=O)C1CCCCC1.CC(CS)C(=O)N1CCC[C@@]1(C(=O)O)C(=O)[C@@H](C)NC(=O)C1CCCCC1.[Ca]	VirtuousSweetBitter
+6426944	Bitter	N[C@H](Cc1c[nH]c2ccccc12)C(=O)N[C@H](Cc1c[nH]c2ccccc12)C(=O)O	VirtuousSweetBitter
+6427001	Bitter	CC(C)C[C@H](NC(=O)[C@H](N)Cc1c[nH]c2ccccc12)C(=O)O	VirtuousSweetBitter
+6433476	Bitter	CC(=O)OC(C)(C)/C=C/C(=O)[C@](C)(O)C1[C@H](O)C[C@@]2(C)[C@@H]3CC=C4[C@@H](C[C@H](O)C(=O)C4(C)C)[C@]3(C)C(=O)C[C@]12C	VirtuousSweetBitter
+6435825	Bitter	CCCOC(=O)/C=C\c1ccco1	VirtuousSweetBitter
+6436032	Bitter	CC(C)=CCC/C(C)=C/CC/C(C)=C/CN1CCN(Cc2ccc3c(c2)OCO3)CC1	VirtuousSweetBitter
+6436239	Bitter	C=C[C@H](O)C#CC#C[C@@H](O)/C=C\CCCCCCC	VirtuousSweetBitter
+6436532	Bitter	CCC1OC(=O)C(C)C(=O)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)CC(C)C(=O)/C=C\C1(C)O	VirtuousSweetBitter
+6437604	Bitter	O=C(/C=C/c1ccccc1)O[C@H]1CCN2C[C@@H]3C[C@@H](CN4C(=O)CCC[C@H]34)[C@@H]2C1	VirtuousSweetBitter
+6443019	Bitter	O=C(/C=C/c1ccc(O)cc1)Nc1ccccc1C(=O)O	VirtuousSweetBitter
+6452133	Bitter	COc1cc(C=O)ccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+6473881	Bitter	C=C1C(=O)O[C@H]2[C@H]1CC/C(C)=C/CC[C@@]1(C)O[C@@H]21	VirtuousSweetBitter
+6526396	Bitter	COCC1=C(C(=O)OC(C)OC(=O)OC(C)C)N2C(=O)[C@@H](NC(=O)/C(=N\OC)c3csc(N)n3)[C@H]2SC1	VirtuousSweetBitter
+6536825	Bitter	CC(O)C(=O)[O-].CC(O)C(=O)[O-].[Mg+2]	VirtuousSweetBitter
+6603838	Bitter	CC[C@@H]1CN2CCc3cc(OC)c(OC)cc3[C@H]2C[C@@H]1C[C@@H]1NCCc2cc(OC)c(OC)cc21	VirtuousSweetBitter
+6850740	Bitter	C/C=C/c1ccc(OC)cc1.C=CCc1ccc(OC)cc1.CC12CCC(C1)C(C)(C)C2=O	VirtuousSweetBitter
+6918840	Bitter	C=C1C[C@@]23CC[C@H]4[C@@](C)(CCC[C@@]4(C)C(=O)O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H]2CC[C@]1(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C3	VirtuousSweetBitter
+6951076	Bitter	O=C1N[C@@H](Cc2ccccc2)C(=O)N[C@H]1CO	VirtuousSweetBitter
+6992261	Bitter	CC(C)[C@@H]1NC(=O)[C@@H]2CCCN2C1=O	VirtuousSweetBitter
+7074739	Bitter	CC(C)C[C@@H]1NC(=O)[C@@H]2CCCN2C1=O	VirtuousSweetBitter
+7075896	Bitter	CC(C)[C@@H]1NC(=O)[C@H](C(C)C)NC1=O	VirtuousSweetBitter
+7076347	Bitter	CC(C)C[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC1=O	VirtuousSweetBitter
+7076549	Bitter	O=C1CNC(=O)[C@H](Cc2ccccc2)N1	VirtuousSweetBitter
+7098673	Bitter	C=CC/C(=N\OS(=O)(=O)O)S[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+7408474	Bitter	C[C@@H]1NC(=O)CNC1=O	VirtuousSweetBitter
+7855578	Bitter	CC(C)[C@@H]1NC(=O)[C@@H](C)NC1=O	VirtuousSweetBitter
+9552079	Bitter	NC(=NCCCCCCN=C(N)/N=C(\N)Nc1ccc(Cl)cc1)/N=C(\N)Nc1ccc(Cl)cc1	VirtuousSweetBitter
+9568512	Bitter	CC(=O)Nc1ccc(/C=N/NC(N)=S)cc1	VirtuousSweetBitter
+9576240	Bitter	C=C[C@H](O)C/C(=N\OS(=O)(=O)O)SC1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+9601691	Bitter	O=S(=O)(O)O/N=C(\Cc1c[nH]c2ccccc12)SC1OC(CO)C(O)C(O)C1O	VirtuousSweetBitter
+9799506	Bitter	COc1cc2c(c(O)c1C(=O)/C=C/c1ccc(O)cc1)CC(O)C(C)(C)O2	VirtuousSweetBitter
+9809601	Bitter	C=C1C[C@@]23CCC4[C@@](C)(CCC[C@@]4(C)C(=O)O)C2CC[C@]1(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C3	VirtuousSweetBitter
+9832662	Bitter	C/C=C(\C)C(=O)O[C@@H]1C[C@H]2[C@@H](CC=C3C[C@@H](O[C@H]4C[C@H](OC)C(O[C@H]5C[C@H](OC)[C@H](O[C@@H]6O[C@H](C)[C@@H](O)[C@H](OC)[C@H]6O)[C@@H](C)O5)[C@@H](C)O4)CC[C@@]32C)[C@]2(O)CC[C@H](C(C)=O)[C@@]12C	VirtuousSweetBitter
+9858729	Bitter	CCCCC[C@H](O)[C@@H](O)/C=C/[C@@H](O)CCCCCCCC(=O)O	VirtuousSweetBitter
+9861088	Bitter	O=C(/C=C/c1ccc(O)c(O)c1)Nc1ccccc1C(=O)O	VirtuousSweetBitter
+9909740	Bitter	CCC(C)C(=O)C1=C(O)C(CC=C(C)C)=C(O)C(CC=C(C)C)(CC=C(C)C)C1=O	VirtuousSweetBitter
+9929676	Bitter	CCCCC/C=C\C/C=C\CCCCC/C=C/C(=O)CC(O)COC(C)=O	VirtuousSweetBitter
+9970764	Bitter	CC1=C2C(=O)C=C(CO)[C@@H]2[C@H]2OC(=O)[C@@H](C)[C@@H]2[C@@H](O)C1	VirtuousSweetBitter
+9986341	Bitter	CC1(C)CC[C@]2(C(=O)O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1	VirtuousSweetBitter
+10058590	Bitter	CCCCCC(=O)N[C@H]1CCOC1=O	VirtuousSweetBitter
+10087955	Bitter	COc1cc(/C=C/C(=O)Nc2ccc(O)cc2C(=O)O)ccc1O	VirtuousSweetBitter
+10245047	Bitter	COc1cc(/C=C/C(=O)Nc2ccccc2C(=O)O)ccc1O	VirtuousSweetBitter
+10317069	Bitter	C=C(C)C(O)Cc1c(O)cc(OC)c(C(=O)/C=C/c2ccc(O)cc2)c1O	VirtuousSweetBitter
+10338075	Bitter	COc1cc2c(c(O)c1C(=O)/C=C/c1ccc(O)cc1)C=CC(C)(C)O2	VirtuousSweetBitter
+10422228	Bitter	CC1=C2[C@H]3OC(=O)[C@@H](C)[C@@H]3CC[C@@]2(C)[C@H](O)CC1	VirtuousSweetBitter
+10866255	Bitter	N#[11C][S-].[Na+]	VirtuousSweetBitter
+10947890	Bitter	COc1cc(/C=C/C(=O)Nc2ccccc2C(=O)O)cc(OC)c1O	VirtuousSweetBitter
+11024779	Bitter	COc1cc(/C=C/C(=O)Nc2ccc(O)cc2C(=O)O)cc(OC)c1O	VirtuousSweetBitter
+11046840	Bitter	COc1ccc(/C=C/C(=O)c2c(OC)cc3c(c2O)CCC(C)(C)O3)cc1	VirtuousSweetBitter
+11175902	Bitter	CC(C)=CCC(=O)[C@@]1(O)C(O)=C(C(=O)CC(C)C)C(=O)[C@H]1CC=C(C)C	VirtuousSweetBitter
+11182062	Bitter	Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@@H](O)[C@@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@@H](O)[C@@H]2c1c(O)cc(O)c2c1O[C@H](c1ccc(O)c(O)c1)[C@@H](O)C2	VirtuousSweetBitter
+11258152	Bitter	COc1cc(O)c(CC(O)C(C)(C)OC)c(O)c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+11469920	Bitter	CC(C)CCCCCCC/C=C\C(=O)O	VirtuousSweetBitter
+11566620	Bitter	CC(C)C(=O)c1c(O)cc(O)cc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+11722138	Bitter	CC(=O)OC[C@H]1OC(OC[C@H]2OC(O[C@]3(COC(C)=O)O[C@H](COC(C)=O)[C@@H](OC(C)=O)[C@@H]3OC(C)=O)[C@H](OC(C)=O)[C@@H](OC(C)=O)[C@@H]2OC(C)=O)[C@H](OC(C)=O)[C@@H](OC(C)=O)[C@H]1OC(C)=O	VirtuousSweetBitter
+11723200	Bitter	O=C(/C=C/c1ccc(O)c(O)c1)Nc1ccc(O)cc1C(=O)O	VirtuousSweetBitter
+11749558	Bitter	COc1cc(O)c(CC(O)C(C)(C)O)c(O)c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+11808090	Bitter	C=C1C(=O)O[C@@H]2[C@H]3O[C@@H](O)CC[C@]3(C)CC(=O)CC[C@@H]12	VirtuousSweetBitter
+11902953	Bitter	C[C@H]1NC(=O)[C@@H]2CCCN2C1=O	VirtuousSweetBitter
+11920271	Bitter	C=C[C@H]1CN2CC[C@@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12	VirtuousSweetBitter
+11937742	Bitter	C[C@@H](O)[C@@H]1NC(=O)[C@@H]2CCCN2C1=O	VirtuousSweetBitter
+11953937	Bitter	C=C1C(=O)O[C@@H]2/C=C(/C)[C@@H](O)C/C=C(\C)C[C@H](OC(=O)/C(C)=C\C)[C@@H]12	VirtuousSweetBitter
+11992452	Bitter	O=c1c(-c2ccc(O)cc2)coc2cc(OC3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc12	VirtuousSweetBitter
+12072107	Bitter	C[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC1=O	VirtuousSweetBitter
+12255414	Bitter	CC(C)C(C=O)c1ccccc1	VirtuousSweetBitter
+12310637	Bitter	CC(C)=CCC1(CC=C(C)C)C(=O)C(O)=C(O)C1=O	VirtuousSweetBitter
+12343877	Bitter	COC(=O)/C=C\c1ccc(O)cc1	VirtuousSweetBitter
+12445012	Bitter	C=C1[C@@H]2[C@H]3OC(=O)C(=C)[C@@H]3CCC(=C)[C@@H]2C[C@@H]1OC(C)=O	VirtuousSweetBitter
+12581242	Bitter	O/N=C/C1=CCCOC1	VirtuousSweetBitter
+12719326	Bitter	CCOC(=O)/C=C\c1ccc(O)cc1	VirtuousSweetBitter
+12986068	Bitter	COc1cc(O)c2c(c1C(=O)/C=C/c1ccc(O)cc1)OC(C(C)(C)O)C2	VirtuousSweetBitter
+13654640	Bitter	CC[C@H](C)[C@@H]1NC(=O)[C@@H]2CCCN2C1=O	VirtuousSweetBitter
+13783105	Bitter	CC(C)[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC1=O	VirtuousSweetBitter
+13783106	Bitter	CC(C)[C@@H]1NC(=O)[C@H](C)NC1=O	VirtuousSweetBitter
+13783108	Bitter	C[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC1=O	VirtuousSweetBitter
+13879946	Bitter	CC(C)C[C@@H]1NC(=O)[C@H](C)NC1=O	VirtuousSweetBitter
+13879951	Bitter	C[C@@H]1NC(=O)[C@@H]2CCCN2C1=O	VirtuousSweetBitter
+13889982	Bitter	C=C1C(=O)O[C@@H]2C[C@@](C)(CCCC(C)=O)C(=O)C[C@H]12	VirtuousSweetBitter
+13895607	Bitter	C=C1CC[C@H]2C(=C)C(=O)O[C@@H]2/C=C(\C)CC[C@H]1OO	VirtuousSweetBitter
+13941336	Bitter	COc1cc2c(c3c1C(=O)CC(c1ccc(O)cc1)O3)CCC(C)(C)O2	VirtuousSweetBitter
+14056365	Bitter	C/C=C/c1cc(OC)ccc1OC(=O)C(C)CC	VirtuousSweetBitter
+14148199	Bitter	C=CCC1(C(C)CCC)C(=O)[N-]C(=O)NC1=O.[Na+]	VirtuousSweetBitter
+14162557	Bitter	CC1(C)CC[C@]2(C(=O)O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O[C@@H]6O[C@H](C(=O)O)[C@@H](O)[C@H](O[C@@H]7OC[C@@H](O)[C@H](O)[C@H]7O)[C@H]6O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]2C1	VirtuousSweetBitter
+14162699	Bitter	O=C(O)CC(=O)OC[C@H]1O[C@@H](Oc2c(-c3ccc(O)cc3)oc3cc(O)cc(O)c3c2=O)[C@H](O)[C@@H](O)[C@@H]1O	VirtuousSweetBitter
+14191260	Bitter	C=C1C(=O)O[C@H]2CC(=C)[C@H](O)CC/C(C)=C/[C@@H](O)[C@H]12	VirtuousSweetBitter
+14409732	Bitter	NC(Cc1c[nH]c2ccccc12)C(=O)N1CCCC1C(=O)O	VirtuousSweetBitter
+14466151	Bitter	C=C1C(=O)O[C@H]2/C=C(\C)[C@@H](O)CC/C(C)=C/[C@@H](O)[C@H]12	VirtuousSweetBitter
+15558357	Bitter	CCC(C)C(=O)C1C(=O)C(=O)C(CC=C(C)C)(CC=C(C)C)C1=O	VirtuousSweetBitter
+15593124	Bitter	O=C(O[C@@H]1Cc2c(O)cc(O)c([C@H]3c4c(O)cc(O)cc4O[C@H](c4ccc(O)c(O)c4)[C@@H]3O)c2O[C@@H]1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+15730308	Bitter	O=C(CCc1ccc(O)c(O)c1)NCCCCNCCCNC(=O)CCc1ccc(O)c(O)c1	VirtuousSweetBitter
+15959354	Bitter	O=c1c(O[C@@H]2C[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	VirtuousSweetBitter
+16202215	Bitter	C=C1C(=O)[C@]23C[C@H]1CC[C@H]2[C@@]12CO[C@]3(O)[C@@H](O)[C@@H]1C(C)(C)C=CC2=O	VirtuousSweetBitter
+16204529	Bitter	C=C(C)CCCC(C)CCOC(=O)CC(C)C	VirtuousSweetBitter
+16204922	Bitter	CC(=O)CC(c1ccccc1)c1c([O-])c2ccccc2oc1=O.[Na+]	VirtuousSweetBitter
+19908724	Bitter	O=C1NS(=O)(=O)c2c1cccc2[N+](=O)[O-]	VirtuousSweetBitter
+20846485	Bitter	CN(C)C(=N)N=C(N)N.O=C(O)CC(O)(CC(=O)O)C(=O)O	VirtuousSweetBitter
+21575008	Bitter	C[C@H]1CC[C@@]2(OC1)O[C@H]1C[C@H]3[C@@H]4CC[C@@H]5C[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O[C@@H]7OC[C@H](O)[C@H](O)[C@H]7O)[C@H](O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]1[C@@H]2C	VirtuousSweetBitter
+21593623	Bitter	C=C1C[C@@]23CC[C@H]4[C@@](C)(CCC[C@@]4(C)C(=O)O)[C@@H]2CC[C@]1(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C3	VirtuousSweetBitter
+21594782	Bitter	CC(C)=CCC(=O)[C@]1(O)C(O)=C(C(=O)CC(C)C)C(=O)[C@H]1CC=C(C)C	VirtuousSweetBitter
+21594783	Bitter	CC(C)=CC[C@@H]1C(O)=C(C(=O)CC(C)C)C(=O)[C@H]1O	VirtuousSweetBitter
+22890058	Bitter	CC1(O)CC(N2CCCC2)=C(O)C1=O	VirtuousSweetBitter
+23250007	Bitter	COc1cc(O)c(CCC(C)(C)O)c(O)c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+23250008	Bitter	COc1c(CC=C(C)C)c(O)c(CC=C(C)C)c(O)c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+23251195	Bitter	COc1cc(O)c(CCC(C)(C)O)c2c1C(=O)CC(c1ccc(O)cc1)O2	VirtuousSweetBitter
+23251201	Bitter	COc1cc(O)c2ccoc2c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+23251203	Bitter	COc1cc(O)c2c(c1C(=O)/C=C/c1ccc(O)cc1)OC(C)(C)CC2	VirtuousSweetBitter
+23251204	Bitter	COc1cc(O)c2c(c1C(=O)/C=C/c1ccc(O)cc1)OC(C)(C)C(O)C2	VirtuousSweetBitter
+23665706	Bitter	O=S(=O)([O-])NC1CCCCC1.[Na+]	VirtuousSweetBitter
+23671932	Bitter	CN(C)C=Nc1c(I)cc(I)c(CCC(=O)[O-])c1I.[Na+]	VirtuousSweetBitter
+23674503	Bitter	O=S(=O)([O-])c1ccccc1O.[Na+]	VirtuousSweetBitter
+23674755	Bitter	O=S(=O)([O-])c1ccccc1OCO.[K+]	VirtuousSweetBitter
+23676152	Bitter	CCCC(C)C1(CC)C(=O)N=C([O-])NC1=O.[Na+]	VirtuousSweetBitter
+23681217	Bitter	CCC1(CC)C(=O)N=C([O-])NC1=O.[Na+]	VirtuousSweetBitter
+23683747	Bitter	CC1=CC([O-])=NS(=O)(=O)O1.[K+]	VirtuousSweetBitter
+23689390	Bitter	CCC1(CCC(C)C)C(=O)N=C([O-])NC1=O.[Na+]	VirtuousSweetBitter
+23690439	Bitter	CCC(C)C1(CC)C(=O)N=C([O-])NC1=O.[Na+]	VirtuousSweetBitter
+23690440	Bitter	CCCCCCC1(CC)C(=O)N=C([O-])NC1=O.[Na+]	VirtuousSweetBitter
+23691023	Bitter	C=C(Br)CC1(C(C)CC)C(=O)N=C([O-])NC1=O.[Na+]	VirtuousSweetBitter
+23900015	Bitter	O=C1OCc2cc3cccc(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)c3c(O)c21	VirtuousSweetBitter
+24191666	Bitter	CC/C=C(\C)C1(CC)C(=O)NC(=O)NC1=O.[Na]	VirtuousSweetBitter
+24196530	Bitter	Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.[Na]	VirtuousSweetBitter
+24197253	Bitter	CN1C(=O)NC(=O)C(C)(C2=CCCCC2)C1=O.[Na]	VirtuousSweetBitter
+24832100	Bitter	CCCCCCCCCCCCCCCCCC(=O)OCCOCC(OCCOC)C1OCC(OCCOC)C1OCCOC	VirtuousSweetBitter
+24832103	Bitter	C=C1[C@@H]2CC[C@@H](C2)[C@@]1(C)CC/C=C(/C)COC(C)=O.CC(=O)OC/C(C)=C\CC[C@]1(C)C2CC3[C@H](C2)C31C	VirtuousSweetBitter
+24882861	Bitter	C/C=C(\C)C(=O)O[C@@H]1C[C@H]2[C@@H](CC=C3C[C@@H](O)CC[C@@]32C)[C@@]2(O)CC[C@@H](C(C)=O)[C@@]12C	VirtuousSweetBitter
+25001841	Bitter	CC(C)CC(=O)c1c(O)c(C2O[C@H](CO)[C@H](O)[C@@H](O)[C@H]2O)c(O)c([C@@H]2O[C@H](CO)[C@H](O)[C@@H](O)[C@H]2O)c1O	VirtuousSweetBitter
+25200812	Bitter	O=C(C=Cc1ccc(O)c(O)c1)c1c(O)cc(O)cc1O	VirtuousSweetBitter
+25220884	Bitter	CC(C)C[C@@H]1NC(=O)[C@H](C(C)C)NC1=O	VirtuousSweetBitter
+38361768	Bitter	CC(=O)OC[C@@]12[C@H](O)C[C@@H](C)[C@]3(C[C@@H](c4ccoc4)OC3=O)[C@H]1C[C@H](O)C[C@]21CO1	VirtuousSweetBitter
+44201359	Bitter	CC(C)=CCC(=O)[C@@]1(O)C(O)=C(C(=O)C(C)C)C(=O)[C@H]1CC=C(C)C	VirtuousSweetBitter
+44274566	Bitter	COC(C)C1=CCC=C(/C=N/O)C1	VirtuousSweetBitter
+44274567	Bitter	COC(C)C1CCC=C(/C=N/O)C1	VirtuousSweetBitter
+44274588	Bitter	COCC(C)(O)C1CC=C(/C=N/O)CC1	VirtuousSweetBitter
+44398561	Bitter	N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O	VirtuousSweetBitter
+44457658	Bitter	COCC1CCC=C(/C=N/O)C1	VirtuousSweetBitter
+44457711	Bitter	COC(C)(CO)C1CC=C(/C=N/O)CC1	VirtuousSweetBitter
+44457736	Bitter	COCC(C)(OC)C1CC=C(/C=N/O)CC1	VirtuousSweetBitter
+44457737	Bitter	O/N=C/C1=CCSCC1	VirtuousSweetBitter
+44457738	Bitter	O/N=C/C1=CCOCC1	VirtuousSweetBitter
+44457739	Bitter	CC(O)(CO)C1CC=C(/C=N/O)CC1	VirtuousSweetBitter
+44457740	Bitter	O/N=C/C1=CC2C=CC1CC2	VirtuousSweetBitter
+45360231	Bitter	C=C1[C@@H](OC(C)=O)C[C@H]2[C@H](C)C(=O)O[C@@H]2/C=C(\C)CC[C@H]1OC(C)=O	VirtuousSweetBitter
+46173916	Bitter	C[C@@H](CC[C@@]1(O)O[C@H]2C[C@H]3[C@@H]4CC=C5C[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]2[C@@H]1C)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+46849638	Bitter	O=Cc1ccc2n1C[C@]1(C[C@H](O)[C@H](O)CO1)OC2	VirtuousSweetBitter
+46849639	Bitter	O=Cc1ccc2n1C[C@]1(C[C@H](O)[C@@H](CO)O1)OC2	VirtuousSweetBitter
+54676038	Bitter	O=c1oc2ccccc2c(O)c1Cc1c(O)c2ccccc2oc1=O	VirtuousSweetBitter
+54685047	Bitter	C=C1c2cccc(O)c2C(O)=C2C(=O)[C@]3(O)C(O)=C(C(N)=O)C(=O)[C@@H](N(C)C)[C@@H]3[C@@H](O)[C@H]12.Cl	VirtuousSweetBitter
+54685524	Bitter	CCOC(=O)C(c1c(O)c2ccccc2oc1=O)c1c(O)c2ccccc2oc1=O	VirtuousSweetBitter
+56929107	Bitter	CC(C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC1=O	VirtuousSweetBitter
+56968444	Bitter	CCCCC/C=C/CCCCCCCC(=O)CC(O)COC(C)=O	VirtuousSweetBitter
+56968446	Bitter	C=CCCCCCCCCCCCC(=O)CC(O)COC(C)=O	VirtuousSweetBitter
+56968447	Bitter	CCCCCCCCCCCCCC(=O)CC(O)COC(C)=O	VirtuousSweetBitter
+57380330	Bitter	CCC(C)C(=O)C1=C(O)C2(CC=C(C)C)C[C@H]3C(C)(C)[C@@H](C(C)(C)O)C[C@@]3(C1=O)C2=O	VirtuousSweetBitter
+57387219	Bitter	O=Cc1ccc2n1C[C@@]1(C[C@H](O)[C@@H](CO)O1)OC2	VirtuousSweetBitter
+58473841	Bitter	CC(C)=CCC(=O)[C@]1(O)C(O)=C(C(=O)C(C)C)C(=O)[C@H]1CC=C(C)C	VirtuousSweetBitter
+60208888	Bitter	C=C1C[C@@]23CC[C@H]4[C@@](C)(CCC[C@@]4(C)C(=O)O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H]2CC[C@]1(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H]1O[C@@H]1O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O)C3	VirtuousSweetBitter
+66810024	Bitter	CC(C)=CCC1C(O)=C(C(=O)CC(C)C)C(=O)[C@@H]1O	VirtuousSweetBitter
+67117572	Bitter	CC1CC(N2CCCC2)=C(N2CCCC2)C1=O	VirtuousSweetBitter
+67117575	Bitter	CC1CC2=C(NCCC=C2)C1=O	VirtuousSweetBitter
+67117586	Bitter	CC1(O)CC(N2CCCC2)=C(N2CCCC2)C1=O	VirtuousSweetBitter
+71359704	Bitter	CC[C@H](C)[C@@H]1NC(=O)[C@H](C)NC1=O	VirtuousSweetBitter
+71437252	Bitter	C=C(CO)C(=O)OC1CC(=C)C2CC(=O)C(=C)C2C2OC(=O)C(=C)C12	VirtuousSweetBitter
+71508173	Bitter	C[C@H](CC[C@@]1(O)O[C@H]2C[C@H]3[C@@H]4CC=C5C[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O[C@@H]7O[C@@H](C)[C@H](O)[C@@H](O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]5(C)[C@H]4CC[C@]3(C)[C@H]2[C@@H]1C)CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+71581001	Bitter	C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]3CC[C@@]4(C)C(=CC[C@H]5[C@@H]6C[C@@H]7O[C@]8(CC[C@@](C)(CO[C@@H]9O[C@H](CO)[C@@H](O)[C@H](O)[C@H]9O)O8)[C@@H](C)[C@@H]7[C@@]6(C)CC[C@@H]54)C3)O[C@H](CO)[C@@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+71581002	Bitter	C[C@@H]1O[C@@H](O[C@H]2[C@H](O[C@H]3CC[C@@]4(C)C(=CC[C@H]5[C@@H]6C[C@@H]7O[C@]8(CC[C@@](C)(CO[C@@H]9O[C@H](CO)[C@@H](O)[C@H](O)[C@H]9O)O8)[C@@H](C)[C@@H]7[C@@]6(C)CC[C@@H]54)C3)O[C@H](CO)[C@@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@H]3O)[C@@H]2O)[C@H](O)[C@H](O)[C@H]1O	VirtuousSweetBitter
+71773169	Bitter	C=C1C[C@@]23CC[C@H]4[C@@](C)(CCC[C@@]4(C)C(=O)O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H]2CC[C@]1(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C3	VirtuousSweetBitter
+72193635	Bitter	O=C(O[C@H]1Cc2c(O)cc(O)c([C@H]3c4c(O)cc(O)cc4O[C@H](c4ccc(O)c(O)c4)[C@@H]3O)c2O[C@@H]1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1	VirtuousSweetBitter
+72941582	Bitter	C=C1C[C@@]23CC[C@H]4[C@@](C)(CCC[C@@]4(C)C(=O)O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H]2CC[C@]1(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O)C3	VirtuousSweetBitter
+88879608	Bitter	CCCCC/C=C\C/C=C\CCCCCCCC(O)CC(O)COC(C)=O	VirtuousSweetBitter
+90474440	Bitter	CC(=O)O[C@H]1C[C@H]2[C@H](C)C(=O)O[C@@H]2/C=C(/C)CC/C=C\1C	VirtuousSweetBitter
+91064206	Bitter	COc1cc(O)c(CC=C(C)C)c(O)c1	VirtuousSweetBitter
+91735406	Bitter	CCOC(=O)/C=C/c1ccc(O[Si](C)(C)C)c(O[Si](C)(C)C)c1	VirtuousSweetBitter
+92131208	Bitter	OC[C@H]1OC(Oc2cc3c(O)cc(O)cc3[o+]c2-c2ccc(O)c(O)c2)[C@H](O)[C@H](O)C1O	VirtuousSweetBitter
+92253767	Bitter	CC[C@H](C)C(=O)C1=C(O)[C@](O)(C(=O)CC=C(C)C)[C@H](CC=C(C)C)C1=O	VirtuousSweetBitter
+92253768	Bitter	CC[C@H](C)C(=O)C1=C(O)[C@@](O)(C(=O)CC=C(C)C)[C@H](CC=C(C)C)C1=O	VirtuousSweetBitter
+97161248	Bitter	C=C1C(=O)O[C@@H]2[C@@H](O)[C@]3(C)CC[C@@H](OO)C(=CC[C@@H]12)C3	VirtuousSweetBitter
+101129992	Bitter	CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC1=O	VirtuousSweetBitter
+101245659	Bitter	C=C1C(=O)O[C@@H]2C3[C@H](C)C(=O)C[C@@H](O)[C@]3(C)CC[C@@H]12	VirtuousSweetBitter
+101256943	Bitter	C=C[C@H](C#CC#C[C@@H](O)/C=C\CCCCCCC)OC(C)=O	VirtuousSweetBitter
+101288298	Bitter	CC(=O)OC[C@@]12[C@H](O)C[C@@H](C)[C@]3(C[C@@H](c4ccoc4)O[C@@H]3O)[C@H]1CCC(=O)[C@@]21CO1	VirtuousSweetBitter
+101288299	Bitter	CC(=O)OCC1=C2[C@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C[C@@H](C)[C@]3(C[C@@H](c4ccoc4)OC3=O)[C@H]2CCC1	VirtuousSweetBitter
+101293615	Bitter	CC(C)=CC(O)C[C@@H](C)[C@H]1CC[C@@]2(C)[C@@H]3[C@@H](O)C=C4[C@@H](CC[C@H](O)C4(C)C)[C@]3(C=O)CC[C@]12C	VirtuousSweetBitter
+101337705	Bitter	CCC(C)C(=O)C1=C(O)[C@@](O)(CC=C(C)C)[C@@](O)(C(=O)CC=C(C)C)C1=O	VirtuousSweetBitter
+101337706	Bitter	CC(C)=CCC(=O)[C@@]1(O)C(=O)C(C(=O)C(C)C)=C(O)[C@@]1(O)CC=C(C)C	VirtuousSweetBitter
+101445018	Bitter	CC(C)[C@@H]1NC(=O)[C@@H](Cc2ccccc2)NC1=O	VirtuousSweetBitter
+101491236	Bitter	CC(C)=CCC12C[C@H]3C(C)(C)CC[C@@]3(C(=O)C(C(=O)C(C)C)=C1O)C2=O	VirtuousSweetBitter
+101491237	Bitter	CC(C)=CCC12C[C@H]3C(C)(C)CC[C@@]3(C(=O)C(C(=O)CC(C)C)=C1O)C2=O	VirtuousSweetBitter
+101491238	Bitter	CCC(C)C(=O)C1=C(O)C2(CC=C(C)C)C[C@H]3C(C)(C)CC[C@@]3(C1=O)C2=O	VirtuousSweetBitter
+101491239	Bitter	C=C(C)C1C[C@]23C(=O)C(C(=O)C(C)C)=C(O)C(CC=C(C)C)(C[C@H]2C1(C)C)C3=O	VirtuousSweetBitter
+101491240	Bitter	C=C(C)C1C[C@]23C(=O)C(C(=O)CC(C)C)=C(O)C(CC=C(C)C)(C[C@H]2C1(C)C)C3=O	VirtuousSweetBitter
+101491241	Bitter	C=C(C)C1C[C@]23C(=O)C(C(=O)C(C)CC)=C(O)C(CC=C(C)C)(C[C@H]2C1(C)C)C3=O	VirtuousSweetBitter
+101491242	Bitter	CC(C)=CCC12C[C@H]3C(C)(C)C(C(C)C)C[C@@]3(C(=O)C(C(=O)C(C)C)=C1O)C2=O	VirtuousSweetBitter
+101491243	Bitter	CC(C)=CCC12C[C@H]3C(C)(C)C(C(C)C)C[C@@]3(C(=O)C(C(=O)CC(C)C)=C1O)C2=O	VirtuousSweetBitter
+101491244	Bitter	CCC(C)C(=O)C1=C(O)C2(CC=C(C)C)C[C@H]3C(C)(C)C(C(C)C)C[C@@]3(C1=O)C2=O	VirtuousSweetBitter
+101723032	Bitter	O=C(CCc1ccc(O)c(O)c1)NCCCCN(CCCNC(=O)CCc1ccc(O)c(O)c1)C(=O)CCc1ccc(O)c(O)c1	VirtuousSweetBitter
+102004515	Bitter	C=C1[C@@H]2CC[C@H]3[C@@]45COC(O)([C@@H](O)[C@@H]4C(C)(C)C=CC5=O)[C@]3(C2)[C@@H]1OC(C)=O	VirtuousSweetBitter
+102161256	Bitter	CC(C)CC(=O)C1=C(O)[C@@]2(O)[C@H](C[C@H]3C(C)(C)[C@@H](C(C)(C)O)C[C@]32O)C1=O	VirtuousSweetBitter
+102161257	Bitter	C=C(C)[C@H]1C[C@]2(O)[C@@H](C[C@@H]3C(=O)C(C(=O)CC(C)C)=C(O)[C@@]32O)C1(C)C	VirtuousSweetBitter
+102161259	Bitter	CC(C)CC1=C2C(=O)[C@H]3C[C@@H](C(C)(C)O)[C@@]4(O)C[C@@H](C(C)(C)O1)[C@]2(O)[C@@]34O	VirtuousSweetBitter
+102161261	Bitter	CC(C)C1=C2C(=O)[C@H]3C[C@@H](C(C)(C)O)[C@@]4(O)C[C@@H](C(C)(C)O1)[C@]2(O)[C@@]34O	VirtuousSweetBitter
+102161264	Bitter	CC(C)C(=O)C1=C(O)[C@@]2(O)[C@H](C[C@H]3C(C)(C)[C@@H](C(C)(C)O)C[C@]32O)C1=O	VirtuousSweetBitter
+102161265	Bitter	C=C(C)[C@H]1C[C@]2(O)[C@@H](C[C@@H]3C(=O)C(C(=O)C(C)C)=C(O)[C@@]32O)C1(C)C	VirtuousSweetBitter
+102242109	Bitter	C=C1C(=O)O[C@@H]2[C@H]3C(COC(=O)C(=O)O)=CC(=O)C3=C(C)C[C@H](O)[C@@H]12	VirtuousSweetBitter
+102242110	Bitter	C=C1C(=O)O[C@@H]2[C@H]3C(COC(=O)C(=O)O)=CC(=O)C3=C(C)C[C@H](OC(=O)Cc3ccc(O)cc3)[C@@H]12	VirtuousSweetBitter
+102261321	Bitter	NC(=O)C[C@@H]1NC(=O)[C@H](Cc2ccccc2)NC1=O	VirtuousSweetBitter
+122225045	Bitter	O=Cc1ccc2n1C[C@@]1(C[C@H](O)[C@H](O)CO1)OC2	VirtuousSweetBitter
+122363508	Bitter	COC1=CC(=O)C(CC=C(C)C)(CC=C(C)C)C(=O)/C1=C(O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+122363509	Bitter	CC(C)=CCC1=C(O)C(CC=C(C)C)(CC=C(C)C)C(=O)C2=C1OC(c1ccc(O)cc1)CC2=O	VirtuousSweetBitter
+122363510	Bitter	CCOC(C)(C)CCc1c(O)cc(OC)c(C(=O)/C=C/c2ccc(O)cc2)c1O	VirtuousSweetBitter
+122363511	Bitter	CCOC(C)(C)CCc1c(O)cc(OC)c2c1OC(c1ccc(O)cc1)CC2=O	VirtuousSweetBitter
+122363512	Bitter	COc1c(CC=C(C)C)c(O)c2c(c1C(=O)/C=C/c1ccc(O)cc1)OC(C)(C)CC2	VirtuousSweetBitter
+122363513	Bitter	C=C(C)CCc1c(O)cc(OC)c(C(=O)/C=C/c2ccc(O)cc2)c1O	VirtuousSweetBitter
+122363514	Bitter	COc1cc(O)c(CCC(C)(C)OC)c(O)c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+122363515	Bitter	COc1cc(O)c(CCC(C)(C)OC)c2c1C(=O)CC(c1ccc(O)cc1)O2	VirtuousSweetBitter
+122363516	Bitter	CC(C)=CCc1c(O)c(O)c(O)c2c1OC(C)(C)CC2=O	VirtuousSweetBitter
+126550261	Bitter	CC(C)=CCC12C[C@H]3C(C)(C)C(C(C)(C)O)C[C@@]3(C(=O)C(C(=O)CC(C)C)=C1O)C2=O	VirtuousSweetBitter
+126558484	Bitter	CC(C)=CCC12C[C@H]3C(C)(C)C(C(C)(C)O)C[C@@]3(C(=O)C(C(=O)C(C)C)=C1O)C2=O	VirtuousSweetBitter
+132515677	Bitter	C=CCSC[C@@H](C(=O)O)N1Cc2ccc(C=O)n2[C@@H](CSCC=C)C1=O	VirtuousSweetBitter
+132515678	Bitter	O=Cc1ccc(CO)n1Cc1ccc(CO)o1	VirtuousSweetBitter
+132515679	Bitter	C=CCSC[C@@H]1C(=O)N([C@@H](CSCC=C)C(=O)O)Cc2ccc(C=O)n21	VirtuousSweetBitter
+132525141	Bitter	COc1cc(O)c(CC2OC2(C)C)c(O)c1C(=O)/C=C/c1ccc(O)cc1	VirtuousSweetBitter
+132546957	Bitter	CC(C)C[C@H](NC(=O)[C@@H](N)CCC(N)=O)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)N[C@H](C(=O)N[C@@H](CC(N)=O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@@H](CO)C(=O)N1CCC[C@H]1C(=O)O)[C@@H](C)O	VirtuousSweetBitter
