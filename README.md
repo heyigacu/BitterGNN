@@ -11,7 +11,8 @@ docker run -it my_image /bin/bash
 ```
 
 #### 2. run BitterGNN predictor
-``` 
+```
+python predictor.py -h
 python predictor.py -t 0 -m 0 -i test.csv -o result.csv
 ```
 
