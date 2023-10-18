@@ -1,0 +1,17 @@
+name: myenv
+channels:
+  - defaults
+  - dglteam
+  - rdkit
+dependencies:
+  - dgl
+  - dgllife
+  - joblib
+  - matplotlib
+  - numpy
+  - pandas
+  - Pillow
+  - rdkit
+  - Requests
+  - seaborn
+  - torchvision
