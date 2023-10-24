@@ -17,6 +17,9 @@ python predictor.py -t 0 -m 0 -i test.csv -o result.csv
 ```
 
 #### 3. repeat the job of the paper
-you can run compare_gnn.ipynb one by one to compare the performance of GNN 
+you can run compare_gnn.ipynb one by one to compare the performance of GNN \n
 you can run compare_taste_predictors.ipynb one by one to compare the performance of Bitter predicotrs
+
+
+## Supported by Graduate Innovation Fund of Jilin University (Project's number: 2022208)
 
