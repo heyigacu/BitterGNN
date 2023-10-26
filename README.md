@@ -1,3 +1,7 @@
+## BitterGNN
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10018600.svg)](https://doi.org/10.5281/zenodo.10018600)
+There are a new GNN (HGNN) and several Bitter predictors based on GNN in BitterGNN. 
+
 ## How to Use GNN
 #### 1. install environment 
 ##### if use pip
@@ -21,5 +25,7 @@ you can run compare_gnn.ipynb one by one to compare the performance of GNN \n
 you can run compare_taste_predictors.ipynb one by one to compare the performance of Bitter predicotrs
 
 
-## Supported by Graduate Innovation Fund of Jilin University (Project's number: 2022208)
+
+## Acknowledgments
+Supported by Graduate Innovation Fund of Jilin University (Project's number: 2022208)
 
