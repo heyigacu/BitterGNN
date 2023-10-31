@@ -4,7 +4,7 @@ There are a new GNN (HGNN) and several Bitter predictors based on GNN in BitterG
 
 ## How to Use GNN
 #### 1. install environment 
-##### if use pip
+##### if use pip (python >= 3.9)
 ``` 
 pip install requirements.txt
 ```
