@@ -5,7 +5,7 @@ We created a new GNN (HGNN, combined four modules including edge attention, GAT,
 
 ## How to Use HGNN
 #### 1. install environment 
-##### if use pip (python >= 3.9)
+##### if use pip (python >= 3.8)
 ``` 
 pip install requirements.txt
 ```
@@ -22,8 +22,9 @@ python predictor.py -t 0 -m 0 -i test.csv -o result.csv
 ```
 
 #### 3. repeat the job of the paper
-you can run compare_gnn.ipynb one by one to compare the performance of GNN
-you can run compare_taste_predictors.ipynb one by one to compare the performance of Bitter predicotrs
+you can run compare_gnn.ipynb one by one to compare the performance of HGNN with other mainstream GNNs.
+
+you can run compare_taste_predictors.ipynb one by one to compare the performance of BitterGNN predicotrs with other mainstream bitter predicotrs.
 
 
 
